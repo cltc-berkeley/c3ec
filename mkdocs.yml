@@ -1,0 +1,18 @@
+site_name: My Docs
+
+nav:
+    - Home: index.md
+    - Phishing:
+        - Setting up GoPhish on AWS: phishing/d1.md
+        - Using Gophish: phishing/d2.md
+    - LRO:
+        - Need for Cybersecurity: LRO/0-Introduction and TOC (README).md
+        - Common Cybersecurity Controls: LRO/2-Common Cybersecurity Controls.md
+    - Test:
+        - Staff:
+            - Steve: placeholder.md
+        - Students:
+            - Raj: raj.md
+
+theme:
+  name: 'material'
