@@ -1,6 +1,6 @@
 site_name: My Docs
-docs_dir: /markdown/
-site_dir: /site/
+docs_dir: markdown/
+site_dir: site/
 
 nav:
     - Home: index.md

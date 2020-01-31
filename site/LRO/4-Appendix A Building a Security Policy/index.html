@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>4 Appendix A Building a Security Policy - My Docs</title>
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="../..">My Docs</a>
+                </div>
+
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li >
+                                <a href="../..">Home</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Phishing <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../phishing/d1/">Setting up GoPhish on AWS</a>
+</li>
+                                    
+<li >
+    <a href="../../phishing/d2/">Using Gophish</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">LRO <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../0-Introduction and TOC (README)/">Need for Cybersecurity</a>
+</li>
+                                    
+<li >
+    <a href="../2-Common Cybersecurity Controls/">Common Cybersecurity Controls</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Test <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+  <li class="dropdown-submenu">
+    <a href="#">Staff</a>
+    <ul class="dropdown-menu">
+            
+<li >
+    <a href="../../placeholder.md">Steve</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#">Students</a>
+    <ul class="dropdown-menu">
+            
+<li >
+    <a href="../../raj.md">Raj</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#appendix-a-building-a-security-policy-for-your-organization">Appendix A: Building a Security Policy for Your Organization</a></li>
+            <li><a href="#strong-authentication">Strong Authentication</a></li>
+            <li><a href="#automatic-updates-and-software-licenses">Automatic Updates and Software Licenses</a></li>
+            <li><a href="#the-cloud">The Cloud</a></li>
+            <li><a href="#https">HTTPS</a></li>
+            <li><a href="#data-security">Data Security</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<p><em>Please Note: Cybersecurity is a rapidly evolving field. This document was last updated on February 2, 2019. Some of the technical guidance within this document may change, and some of the risks defined may increase or decrease in their potential likelihood or impact.</em></p>
+<h1 id="appendix-a-building-a-security-policy-for-your-organization">Appendix A: Building a Security Policy for Your Organization</h1>
+<p>Security policies can serve many purposes for organizations. Some prefer these documents to be legal policies that establish clear responsibilities and liability. This section focuses on elements of security policies that can be used to plan for effective cybersecurity practice. But, if your organization wishes to utilize more legally-oriented language, the SANS Institute maintains a consensus-based collection of organizational cybersecurity policy language that your organization can use, free of charge: <a href="https://www.sans.org/security-resources/policies">https://www.sans.org/security-resources/policies</a> </p>
+<p>Each section will include a template for writing an organizational cybersecurity policy to implement the controls described in Section 2. These fillable templates, in combination with the best practices described in Section 3, can serve as a baseline cybersecurity policy for an organization.</p>
+<p>Each template can be expanded as needed – while there may not be enough fields in the examples to capture all of the devices, accounts, etc. in an organization, each policy, best practice, and control can be modified to fit the context of a specific organization. More guidance on how to select a policy and implement a control can be found in Appendix C.</p>
+<h2 id="strong-authentication">Strong Authentication</h2>
+<p><a href="2-Common%20Cybersecurity%20Controls.md#strong-authentication">Read the description of this control here.</a></p>
+<p><a href="5-Appendix%20B%20Implementation%20Guidance.md#strong-authentication">Additional implementation guidance can be found here.</a></p>
+<p><strong>Policy Selection:</strong></p>
+<ul>
+<li><strong>Baseline:</strong> Require multi-factor authentication for all organization-managed accounts. Turn on login alerts where offered.</li>
+<li><strong>Baseline +:</strong> Require multi-factor authentication for all organization-managed accounts.  Require the use of password managers. Turn on account monitoring where offered.</li>
+<li><strong>No Policy</strong></li>
+</ul>
+<p><strong>Policy Details:</strong>
+Person(s) responsible for implementing this policy: </p>
+<p>(<em>Name</em>)</p>
+<hr />
+<p>This individual is responsible for ensuring multifactor authentication is enabled on all critical accounts, and will serve as a resource for other staff who need assistance with MFA set up or recovery. This individual is also responsible for ensuring that back up MFA codes for organization-owned accounts are stored in a safe, secure place - such as an external USB drive in a locked cabinet. </p>
+<p>What accounts are considered critical?</p>
+<table>
+<thead>
+<tr>
+<th>Account</th>
+<th align="center">MFA Forced?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>(Account Name)</em></td>
+<td align="center"><em>(yes/no)</em></td>
+</tr>
+<tr>
+<td></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+<h2 id="automatic-updates-and-software-licenses">Automatic Updates and Software Licenses</h2>
+<p><a href="2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses">Read the description of this control here.</a></p>
+<p><a href="5-Appendix%20B%20Implementation%20Guidance.md#automatic-updates-and-software-licenses">Additional implementation guidance can be found here.</a></p>
+<p><strong>Policy Selection:</strong></p>
+<ul>
+<li><strong>Baseline:</strong> Force automatic updates for all operating systems, productivity software, and web browsers, and require other software updates to be installed as quickly as possible. Ensure all software licenses are renewed in a timely fashion.</li>
+<li><strong>Baseline +:</strong> Force automatic updates for all operating systems, productivity software, and web browsers, and require other software updates to be installed as quickly as possible. Auto-renew all critical software licenses.</li>
+<li><strong>No Policy</strong></li>
+</ul>
+<p><strong>Policy Details:</strong></p>
+<p>Person(s) responsible for implementing this policy: </p>
+<p>(<em>Name</em>)</p>
+<hr />
+<p>This individual is responsible for ensuring automatic updates are turned on for all required software, and that software and services licenses are current. They will also serve as a resource for any staff having trouble updating their software.</p>
+<p>What software is considered critical?</p>
+<table>
+<thead>
+<tr>
+<th>Software or Operating System</th>
+<th>Updates Forced?</th>
+<th>Auto-Renew License?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>(Software or OS Name)</em></td>
+<td><em>(yes/no)</em></td>
+<td><em>(yes/no)</em></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="the-cloud">The Cloud</h2>
+<p><a href="2-Common%20Cybersecurity%20Controls.md#the-cloud">Read the description of this control here.</a></p>
+<p><a href="5-Appendix%20B%20Implementation%20Guidance.md#the-cloud">Additional implementation guidance can be found here.</a></p>
+<p><strong>Policy Selection:</strong></p>
+<ul>
+<li><strong>Baseline:</strong> Migrate organizational email to a cloud-based provider</li>
+<li><strong>Baseline +:</strong> Migrate organizational email, data storage, and productivity software to a cloud-based provider</li>
+<li><strong>No Policy</strong></li>
+</ul>
+<p><strong>Policy Details:</strong></p>
+<p>Person(s) responsible for implementing this policy: </p>
+<p>(<em>Name</em>)</p>
+<hr />
+<p>This individual is responsible for leading the migration to any new cloud-based services - either migrating data themselves, or managing a contract with a third party to conduct that migration. They should become knowledgeable users of that service, so that any staff struggling with the transition can use them as a resource.</p>
+<p>What services are considered critical?</p>
+<table>
+<thead>
+<tr>
+<th>Software or Services</th>
+<th align="center">Cloud-based?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>(Software or Service Name)</em></td>
+<td align="center"><em>(yes/no)</em></td>
+</tr>
+<tr>
+<td></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+<p>What services or software will your organization migrate to the cloud?</p>
+<table>
+<thead>
+<tr>
+<th>Software or Services</th>
+<th>Persons or third party responsible for migration</th>
+<th>Timeline for migration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>(Software or OS Name)</em></td>
+<td><em>(Staff/Contractor Name)</em></td>
+<td><em>(Timeframe)</em></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>It is <em>highly</em> recommended you enable <a href="2-Common%20Cybersecurity%20Controls.md#strong-authentication">strong authentication</a> for any cloud-based services important to your organization. </p>
+<h2 id="https">HTTPS</h2>
+<p><a href="2-Common%20Cybersecurity%20Controls.md#https">Read the description of this control here.</a></p>
+<p><a href="5-Appendix%20B%20Implementation%20Guidance.md#https">Additional implementation guidance can be found here.</a></p>
+<p><strong>Policy Selection:</strong></p>
+<ul>
+<li><strong>Baseline: </strong>Ensure all organization-owned websites uses HTTPS</li>
+<li><strong>No Policy</strong></li>
+</ul>
+<p><strong>Policy Details:</strong></p>
+<p>Person(s) responsible for implementing this policy: </p>
+<p>(<em>Name</em>)</p>
+<hr />
+<p>This individual will be responsible for enabling HTTPS on any organization owned or supported sites - either themselves or by working with a third party contractor/servicer.</p>
+<p>What sites does the organization own or support?</p>
+<table>
+<thead>
+<tr>
+<th>Site URL</th>
+<th>Site Administrator</th>
+<th>HTTPS enabled?</th>
+<th>Timeline for enabling HTTPS?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>(www.xyz.org)</em></td>
+<td><em>(Staff/Contractor Name)</em></td>
+<td><em>(yes/no)</em></td>
+<td><em>(Timeframe)</em></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="data-security">Data Security</h2>
+<p><a href="2-Common%20Cybersecurity%20Controls.md#data-security">Read the description of this control here.</a></p>
+<p><a href="5-Appendix%20B%20Implementation%20Guidance.md#data-security">Additional implementation guidance can be found here.</a></p>
+<p><strong>Policy Selection:</strong></p>
+<ul>
+<li><strong>Baseline:</strong> Enable full-disk encryption on servers, cell phones, tablets, laptops, and desktops with access to critical or sensitive information.</li>
+<li><strong>Baseline +:</strong> Enable full-disk encryption on all servers, cell phones, tablets, laptops, and desktops with access to organization resources. Regularly review permissions on cloud-based storage accounts to ensure access controls are appropriately granted and MFA is enabled. Consider adopting and implementing a device management system (learn more in the <a href="3-Additional%20Cybersecurity%20Best%20Practices.md#fleet-management">fleet management</a> section).</li>
+<li><strong>No Policy</strong></li>
+</ul>
+<p><strong>Policy Details:</strong></p>
+<p>Person(s) responsible for implementing this policy: </p>
+<p>(<em>Name</em>)</p>
+<hr />
+<p>This individual will be responsible for ensuring critical devices are encrypted and access management reviews are conducted. They should become knowledgeable about how to enable device encryption, as well as how to review the permissions of shared resources, so that any staff struggling with the transition can use them as a resource.</p>
+<table>
+  <tr>
+   <td colspan="2" ><em>What devices do those staff members use to access critical or sensitive information? Those devices should have full disk encryption enabled.</em>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Staff</strong>
+   </td>
+   <td><strong>Devices</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+<p>All staff who store data deemed sensitive or critical to the organization should keep it in an encrypted state on their devices. Any data that can be stored and accessed from a shared or cloud service should remain there, under strong <a href="2-Common%20Cybersecurity%20Controls.md#strong-authentication">account security.</a> Any information downloaded should not be held on individual devices unless necessary. If there are questions about the necessity of on-device access to certain sensitive data, employees should contact the owner of that data type. </p>
+<p>Employees who do not have a direct mission or business need should never access sensitive information. In particular, HR or personnel files should only be accessed with the explicit permission of the organization's HR team.</p>
+<p>Employees responsible for working with relevant account owners to manage, revoke, or edit access to sensitive data. The individual responsible for this policy shall implement an annual or semi-annual  process to revise account permissions to ensure these permissions are up-to-date and commensurate with staff's current responsibilities. Employees who work with that data regularly are expected to contribute to that review.</p>
+<table>
+  <tr>
+   <td colspan="2" ><em>What services do those staff members use to store or share critical or sensitive information? Those services should be subject to a regular review of permissions.</em>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Service</strong>
+   </td>
+   <td><strong>Interval for reviewing permissions (quarterly, semi-annual, annual)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
