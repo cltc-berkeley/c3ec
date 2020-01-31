@@ -15,4 +15,4 @@ nav:
             - Raj: raj.md
 
 theme:
-  name: 'readthedocs'
+  name: 'material'
