@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  <link rel="shortcut icon" href="../../img/favicon.ico">
+  <title>4 Appendix A Building a Security Policy - My Docs</title>
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="../../css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" type="text/css" />
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "4 Appendix A Building a Security Policy";
+    var mkdocs_page_input_path = "LRO/4-Appendix A Building a Security Policy.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> My Docs</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+	<ul class="current">
+	  
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../..">Home</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">Phishing</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../../phishing/d1/">Setting up GoPhish on AWS</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../phishing/d2/">Using Gophish</a>
+                </li>
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">LRO</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../0-Introduction and TOC (README)/">Need for Cybersecurity</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../2-Common Cybersecurity Controls/">Common Cybersecurity Controls</a>
+                </li>
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">Test</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <span class="caption-text">Staff</span>
+    <ul class="subnav">
+                <li class="toctree-l3">
+                    
+    <a class="" href="../../placeholder.md">Steve</a>
+                </li>
+    </ul>
+                </li>
+                <li class="">
+                    
+    <span class="caption-text">Students</span>
+    <ul class="subnav">
+                <li class="toctree-l3">
+                    
+    <a class="" href="../../raj.md">Raj</a>
+                </li>
+    </ul>
+                </li>
+    </ul>
+	    </li>
+          
+        </ul>
+      </div>
+      &nbsp;
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">My Docs</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+    
+    <li>4 Appendix A Building a Security Policy</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <p><em>Please Note: Cybersecurity is a rapidly evolving field. This document was last updated on February 2, 2019. Some of the technical guidance within this document may change, and some of the risks defined may increase or decrease in their potential likelihood or impact.</em></p>
+<h1 id="appendix-a-building-a-security-policy-for-your-organization">Appendix A: Building a Security Policy for Your Organization</h1>
+<p>Security policies can serve many purposes for organizations. Some prefer these documents to be legal policies that establish clear responsibilities and liability. This section focuses on elements of security policies that can be used to plan for effective cybersecurity practice. But, if your organization wishes to utilize more legally-oriented language, the SANS Institute maintains a consensus-based collection of organizational cybersecurity policy language that your organization can use, free of charge: <a href="https://www.sans.org/security-resources/policies">https://www.sans.org/security-resources/policies</a> </p>
+<p>Each section will include a template for writing an organizational cybersecurity policy to implement the controls described in Section 2. These fillable templates, in combination with the best practices described in Section 3, can serve as a baseline cybersecurity policy for an organization.</p>
+<p>Each template can be expanded as needed – while there may not be enough fields in the examples to capture all of the devices, accounts, etc. in an organization, each policy, best practice, and control can be modified to fit the context of a specific organization. More guidance on how to select a policy and implement a control can be found in Appendix C.</p>
+<h2 id="strong-authentication">Strong Authentication</h2>
+<p><a href="2-Common%20Cybersecurity%20Controls.md#strong-authentication">Read the description of this control here.</a></p>
+<p><a href="5-Appendix%20B%20Implementation%20Guidance.md#strong-authentication">Additional implementation guidance can be found here.</a></p>
+<p><strong>Policy Selection:</strong></p>
+<ul>
+<li><strong>Baseline:</strong> Require multi-factor authentication for all organization-managed accounts. Turn on login alerts where offered.</li>
+<li><strong>Baseline +:</strong> Require multi-factor authentication for all organization-managed accounts.  Require the use of password managers. Turn on account monitoring where offered.</li>
+<li><strong>No Policy</strong></li>
+</ul>
+<p><strong>Policy Details:</strong>
+Person(s) responsible for implementing this policy: </p>
+<p>(<em>Name</em>)</p>
+<hr />
+<p>This individual is responsible for ensuring multifactor authentication is enabled on all critical accounts, and will serve as a resource for other staff who need assistance with MFA set up or recovery. This individual is also responsible for ensuring that back up MFA codes for organization-owned accounts are stored in a safe, secure place - such as an external USB drive in a locked cabinet. </p>
+<p>What accounts are considered critical?</p>
+<table>
+<thead>
+<tr>
+<th>Account</th>
+<th align="center">MFA Forced?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>(Account Name)</em></td>
+<td align="center"><em>(yes/no)</em></td>
+</tr>
+<tr>
+<td></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+<h2 id="automatic-updates-and-software-licenses">Automatic Updates and Software Licenses</h2>
+<p><a href="2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses">Read the description of this control here.</a></p>
+<p><a href="5-Appendix%20B%20Implementation%20Guidance.md#automatic-updates-and-software-licenses">Additional implementation guidance can be found here.</a></p>
+<p><strong>Policy Selection:</strong></p>
+<ul>
+<li><strong>Baseline:</strong> Force automatic updates for all operating systems, productivity software, and web browsers, and require other software updates to be installed as quickly as possible. Ensure all software licenses are renewed in a timely fashion.</li>
+<li><strong>Baseline +:</strong> Force automatic updates for all operating systems, productivity software, and web browsers, and require other software updates to be installed as quickly as possible. Auto-renew all critical software licenses.</li>
+<li><strong>No Policy</strong></li>
+</ul>
+<p><strong>Policy Details:</strong></p>
+<p>Person(s) responsible for implementing this policy: </p>
+<p>(<em>Name</em>)</p>
+<hr />
+<p>This individual is responsible for ensuring automatic updates are turned on for all required software, and that software and services licenses are current. They will also serve as a resource for any staff having trouble updating their software.</p>
+<p>What software is considered critical?</p>
+<table>
+<thead>
+<tr>
+<th>Software or Operating System</th>
+<th>Updates Forced?</th>
+<th>Auto-Renew License?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>(Software or OS Name)</em></td>
+<td><em>(yes/no)</em></td>
+<td><em>(yes/no)</em></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="the-cloud">The Cloud</h2>
+<p><a href="2-Common%20Cybersecurity%20Controls.md#the-cloud">Read the description of this control here.</a></p>
+<p><a href="5-Appendix%20B%20Implementation%20Guidance.md#the-cloud">Additional implementation guidance can be found here.</a></p>
+<p><strong>Policy Selection:</strong></p>
+<ul>
+<li><strong>Baseline:</strong> Migrate organizational email to a cloud-based provider</li>
+<li><strong>Baseline +:</strong> Migrate organizational email, data storage, and productivity software to a cloud-based provider</li>
+<li><strong>No Policy</strong></li>
+</ul>
+<p><strong>Policy Details:</strong></p>
+<p>Person(s) responsible for implementing this policy: </p>
+<p>(<em>Name</em>)</p>
+<hr />
+<p>This individual is responsible for leading the migration to any new cloud-based services - either migrating data themselves, or managing a contract with a third party to conduct that migration. They should become knowledgeable users of that service, so that any staff struggling with the transition can use them as a resource.</p>
+<p>What services are considered critical?</p>
+<table>
+<thead>
+<tr>
+<th>Software or Services</th>
+<th align="center">Cloud-based?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>(Software or Service Name)</em></td>
+<td align="center"><em>(yes/no)</em></td>
+</tr>
+<tr>
+<td></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+<p>What services or software will your organization migrate to the cloud?</p>
+<table>
+<thead>
+<tr>
+<th>Software or Services</th>
+<th>Persons or third party responsible for migration</th>
+<th>Timeline for migration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>(Software or OS Name)</em></td>
+<td><em>(Staff/Contractor Name)</em></td>
+<td><em>(Timeframe)</em></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>It is <em>highly</em> recommended you enable <a href="2-Common%20Cybersecurity%20Controls.md#strong-authentication">strong authentication</a> for any cloud-based services important to your organization. </p>
+<h2 id="https">HTTPS</h2>
+<p><a href="2-Common%20Cybersecurity%20Controls.md#https">Read the description of this control here.</a></p>
+<p><a href="5-Appendix%20B%20Implementation%20Guidance.md#https">Additional implementation guidance can be found here.</a></p>
+<p><strong>Policy Selection:</strong></p>
+<ul>
+<li><strong>Baseline: </strong>Ensure all organization-owned websites uses HTTPS</li>
+<li><strong>No Policy</strong></li>
+</ul>
+<p><strong>Policy Details:</strong></p>
+<p>Person(s) responsible for implementing this policy: </p>
+<p>(<em>Name</em>)</p>
+<hr />
+<p>This individual will be responsible for enabling HTTPS on any organization owned or supported sites - either themselves or by working with a third party contractor/servicer.</p>
+<p>What sites does the organization own or support?</p>
+<table>
+<thead>
+<tr>
+<th>Site URL</th>
+<th>Site Administrator</th>
+<th>HTTPS enabled?</th>
+<th>Timeline for enabling HTTPS?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>(www.xyz.org)</em></td>
+<td><em>(Staff/Contractor Name)</em></td>
+<td><em>(yes/no)</em></td>
+<td><em>(Timeframe)</em></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="data-security">Data Security</h2>
+<p><a href="2-Common%20Cybersecurity%20Controls.md#data-security">Read the description of this control here.</a></p>
+<p><a href="5-Appendix%20B%20Implementation%20Guidance.md#data-security">Additional implementation guidance can be found here.</a></p>
+<p><strong>Policy Selection:</strong></p>
+<ul>
+<li><strong>Baseline:</strong> Enable full-disk encryption on servers, cell phones, tablets, laptops, and desktops with access to critical or sensitive information.</li>
+<li><strong>Baseline +:</strong> Enable full-disk encryption on all servers, cell phones, tablets, laptops, and desktops with access to organization resources. Regularly review permissions on cloud-based storage accounts to ensure access controls are appropriately granted and MFA is enabled. Consider adopting and implementing a device management system (learn more in the <a href="3-Additional%20Cybersecurity%20Best%20Practices.md#fleet-management">fleet management</a> section).</li>
+<li><strong>No Policy</strong></li>
+</ul>
+<p><strong>Policy Details:</strong></p>
+<p>Person(s) responsible for implementing this policy: </p>
+<p>(<em>Name</em>)</p>
+<hr />
+<p>This individual will be responsible for ensuring critical devices are encrypted and access management reviews are conducted. They should become knowledgeable about how to enable device encryption, as well as how to review the permissions of shared resources, so that any staff struggling with the transition can use them as a resource.</p>
+<table>
+  <tr>
+   <td colspan="2" ><em>What devices do those staff members use to access critical or sensitive information? Those devices should have full disk encryption enabled.</em>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Staff</strong>
+   </td>
+   <td><strong>Devices</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+<p>All staff who store data deemed sensitive or critical to the organization should keep it in an encrypted state on their devices. Any data that can be stored and accessed from a shared or cloud service should remain there, under strong <a href="2-Common%20Cybersecurity%20Controls.md#strong-authentication">account security.</a> Any information downloaded should not be held on individual devices unless necessary. If there are questions about the necessity of on-device access to certain sensitive data, employees should contact the owner of that data type. </p>
+<p>Employees who do not have a direct mission or business need should never access sensitive information. In particular, HR or personnel files should only be accessed with the explicit permission of the organization's HR team.</p>
+<p>Employees responsible for working with relevant account owners to manage, revoke, or edit access to sensitive data. The individual responsible for this policy shall implement an annual or semi-annual  process to revise account permissions to ensure these permissions are up-to-date and commensurate with staff's current responsibilities. Employees who work with that data regularly are expected to contribute to that review.</p>
+<table>
+  <tr>
+   <td colspan="2" ><em>What services do those staff members use to store or share critical or sensitive information? Those services should be subject to a regular review of permissions.</em>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Service</strong>
+   </td>
+   <td><strong>Interval for reviewing permissions (quarterly, semi-annual, annual)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+              
+            </div>
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" style="cursor: pointer">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+      
+    </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+
+</body>
+</html>
