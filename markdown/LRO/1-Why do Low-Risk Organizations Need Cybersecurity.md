@@ -13,15 +13,17 @@ Nonprofits and public interest organizations are unlikely to make significant in
 While many of the basic recommendations in this guide are applicable to all organizations, this guide is designed with "low-risk" organizations in mind. But what does it mean for an organization to be "low risk"? The "Digital Security & Grantcraft Guide"[^6] published in early 2017 by the NetGain Partnership provides information for funders about how to evaluate if a grantee organization is at high risk of a cyberattack. Some of the same considerations can be applied to determining if an organization is low risk. The paper describes three basic layers of consideration: "Is the grantee high risk; is the context high risk; is the project high risk?" Each of these questions explores whether or not an element of a funded project or program is more or less at risk of a cyberattack. 
 
 Consider the following questions:
- -* Do you believe your organization is actively at risk of a cyberattack? Are you aware of other organizations like yours that have been actively targeted with a cyberattack?
- -* Does your work generate controversy, or is it viewed with hostility by government actors, government-backed organizations, or independent malicious actors?
- -* Are any individuals affiliated with your organization (staff, board members, advisors, etc.) engaged in work or behaviors that might draw the attention of adversaries or malicious actors?
- -* Do you collect, generate, or otherwise handle sensitive information (such as names, addresses, phone numbers, banking information, gender identity, or other personally identifiable information) about a vulnerable population, or of interest to an oppressive government or malicious non-state actor?
+
+* Do you believe your organization is actively at risk of a cyberattack? Are you aware of other organizations like yours that have been actively targeted with a cyberattack?
+* Does your work generate controversy, or is it viewed with hostility by government actors, government-backed organizations, or independent malicious actors?
+* Are any individuals affiliated with your organization (staff, board members, advisors, etc.) engaged in work or behaviors that might draw the attention of adversaries or malicious actors?
+* Do you collect, generate, or otherwise handle sensitive information (such as names, addresses, phone numbers, banking information, gender identity, or other personally identifiable information) about a vulnerable population, or of interest to an oppressive government or malicious non-state actor?
 
 If the answer to any of the above questions is "yes," your organization is not low risk, and this guide should not be considered sufficient for establishing a baseline security practice. While some of the recommendations in this guide may be useful for high-risk organizations, groups concerned about targeted attacks should consult a cybersecurity specialist, as well as the following resources:
- -* Electronic Frontier Foundation - Surveillance Self Defense: [https://ssd.eff.org/](https://ssd.eff.org/) 
- -* Internews - SAFETAG Framework: [https://safetag.org/](https://safetag.org/)
- -* Tactical Tech - Security in a Box: [https://securityinabox.org/en/](https://securityinabox.org/en/)
+ 
+* Electronic Frontier Foundation - Surveillance Self Defense: [https://ssd.eff.org/](https://ssd.eff.org/) 
+* Internews - SAFETAG Framework: [https://safetag.org/](https://safetag.org/)
+* Tactical Tech - Security in a Box: [https://securityinabox.org/en/](https://securityinabox.org/en/)
 
 **Organizations who identify as high risk should consult cybersecurity specialists.**
 
