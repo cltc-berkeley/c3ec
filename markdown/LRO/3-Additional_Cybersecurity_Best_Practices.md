@@ -9,6 +9,7 @@ Beyond the technical controls listed above, additional organizational expectatio
 In a large organization, merely keeping track of the broad array of devices your employees use can be a huge challenge. Even in small organizations, keeping track of phones, laptops, and tablets can be a time-consuming exercise, particularly when employee turnover is high and your organization must regularly purchase new devices and retire old ones. 
 
 At a minimum, an organization should keep track of the following information:
+
 1.  What devices does the organization own?
 2.  Who is in possession/responsible for that device?
 3.  Are automatic updates turned on for that device?
@@ -17,6 +18,7 @@ At a minimum, an organization should keep track of the following information:
 This information should be collected and refreshed at regular intervals – at a minimum once a year, but semi-annually is best. As staff depart or join, or devices are upgraded/deprecated, the running list of devices should be updated accordingly. 
 
 Each organization should also have a policy for device turnover before a device is handed off to a new employee. At a minimum, this should include the following:
+
 1.  Before an employee departs or takes possession of a new device, they must return the old device to the organization.
 2.  Employees should back up important data on their devices to a shared or otherwise accessible drive or cloud storage, and should inform relevant staff of the data's location.
 3.  The organization should completely wipe the device and have a fresh system install of its operating system and important software before giving it to an employee.
@@ -25,6 +27,7 @@ Each organization should also have a policy for device turnover before a device 
 >**A Note on Device Management Systems**
 >
 >There are some device management systems on the market that help organizations centrally manage their devices. These systems require time and some practice to use, but they can increase an organization's visibility into what devices are part of their network, and help alert managers to potential security issues. While these systems can be very helpful, they are usually unnecessary for organizations with fewer than 25 employees. Organizations should have dedicated IT staff in charge of operating these systems. Some common ways that device management systems help organizations manage their security include:
+>
 >* enforcing organizational security settings such as mandatory strong passwords and forced screen lockout after a certain amount of time; 
 >* pushing out email profile configuration to the devices;
 >* executing remote wipe and remote lock for managed devices; and
@@ -33,10 +36,12 @@ Each organization should also have a policy for device turnover before a device 
 >Different device management solutions have different strengths and weaknesses. There are two key types of solutions: 
 >
 >**Server management systems:** These systems can comprehensively manage intranet servers. Some can also manage network appliances (servers, standalone firewalls, etc.). However, operating such systems usually requires strong IT proficiency and infrastructure to execute. Example server management systems include:
+>
 >* [Microsoft System Center Operations Manager](https://docs.microsoft.com/en-us/system-center/scom/deploy-overview?view=sc-om-1807)
 >* [Splunk](https://www.splunk.com/)
 >
 >**Mobile device management systems (including client computer management):** These systems can manage most modern mobile devices and client computers. The user interface is friendly and easier to use compared to server managements system. However, they require more time and attention than server management systems. Examples include:
+>
 >* [VMWare AirWatch](https://www.air-watch.com/)
 >* [Microsoft Intune](https://www.microsoft.com/en-us/cloud-platform/microsoft-intune)
 >* [MobileIron](https://www.mobileiron.com/en/modern-security-modern-work)
@@ -52,6 +57,7 @@ The most likely cybersecurity risk while travelling is an increased chance of de
 Some organizations provide staff with special "travel" devices that have limited capabilities. While this can limit an organization's exposure to risk, configuring devices for travel and wiping them after travel can be time consuming. An organization should always consider what work the employee will need to do while travelling: will they need access to sensitive data, and is that data stored on their device? How regularly will they need to email and communicate with their team? In general, organizations should not travel with devices that hold sensitive information, as loss or theft of these devices could have an outsized impact on an organization. If an employee has limited needs while traveling, like basic access to email, organizations can minimize risk by limiting the number of devices an employees can takes with them (for example, allowing them to take only a phone, as opposed to a phone and a laptop).
 
 Below is a summary of policies to help employees keep their devices safe while travelling:
+
 *   Only travel with devices that use full-disk encryption.
 *   Never travel with devices that store sensitive information (such as HR files, financial statements, strategic documents, or information about people or their behavior).
 *   Keep devices with you at all times (do not leave them unattended or unsecured in hotel rooms).
@@ -60,6 +66,7 @@ Below is a summary of policies to help employees keep their devices safe while t
 2. _How should employees connect to the internet while travelling?_
 
 Another common risk while travelling is an insecure connection to the internet. This may include connecting to untrustworthy Wi-Fi or accessing work resources through a public computer in a library or café. Unsafe connections can allow hackers to spy on your connection, steal sensitive data, or hijack important accounts. Policies to help employees avoid unsafe connections may include:
+
 *   Ensure all devices have up-to-date software before travel. 
 *   Do not connect to the internet in places that are unknown or untrustworthy. Only use connections provided by partner organizations or large chain hotels and cafes (even these connections can be insecure, but they are less likely to be compromised).
 *   Avoid open/unsecured Wi-Fi networks (e.g. networks not protected by passwords).
@@ -141,9 +148,11 @@ _In the event of a data breach:_
 ## Social Media Use 
 
 Every organization has a different level of comfort with social media. By and large, use of social media is a communications issue, but cybersecurity concerns can arise and organizations should take steps to get ahead of opportunistic attackers. When developing a set of norms for the use of social media, LROss should include expectations such as the following:
+
 *   Secure important [accounts with MFA](#authentication) and avoid sharing passwords between users (if possible – not all social media services allow multiple users to manage one account).
 *   Employees should not click on links or attachments sent from unknown sources. If employees are unsure if they can trust a link, they should use a service such as [Norton SafeWeb](https://safeweb.norton.com/), [URLVoid](http://www.urlvoid.com/), or [ScanURL](http://scanurl.net/) to inspect the link for potential malicious activity – but these services cannot provide guarantees of security. Suspicious documents or PDFs should always be opened in a web-based service like Google Drive, instead of being downloaded and opened directly on an employee's computer. This will prevent any malicious code embedded in the document from running on the employee's device.
-*   Do not engage with aggressive, abusive, or harassing accounts. Online trolls often seek simply to provoke an unflattering reaction from organizations that they can use to diminish its reputation. Managers of an organization's social media presence should familiarize themselves with the process of reporting malicious, abusive, or hateful comments – and should know how to use tools provided by social media services such as blocking or muting accounts. More information about how to counter harassment or abuse online can be found here: 
+*   Do not engage with aggressive, abusive, or harassing accounts. Online trolls often seek simply to provoke an unflattering reaction from organizations that they can use to diminish its reputation. Managers of an organization's social media presence should familiarize themselves with the process of reporting malicious, abusive, or hateful comments – and should know how to use tools provided by social media services such as blocking or muting accounts. More information about how to counter harassment or abuse online can be found here:
+ 
     *   HeartMob: [https://iheartmob.org/](https://iheartmob.org/)
     *   Facebook Safety Tips (specifically for journalists, but much of the advices is generally applicable): [https://www.facebook.com/facebookmedia/blog/safety-tips-for-journalists](https://www.facebook.com/facebookmedia/blog/safety-tips-for-journalists) 
     *   Twitter Safety Features: [https://about.twitter.com/en_us/safety/safety-tools.html](https://about.twitter.com/en_us/safety/safety-tools.html) 
