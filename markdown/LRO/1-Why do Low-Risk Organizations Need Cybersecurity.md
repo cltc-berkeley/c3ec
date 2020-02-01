@@ -23,7 +23,7 @@ If the answer to any of the above questions is "yes," your organization is not l
 * Internews - SAFETAG Framework: [https://safetag.org/](https://safetag.org/)
 * Tactical Tech - Security in a Box: [https://securityinabox.org/en/](https://securityinabox.org/en/)
 
-### Organizations who identify as high risk should consult cybersecurity specialists.
+** Organizations who identify as high risk should consult cybersecurity specialists. **
 
 While the contents of this guide offer a baseline for any organization's cybersecurity, they should not be considered a comprehensive set of cybersecurity tools. No organization or system is ever completely "secure" – and those at greater risk must evaluate their context and individual technical circumstances to understand how to best protect themselves from online threats.
 
@@ -90,7 +90,6 @@ Attackers targeting LROs are likely to be motivated by profit rather than by pol
 
 For example, one type of malware is ransomware, which uses encryption software to lock up a device so its basic functions and data are inaccessible unless and until the victim pays a ransom. . Ransomware has seen an explosive increase in growth in recent years.[^13] Like most malware, it takes advantage of known security vulnerabilities in common software or operating systems. Like other forms of malware, it often requires some user interaction to operate (e.g. a user must click "ok" when prompted to install a piece of unknown software). However, recent variants of ransomware have used powerful methods stolen from intelligence agencies that enable the software to run on victims' computers with minimal user interaction.[^14] 
 
-## Notes
 
 [^1]:
      Nonprofit Tech for Good, _2018 Global NGO Technology Report_ (Reston, VA: Public Interest Registry, 2018), http://techreport.ngo/.
@@ -103,7 +102,7 @@ For example, one type of malware is ransomware, which uses encryption software t
 
 [^4]:
      Frost & Sullivan, _2017 Global Information Security Workforce Study: Benchmarking Workforce Capacity and Response to Cyber Risk_ (Clearwater, FL: Center for Cyber Safety and Education), 2017,_ _https://iamcybersafe.org/wp-content/uploads/2017/06/Europe-GISWS.pdf.
-
+     
 [^5]:
      Stephanie L Geller, Alan J Abramson, and Erwin de Leon, _The Nonprofit Technology Gap–Myth or Reality_ (Johns Hopkins Listening Post Project, Communique 20, 2010), http://ejewishphilanthropy.com/wordpress/wp-content/uploads/2010/12/Nonprofit-Technology-Gap-Dec.-2010.pdf.
 

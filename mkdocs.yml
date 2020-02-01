@@ -41,6 +41,7 @@ theme:
   next_previous: true
 
 markdown_extensions:
+    - footnotes
     - pymdownx.arithmatex
     - pymdownx.betterem:
         smart_enable: all
