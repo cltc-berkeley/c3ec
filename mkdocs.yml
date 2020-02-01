@@ -2,6 +2,9 @@ site_name: Beta Resources
 docs_dir: markdown/
 site_dir: docs/
 
+repo_name: 'cltc-berkeley/resources-beta'
+repo_url: 'https://github.com/cltc-berkeley/resources-beta'
+
 nav:
     - Home: index.md
     - Phishing:
@@ -21,6 +24,8 @@ theme:
   custom_dir: clinic_theme
   logo: 'images/logo.png'
   favicon: 'assets/images/favicon.png'
+  feature:
+    tabs: true
   palette:
     primary: 'white'
     accent: 'indigo'

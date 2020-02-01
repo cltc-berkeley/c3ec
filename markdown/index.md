@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Citizen Clinic's Resources
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+For more information about the Clinic, visit https://cltc.berkeley.edu/about-us/citizen-clinic/.
 
-## Commands
+## LRO
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+	Low-risk organizations.
 
-## Project layout
+## Phishing
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    No phishing, please.
