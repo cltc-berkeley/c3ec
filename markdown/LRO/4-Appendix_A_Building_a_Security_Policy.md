@@ -11,9 +11,9 @@ Each template can be expanded as needed – while there may not be enough fields
 
 ## Strong Authentication 
 
-[Read the description of this control here.](../LRO/2-Common%20Cybersecurity%20Controls.md#strong-authentication)
+[Read the description of this control here.](2-Common_Cybersecurity_Controls.md#strong-authentication)
 
-[Additional implementation guidance can be found here.](../LRO/5-Appendix%20B%20Implementation%20Guidance.md#strong-authentication)
+[Additional implementation guidance can be found here.](5-Appendix_B_Implementation_Guidance.md#strong-authentication)
 
 **Policy Selection:**
 
@@ -40,9 +40,9 @@ What accounts are considered critical?
 
 ## Automatic Updates and Software Licenses  
 
-[Read the description of this control here.](../LRO/2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses)
+[Read the description of this control here.](2-Common_Cybersecurity_Controls.md#automatic-updates-and-software-licenses)
 
-[Additional implementation guidance can be found here.](../LRO/5-Appendix%20B%20Implementation%20Guidance.md#automatic-updates-and-software-licenses)
+[Additional implementation guidance can be found here.](5-Appendix_B_Implementation_Guidance.md#automatic-updates-and-software-licenses)
 
 **Policy Selection:**
 
@@ -71,9 +71,9 @@ What software is considered critical?
 
 ## The Cloud 
 
-[Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#the-cloud)
+[Read the description of this control here.](2-Common_Cybersecurity_Controls.md#the-cloud)
 
-[Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#the-cloud)
+[Additional implementation guidance can be found here.](5-Appendix_B_Implementation_Guidance.md#the-cloud)
 
 **Policy Selection:**
 
@@ -107,14 +107,14 @@ What services or software will your organization migrate to the cloud?
 |             |                    |           |
 |             |                    |           |
 
-It is _highly_ recommended you enable [strong authentication](2-Common%20Cybersecurity%20Controls.md#strong-authentication) for any cloud-based services important to your organization. 
+It is _highly_ recommended you enable [strong authentication](2-Common_Cybersecurity_Controls.md#strong-authentication) for any cloud-based services important to your organization. 
 
 
 ## HTTPS 
 
-[Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#https)
+[Read the description of this control here.](2-Common_Cybersecurity_Controls.md#https)
 
-[Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#https)
+[Additional implementation guidance can be found here.](5-Appendix_B_Implementation_Guidance.md#https)
 
 **Policy Selection:**
 
@@ -142,14 +142,14 @@ What sites does the organization own or support?
 
 ## Data Security 
 
-[Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#data-security)
+[Read the description of this control here.](2-Common_Cybersecurity_Controls.md#data-security)
 
-[Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#data-security)
+[Additional implementation guidance can be found here.](5-Appendix_B_Implementation_Guidance.md#data-security)
 
 **Policy Selection:**
 
 *   **Baseline:** Enable full-disk encryption on servers, cell phones, tablets, laptops, and desktops with access to critical or sensitive information.
-*   **Baseline +:** Enable full-disk encryption on all servers, cell phones, tablets, laptops, and desktops with access to organization resources. Regularly review permissions on cloud-based storage accounts to ensure access controls are appropriately granted and MFA is enabled. Consider adopting and implementing a device management system (learn more in the [fleet management](3-Additional%20Cybersecurity%20Best%20Practices.md#fleet-management) section).
+*   **Baseline +:** Enable full-disk encryption on all servers, cell phones, tablets, laptops, and desktops with access to organization resources. Regularly review permissions on cloud-based storage accounts to ensure access controls are appropriately granted and MFA is enabled. Consider adopting and implementing a device management system (learn more in the [fleet management](3-Additional_Cybersecurity_Best_Practices.md#fleet-management) section).
 *   **No Policy**
 
 **Policy Details:**
@@ -194,7 +194,7 @@ This individual will be responsible for ensuring critical devices are encrypted 
 </table>
 
 
-All staff who store data deemed sensitive or critical to the organization should keep it in an encrypted state on their devices. Any data that can be stored and accessed from a shared or cloud service should remain there, under strong [account security.](2-Common%20Cybersecurity%20Controls.md#strong-authentication) Any information downloaded should not be held on individual devices unless necessary. If there are questions about the necessity of on-device access to certain sensitive data, employees should contact the owner of that data type. 
+All staff who store data deemed sensitive or critical to the organization should keep it in an encrypted state on their devices. Any data that can be stored and accessed from a shared or cloud service should remain there, under strong [account security.](2-Common_Cybersecurity_Controls.md#strong-authentication) Any information downloaded should not be held on individual devices unless necessary. If there are questions about the necessity of on-device access to certain sensitive data, employees should contact the owner of that data type. 
 
 Employees who do not have a direct mission or business need should never access sensitive information. In particular, HR or personnel files should only be accessed with the explicit permission of the organization's HR team.
 

@@ -25,9 +25,9 @@ Appendix B provides additional information and links to further guidance on how 
 
 ### Strong Authentication
 
-[Set policy for this control here.](4-Appendix%20A%20Building%20a%20Security%20Policy.md#strong-authentication)
+[Set policy for this control here.](4-Appendix_A_Building_a_Security_Policy.md#strong-authentication)
 
-[Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#strong-authentication)
+[Additional implementation guidance can be found here.](5-Appendix_B_Implementation_Guidance.md#strong-authentication)
 
 <table>
   <tr>
@@ -103,9 +103,9 @@ Many common services offer suspicious login alerts, usually in the form of a pus
 
 ### Automatic Updates and Software Licenses
 
-[Set policy for this control here.](4-Appendix%20A%20Building%20a%20Security%20Policy.md#automatic-updates-and-software-licenses)
+[Set policy for this control here.](4-Appendix_A_Building_a_Security_Policy.md#automatic-updates-and-software-licenses)
 
-[Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#automatic-updates-and-software-licenses)
+[Additional implementation guidance can be found here.](5-Appendix_B_Implementation_Guidance.md#automatic-updates-and-software-licenses)
 
 <table>
   <tr>
@@ -163,9 +163,9 @@ Some LROs may use expired software licenses to save money. Without a valid licen
 
 ### The Cloud
 
-[Set policy for this control here.](4-Appendix%20A%20Building%20a%20Security%20Policy.md#the-cloud-the-cloud)
+[Set policy for this control here.](4-Appendix_A_Building_a_Security_Policy.md#the-cloud-the-cloud)
 
-[Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#the-cloud)
+[Additional implementation guidance can be found here.](5-Appendix_B_Implementation_Guidance.md#the-cloud)
 
 
 <table>
@@ -223,9 +223,9 @@ In the event that moving services to the cloud is impractical, an organization's
 
 ### HTTPS
 
-[Set policy for this control here.](4-Appendix%20A%20Building%20a%20Security%20Policy.md#https)
+[Set policy for this control here.](4-Appendix_A_Building_a_Security_Policy.md#https)
 
-[Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#https)
+[Additional implementation guidance can be found here.](5-Appendix_B_Implementation_Guidance.md#https)
 
 <table>
   <tr>
@@ -267,9 +267,9 @@ HTTPS is the only control that does not have a Baseline + option because it is c
 
 ### Data Security
 
-[Set policy for this control here.](4-Appendix%20A%20Building%20a%20Security%20Policy.md#data-security)
+[Set policy for this control here.](4-Appendix_A_Building_a_Security_Policy.md#data-security)
 
-[Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#data-security)
+[Additional implementation guidance can be found here.](5-Appendix_B_Implementation_Guidance.md#data-security)
 
 <table>
   <tr>
