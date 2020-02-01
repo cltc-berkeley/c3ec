@@ -254,11 +254,11 @@ Days
 
 HTTPS is a protocol (or set of rules) that encrypts the information flowing between a browser (like Chrome or Firefox) and a website, giving visitors to that website an added layer of protections. It is often represented by a lock icon or the word "Secure" in a browser's URL bar. HTTPS ensures traffic is encrypted (confidential) and authenticated (you can be confident that you are speaking to the real entity and not a malicious actor spoofing it). Starting July 2018, the popular Google Chrome browser started marking all websites without HTTPS as "Not Secure," which it formally announced on its Chrome blog.[^15] Other major browsers are also making design interface changes to flag non-HTTPS sites as insecure.[^16]
 
-![HTTPSsecure](images/HTTPSsecure.png)
+![HTTPSsecure](../images/HTTPSsecure.png)
 
 While maintaining a secure connection between a website and its visitors may seem obvious, it is something many organizations overlook. The vast majority of sites on the internet still do not offer HTTPS connections. Failing to offer an HTTPS connection to visitors of your website puts them at risk of attackers interfering with their connection. For example,  when a visitor to your website enters sensitive information such as a credit card number or account password, without the encryption that HTTPS offers, a malicious actor may gain access to this unencrypted information.
 
-![HTTPSsecure](images/HTTPSchange.png)
+![HTTPSsecure](../images/HTTPSchange.png)
 
 Configuring HTTPS for a website can be a complicated task, but thankfully, many website hosting services – like Wordpress or Squarespace will configure it for you at no additional cost. However, if an organization hosts its own website, the web administrator will need to enable HTTPS.
 
