@@ -17,4 +17,5 @@ nav:
             - Raj: raj.md
 
 theme:
-  name: 'mkdocs'
+  name: 'bootstrap4'
+  next_previous: true
