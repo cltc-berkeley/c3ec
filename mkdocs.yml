@@ -18,6 +18,7 @@ nav:
 
 theme:
   name: material
+  custom_dir: clinic_theme
   logo: 'images/logo.png'
   palette:
     primary: 'blue grey'
