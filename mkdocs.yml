@@ -1,4 +1,5 @@
 site_name: Citizen Clinic Resources (Beta)
+site_url: 'https://cltc-berkeley.github.io/resources-beta'
 docs_dir: markdown/
 site_dir: docs/
 
