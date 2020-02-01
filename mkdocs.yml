@@ -18,4 +18,11 @@ nav:
 
 theme:
   name: material
+  logo: 'images/logo.png'
+  palette:
+    primary: 'blue grey'
+    accent: 'indigo'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
   next_previous: true
