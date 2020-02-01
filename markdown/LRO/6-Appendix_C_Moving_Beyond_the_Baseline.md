@@ -12,8 +12,8 @@ The Citizen Lab, a cybersecurity research lab at the University of Toronto, rece
 
 The National Institute of Standards and Technology is an agency within the US Department of Commerce that issues sophisticated cybersecurity guidance that is adopted widely across the US government and in many large companies. While most of their guidance is highly technical, they also have some resources on how to apply their work in smaller and more resource-constrained organizations. 
 
-- NISTIR 7621: Small Business Information Security: The Fundamentals [http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf](http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf)
-- Slides: [https://csrc.nist.gov/csrc/media/projects/small-business-community/documents/sbc_workshop_presentation_2015_ver1.pdf](https://csrc.nist.gov/csrc/media/projects/small-business-community/documents/sbc_workshop_presentation_2015_ver1.pdf)
+    * NISTIR 7621: Small Business Information Security: The Fundamentals [http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf](http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf)
+    * Slides: [https://csrc.nist.gov/csrc/media/projects/small-business-community/documents/sbc_workshop_presentation_2015_ver1.pdf](https://csrc.nist.gov/csrc/media/projects/small-business-community/documents/sbc_workshop_presentation_2015_ver1.pdf)
 
 3. **FCC CyberPlanner**
 
@@ -23,7 +23,7 @@ The Federal Communications Commission of the US Government is a regulatory agenc
 
 The Electronic Frontier Foundation is a technology privacy and civil liberties advocacy organization. They have developed a number of strong, clear, and succinct training materials for improving individuals' cybersecurity practices. While many of their materials are geared toward high-risk individuals and organizations, their lessons are clear and usable by a broad audience.
 
--  The Security Education Companion: [https://sec.eff.org/topics](https://sec.eff.org/topics)
--  Surveillance Self-Defense: [https://ssd.eff.org/](https://ssd.eff.org/)
+    *  The Security Education Companion: [https://sec.eff.org/topics](https://sec.eff.org/topics)
+    *  Surveillance Self-Defense: [https://ssd.eff.org/](https://ssd.eff.org/)
 
   
