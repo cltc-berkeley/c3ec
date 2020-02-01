@@ -41,16 +41,5 @@ theme:
   next_previous: true
 
 markdown_extensions:
-    - footnotes
-    - pymdownx.arithmatex
-    - pymdownx.caret
-    - pymdownx.critic
-    - pymdownx.details
-    - pymdownx.emoji:
-        emoji_generator: !!python/name:pymdownx.emoji.to_svg
-    - pymdownx.inlinehilite
-    - pymdownx.magiclink
-    - pymdownx.mark
-    - pymdownx.smartsymbols
-    - pymdownx.superfences
-    - pymdownx.tilde
+  - footnotes
+  - pymdownx.magiclink
