@@ -20,6 +20,7 @@ theme:
   name: material
   custom_dir: clinic_theme
   logo: 'images/logo.png'
+  favicon: 'images/favicon.png'
   palette:
     primary: 'blue grey'
     accent: 'indigo'
