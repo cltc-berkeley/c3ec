@@ -1,6 +1,6 @@
 site_name: Beta Resources
 docs_dir: markdown/
-site_dir: site/
+site_dir: docs/
 
 nav:
     - Home: index.md
