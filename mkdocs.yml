@@ -20,9 +20,9 @@ theme:
   name: material
   custom_dir: clinic_theme
   logo: 'images/logo.png'
-  favicon: 'images/favicon.png'
+  favicon: 'assets/images/favicon.png'
   palette:
-    primary: 'grey'
+    primary: 'white'
     accent: 'indigo'
   font:
     text: 'Ubuntu'
