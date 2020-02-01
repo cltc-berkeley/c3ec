@@ -25,7 +25,7 @@ Appendix B provides additional information and links to further guidance on how 
 
 ### Strong Authentication
 
-[Set policy for this control here.](4-Appendix A Building a Security Policy.md#strong-authentication)
+[Set policy for this control here.](4-Appendix%20A%20Building%20a%20Security%20Policy.md#strong-authentication)
 
 [Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#strong-authentication)
 

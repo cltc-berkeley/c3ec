@@ -10,13 +10,13 @@ edit_uri: '/cltc-berkeley/resources-beta/tree/master/markdown'
 nav:
     - Home: index.md
     - Low-Risk Organization Guide:
-        - Introduction: LRO/0-Introduction and TOC (README).md
-        - Why do Low-Risk Organizations Need Cybersecurity?: LRO/1-Why do Low-Risk Organizations Need Cybersecurity.md
-        - Common Cybersecurity Controls: LRO/2-Common Cybersecurity Controls.md
-        - Additional Cybersecurity Best Practices: LRO/3-Additional Cybersecurity Best Practices.md
-        - Appendix A - Building a Security Policy for Your Organization: LRO/4-Appendix A Building a Security Policy.md
-        - Appendix B - Implementation Guidance: LRO/5-Appendix B Implementation Guidance.md
-        - Appendix C - Moving Beyond the Baseline: LRO/6-Appendix C Moving Beyond the Baseline.md
+        - Introduction: LRO/0-Introduction%20and%20TOC%20(README).md
+        - Why do Low-Risk Organizations Need Cybersecurity?: LRO/1-Why%20do%20Low-Risk%20Organizations%20Need%20Cybersecurity.md
+        - Common Cybersecurity Controls: LRO/2-Common%20Cybersecurity%20Controls.md
+        - Additional Cybersecurity Best Practices: LRO/3-Additional%20Cybersecurity%20Best%20Practices.md
+        - Appendix A - Building a Security Policy for Your Organization: LRO/4-Appendix%20A%20Building%20a%20Security%20Policy.md
+        - Appendix B - Implementation Guidance: LRO/5-Appendix%20B%20Implementation%20Guidance.md
+        - Appendix C - Moving Beyond the Baseline: LRO/6-Appendix%20C%20Moving%20Beyond%20the%20Baseline.md
     - Phishing:
         - Setting up GoPhish on AWS: phishing/d1.md
         - Using Gophish: phishing/d2.md
