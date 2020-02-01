@@ -1,137 +1,636 @@
-<!DOCTYPE html>
-<html lang="en">
+
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
   <head>
+    
       <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
       
       
       
-      <link rel="shortcut icon" href="../../img/favicon.ico">
-      <title>Common Cybersecurity Controls - Beta Resources</title>
-      <script src="../../dist/bundle.js"></script>
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.6.0">
+    
+    
+      
+        <title>Common Cybersecurity Controls - Beta Resources</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/application.1b62728e.css">
+      
+      
+    
+    
+      <script src="../../assets/javascripts/modernizr.268332fc.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../assets/fonts/material-icons.css">
+    
+    
+    
+      
+    
     
   </head>
-
-  <body class="">
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark navbar-fixed-top">
-      <div class="container">
-          <a class="navbar-brand" href="../..">Beta Resources</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-top" aria-controls="navbar-top" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div id="navbar-top" class="collapse navbar-collapse">
-              <nav class="nav">
-                <ul class="navbar-nav">
-                      <li >
-                        <a class="nav-link" href="../..">Home</a>
-                      </li>
-                      <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          Phishing <b class="caret"></b>
-                        </a>
-
-                        <ul class="dropdown-menu">
-                            
-  <li>
-    <a href="../../phishing/d1/" class="dropdown-item">Setting up GoPhish on AWS</a>
-  </li>
-                            
-  <li>
-    <a href="../../phishing/d2/" class="dropdown-item">Using Gophish</a>
-  </li>
-                        </ul>
-                      </li>
-                      <li class="nav-item dropdown active">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          LRO <b class="caret"></b>
-                        </a>
-
-                        <ul class="dropdown-menu">
-                            
-  <li>
-    <a href="../0-Introduction and TOC (README)/" class="dropdown-item">Need for Cybersecurity</a>
-  </li>
-                            
-  <li>
-    <a href="./" class="dropdown-item active">Common Cybersecurity Controls</a>
-  </li>
-                        </ul>
-                      </li>
-                      <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          Test <b class="caret"></b>
-                        </a>
-
-                        <ul class="dropdown-menu">
-                            
-  <li class="dropdown-submenu">
-    <a href="#" class="dropdown-toggle dropdown-item" data-toggle="dropdown" aria-expanded="false">Staff</a>
-    <ul class="dropdown-menu">
+  
+    <body dir="ltr">
+  
+    <svg class="md-svg">
+      <defs>
         
-  <li>
-    <a href="../../placeholder.md" class="dropdown-item">Steve</a>
-  </li>
-    </ul>
-  </li>
-                            
-  <li class="dropdown-submenu">
-    <a href="#" class="dropdown-toggle dropdown-item" data-toggle="dropdown" aria-expanded="false">Students</a>
-    <ul class="dropdown-menu">
         
-  <li>
-    <a href="../../raj.md" class="dropdown-item">Raj</a>
-  </li>
-    </ul>
-  </li>
-                        </ul>
-                      </li>
-                </ul>
-              </nav>
-
-          <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
-                <li class="nav-item">
-                  <a class="nav-link" href="#" data-toggle="modal" data-target="#mkdocs-search-modal">
-                    <i class="fa fa-search"></i> Search
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" rel="next" href="../0-Introduction and TOC (README)/">
-                    <i class="fa fa-arrow-left"></i> Previous
-                  </a>
-                </li>
-                <li class="nav-item disabled">
-                  <a class="nav-link" rel="prev" >
-                    Next <i class="fa fa-arrow-right"></i>
-                  </a>
-                </li>
-          </ul>
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#section-2-common-cybersecurity-controls" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../.." title="Beta Resources" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon"></i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            <span class="md-header-nav__topic">
+              Beta Resources
+            </span>
+            <span class="md-header-nav__topic">
+              
+                Common Cybersecurity Controls
+              
+            </span>
+          
         </div>
       </div>
-    </nav><div id="content" class="container">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
           
-      <div class="row">
-        <div class="col-md-9" role="main">
-
-
-  <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
-      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
         
-          <li class="breadcrumb-item">LRO</li>
-        
+      </div>
       
-      
-        <li class="breadcrumb-item active" aria-current="page">
-          Common Cybersecurity Controls
-        </li>
-      
-    </ol>
+    </div>
   </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+      <main class="md-main" role="main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../.." title="Beta Resources" class="md-nav__button md-logo">
+      
+        <i class="md-icon"></i>
+      
+    </a>
+    Beta Resources
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
 
 
-<p><em>Please Note: Cybersecurity is a rapidly evolving field. This document was last updated on February 2, 2019. Some of the technical guidance within this document may change, and some of the risks defined may increase or decrease in their potential likelihood or impact.</em></p>
+  <li class="md-nav__item">
+    <a href="../.." title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      Phishing
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Phishing
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../phishing/d1/" title="Setting up GoPhish on AWS" class="md-nav__link">
+      Setting up GoPhish on AWS
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../phishing/d2/" title="Using Gophish" class="md-nav__link">
+      Using Gophish
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" checked>
+    
+    <label class="md-nav__link" for="nav-3">
+      LRO
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        LRO
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../0-Introduction and TOC (README)/" title="Need for Cybersecurity" class="md-nav__link">
+      Need for Cybersecurity
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Common Cybersecurity Controls
+      </label>
+    
+    <a href="./" title="Common Cybersecurity Controls" class="md-nav__link md-nav__link--active">
+      Common Cybersecurity Controls
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-use-this-guide" class="md-nav__link">
+    How to Use This Guide
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#strong-authentication" class="md-nav__link">
+    Strong Authentication
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#multi-factor-authentication" class="md-nav__link">
+    Multi-factor Authentication
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#password-managers" class="md-nav__link">
+    Password Managers
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#account-monitoring" class="md-nav__link">
+    Account Monitoring
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#automatic-updates-and-software-licenses" class="md-nav__link">
+    Automatic Updates and Software Licenses
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-cloud" class="md-nav__link">
+    The Cloud
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#https" class="md-nav__link">
+    HTTPS
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data-security" class="md-nav__link">
+    Data Security
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#encryption" class="md-nav__link">
+    Encryption
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#access-management" class="md-nav__link">
+    Access Management
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#notes" class="md-nav__link">
+    Notes
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+    
+    <label class="md-nav__link" for="nav-4">
+      Test
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        Test
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-1" type="checkbox" id="nav-4-1">
+    
+    <label class="md-nav__link" for="nav-4-1">
+      Staff
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-4-1">
+        Staff
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../placeholder.md" title="Steve" class="md-nav__link">
+      Steve
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-2" type="checkbox" id="nav-4-2">
+    
+    <label class="md-nav__link" for="nav-4-2">
+      Students
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-4-2">
+        Students
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../raj.md" title="Raj" class="md-nav__link">
+      Raj
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-use-this-guide" class="md-nav__link">
+    How to Use This Guide
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#strong-authentication" class="md-nav__link">
+    Strong Authentication
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#multi-factor-authentication" class="md-nav__link">
+    Multi-factor Authentication
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#password-managers" class="md-nav__link">
+    Password Managers
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#account-monitoring" class="md-nav__link">
+    Account Monitoring
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#automatic-updates-and-software-licenses" class="md-nav__link">
+    Automatic Updates and Software Licenses
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-cloud" class="md-nav__link">
+    The Cloud
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#https" class="md-nav__link">
+    HTTPS
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data-security" class="md-nav__link">
+    Data Security
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#encryption" class="md-nav__link">
+    Encryption
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#access-management" class="md-nav__link">
+    Access Management
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#notes" class="md-nav__link">
+    Notes
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <p><em>Please Note: Cybersecurity is a rapidly evolving field. This document was last updated on February 2, 2019. Some of the technical guidance within this document may change, and some of the risks defined may increase or decrease in their potential likelihood or impact.</em></p>
 <h1 id="section-2-common-cybersecurity-controls">Section 2: Common Cybersecurity Controls</h1>
 <p>Improving cybersecurity in any organization often requires moving from ad-hoc responses to intentional planning. Many of the technical steps that an organization can take to improve its cybersecurity posture are relatively simple – some can even be automated for an entire organization with the click of a button. But making any type of organization-wide change often requires a cultural change as well. Creating an organizational policy outlining cybersecurity expectations for staff can help usher in this cultural change. The active participation of staff is critical in ensuring that changes stick.</p>
 <p>This section will provide a series of technical controls and best practices a LRO can use to mitigate common cybersecurity issues, such as the three common threat areas described previously. A control is a tool, technique, or policy that makes hackers work harder, or makes a cybersecurity risk less likely to materialize.</p>
@@ -421,75 +920,67 @@ Weeks
 <p>Merely encrypting data is not always enough to keep it "secure." While encrypted devices are generally safe from the prying eyes of outsiders, there are plenty of internal risks posed by data sharing within organizations or between partners. For example, it would be disastrous if all employees were able to view each other's HR files. Similarly, a strategic planning document shared with a close partner organization could be passed along inappropriately to a third party. Access management can help to address these internal risks. Access management is the process of reviewing who within an organization has access to different resources, and setting clear "permissions" (or technical abilities) that restrict or grant access for each employee to the appropriate resources. Access management is particularly important for organizations with cloud-based storage, since cloud services make it very easy to share documents inside and outside of an organization. Many cloud services provide administrators with easy ways to manage access across their organizations' documents. However, fine-grained management of access permissions can take time - it is important to designate ownership of this task to specific individuals in your organization to ensure access controls are regularly refreshed.</p>
 <h3 id="notes">Notes</h3>
 <pre><code>Dino Dai Zovi, a cybersecurity researcher, has said that "If the cost to attack is less than the value of your information to the attacker, you will be attacked." To learn more about the basic economic logic of online attackers, you can view his presentation here: [https://trailofbits.files.wordpress.com/2011/08/attacker-math.pdf](https://trailofbits.files.wordpress.com/2011/08/attacker-math.pdf)
-</code></pre></div>
-        <div class="col-md-3"><div class="navbar-light navbar-expand-md hidden-print sticky-top sticky-offset" role="complementary">
-  <div class="navbar-header">
-    <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
-      <span class="fa fa-angle-down"></span>
-    </button>
-  </div>
+</code></pre>
+                
+                  
+                
+                
+              
+              
+                
 
-  <div id="toc-collapse" class="navbar-collapse collapse card">
-    <ul class="nav flex-column bs-sidenav">
-        <li class="nav-item main"><a class="nav-link" href="#section-2-common-cybersecurity-controls">Section 2: Common Cybersecurity Controls</a></li>
-          <li class="nav-item">
-            <a href="#how-to-use-this-guide" class="nav-link">How to Use This Guide</a>
-          </li>
-          <li class="nav-item">
-            <a href="#strong-authentication" class="nav-link">Strong Authentication</a>
-          </li>
-          <li class="nav-item">
-            <a href="#automatic-updates-and-software-licenses" class="nav-link">Automatic Updates and Software Licenses</a>
-          </li>
-          <li class="nav-item">
-            <a href="#the-cloud" class="nav-link">The Cloud</a>
-          </li>
-          <li class="nav-item">
-            <a href="#https" class="nav-link">HTTPS</a>
-          </li>
-          <li class="nav-item">
-            <a href="#data-security" class="nav-link">Data Security</a>
-          </li>
-          <li class="nav-item">
-            <a href="#notes" class="nav-link">Notes</a>
-          </li>
-    </ul>
-  </div>
-</div></div>
-      </div>
-        </div>
 
-    <footer class="col-md-12">
-      <hr>
-      <div class="container">
-      </div>
-    </footer>
-      <script>
-        var base_url = "../..";
-      </script>
-        <script src="../../search/main.js" defer></script>
-
-    <div class="modal" id="mkdocs-search-modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h4 class="modal-title">Search</h4>
-        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-      </div>
-      <div class="modal-body">
-        <p>From here you can search these documents. Enter your search terms below.</p>
-        <form role="form">
-          <div class="form-group">
-            <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+              
+            </article>
           </div>
-        </form>
-        <div id="mkdocs-search-results"></div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../0-Introduction and TOC (README)/" title="Need for Cybersecurity" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Need for Cybersecurity
+              </span>
+            </div>
+          </a>
+        
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
       </div>
-      <div class="modal-footer">
-      </div>
+      
     </div>
   </div>
-</div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/application.808e90bb.js"></script>
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
+      
+    
   </body>
 </html>
-

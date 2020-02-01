@@ -17,5 +17,5 @@ nav:
             - Raj: raj.md
 
 theme:
-  name: 'bootstrap4'
+  name: material
   next_previous: true
