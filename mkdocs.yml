@@ -1,10 +1,10 @@
-site_name: Beta Resources
+site_name: Citizen Clinic Resources (Beta)
 docs_dir: markdown/
 site_dir: docs/
 
 repo_name: 'cltc-berkeley/resources-beta'
 repo_url: 'https://github.com/cltc-berkeley/resources-beta'
-edit_uri: 'markdown'
+edit_uri: '/tree/master/markdown'
 
 nav:
     - Home: index.md
