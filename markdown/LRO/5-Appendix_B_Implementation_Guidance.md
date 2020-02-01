@@ -148,6 +148,7 @@ It is likely that data - both sensitive and insensitive - is currently spread ac
     *   [Android](https://support.google.com/android/answer/2781972?hl=en)
     *   [iOS](https://support.apple.com/en-us/HT206481)
 *   **Search:** Organizations can save documents in many locations, sometimes accidentally, sometimes on purpose. The result is that most organizations end up having a sprawl of folders across their "documents" library, their desktop, and everywhere in-between. While spending time searching through common directories for important documents is worthwhile, it is not always clear where to look. Using the search function in your operating system can be a powerful shortcut - but what should you search for? Depending on what type of work you do, there are likely only a few file types with which you regularly work - Microsoft Word, Excel, and Powerpoint are some of the most common. By searching for their extension name (or the .xyz at the end of the file type - such as .doc or docx for Word, or .xls or .xlsx for Excel), you can search your operating system for documents that are important to migrate. The searching process can also reveal folders you may have forgotten about that are hiding important files. Some common extensions you may want to search for include:
+
     *   **Microsoft Word:** .doc, .docx, .odt
     *   **Microsoft Excel:** .xls, .xlsx, .csv
     *   **Microsoft Powerpoint:** .ppt, .pptx
@@ -161,6 +162,7 @@ It is likely that data - both sensitive and insensitive - is currently spread ac
 >**WARNING:** Resetting a device to factory settings or reinstalling its operating system will purge all data and applications from the device. Make sure any information you want to keep is backed up in the cloud or on an external drive before resetting your device.
 
 Information on how to reset, refresh, or reinstall common operating systems can be found here:
+
 * [Resetting Windows 10](https://support.microsoft.com/en-us/help/4026528/windows-reset-or-reinstall-windows-10)
 * [How to refresh, reset, or reinstall older versions of Windows](https://support.microsoft.com/en-us/help/17085/windows-8-restore-refresh-reset-pc)
 * [How to restore iOS device to factory settings](https://support.apple.com/en-us/HT201252)
