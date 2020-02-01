@@ -11,9 +11,9 @@ Each template can be expanded as needed – while there may not be enough fields
 
 ## Strong Authentication 
 
-[Read the description of this control here.](../2-Common%20Cybersecurity%20Controls.md#strong-authentication)
+[Read the description of this control here.](../LRO/2-Common%20Cybersecurity%20Controls.md#strong-authentication)
 
-[Additional implementation guidance can be found here.](../5-Appendix%20B%20Implementation%20Guidance.md#strong-authentication)
+[Additional implementation guidance can be found here.](../LRO/5-Appendix%20B%20Implementation%20Guidance.md#strong-authentication)
 
 **Policy Selection:**
 
@@ -40,9 +40,9 @@ What accounts are considered critical?
 
 ## Automatic Updates and Software Licenses  
 
-[Read the description of this control here.](../2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses)
+[Read the description of this control here.](../LRO/2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses)
 
-[Additional implementation guidance can be found here.](../5-Appendix%20B%20Implementation%20Guidance.md#automatic-updates-and-software-licenses)
+[Additional implementation guidance can be found here.](../LRO/5-Appendix%20B%20Implementation%20Guidance.md#automatic-updates-and-software-licenses)
 
 **Policy Selection:**
 
