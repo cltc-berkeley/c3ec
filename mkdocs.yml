@@ -9,7 +9,8 @@ edit_uri: '/cltc-berkeley/resources-beta/tree/master/markdown'
 
 plugins:
     - search
-    - pdf-export
+    - pdf-export:
+        combined: true
 
 nav:
     - Home: index.md
