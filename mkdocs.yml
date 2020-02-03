@@ -7,6 +7,10 @@ repo_name: 'cltc-berkeley/resources-beta'
 repo_url: 'https://github.com/cltc-berkeley/resources-beta'
 edit_uri: '/cltc-berkeley/resources-beta/tree/master/markdown'
 
+plugins:
+    - search
+    - pdf-export
+
 nav:
     - Home: index.md
     - Low-Risk Organization Guide:
