@@ -2,7 +2,7 @@
 
 **Spring 2020**
 
-**Course description.**
+### **Course description.**
 
 For individuals and organizations involved in political advocacy, cybersecurity threats are an increasingly common reality of operating in the digital world. Civil society has always been under attack from ideological, political, and governmental opponents who seek to silence dissenting opinions, but the widespread adoption of connected technologies by the individuals and organizations that make up civil society creates a new class of vulnerabilities.
 
@@ -20,18 +20,18 @@ _Note: This schedule is tentative and may be adjusted - assignment dates may cha
 **Wednesday 1/22:** 
 
 
-    Introduction to Public Interest Cybersecurity: _We will introduce the content and methods of the course, answer your questions, and everyone will introduce themselves to one another._
+Introduction to Public Interest Cybersecurity: _We will introduce the content and methods of the course, answer your questions, and everyone will introduce themselves to one another._
 
 **Assignments:**
 
 
-    _Due Friday 1/24 6:00PM:** **_Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on January 27th.
+_Due Friday 1/24 6:00PM:** **_Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on January 27th.
 
 
-    _Due Monday 1/27 before class:_ 
+_Due Monday 1/27 before class:_ 
 
 
-    Read pages 7 - 21 & 48 - 52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)] Prepare answers to questions on pages 15 - 17 and page 53 for in-class discussion.
+Read pages 7 - 21 & 48 - 52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)] Prepare answers to questions on pages 15 - 17 and page 53 for in-class discussion.
 
 **	Read (by next week): **
 
