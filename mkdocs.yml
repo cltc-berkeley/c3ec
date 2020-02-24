@@ -25,11 +25,9 @@ nav:
     - Phishing:
         - Setting up GoPhish on AWS: phishing/d1.md
         - Using Gophish: phishing/d2.md
-    - Test:
-        - Staff:
-            - Steve: placeholder.md
-        - Students:
-            - Raj: raj.md
+    - Clinic Curriculum:
+        - Syllabi: Clinic Curriculum/Clinic_Syllabus_Spring_2020.md
+        - Lectures: Clinic Curriculum/index.md
 
 theme:
   name: material
