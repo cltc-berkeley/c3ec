@@ -25,7 +25,7 @@ Introduction to Public Interest Cybersecurity: _We will introduce the content an
 **Assignments:**
 
 
-_Due Friday 1/24 6:00PM:** **_Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on January 27th.
+_Due Friday 1/24 6:00PM:_ Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on January 27th.
 
 
 _Due Monday 1/27 before class:_ 
@@ -35,65 +35,60 @@ Read pages 7 - 21 & 48 - 52 of “An Introduction to Cybersecurity Ethics” (Sh
 
 **	Read (by next week): **
 
+Shannon Vallor, The Markkula Center for Applied Ethics, “An Introduction to Cybersecurity Ethics” pages 7 - 21 & 48 - 52. [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)]
 
-    Shannon Vallor, The Markkula Center for Applied Ethics, “An Introduction to Cybersecurity Ethics” pages 7 - 21 & 48 - 52. [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)]
+Sandro Contento, Toronto Star, “How these Toronto sleuths are exposing the world’s digital spies while risking their own lives” [[https://docs.google.com/document/d/1WXpoDoHfht87nL0xxnFBxFAGuQaJ00RWKcLS2r9zaBs/edit?usp=sharing](https://docs.google.com/document/d/1WXpoDoHfht87nL0xxnFBxFAGuQaJ00RWKcLS2r9zaBs/edit?usp=sharing)] 
 
-
-    Sandro Contento, Toronto Star, “How these Toronto sleuths are exposing the world’s digital spies while risking their own lives” [[https://docs.google.com/document/d/1WXpoDoHfht87nL0xxnFBxFAGuQaJ00RWKcLS2r9zaBs/edit?usp=sharing](https://docs.google.com/document/d/1WXpoDoHfht87nL0xxnFBxFAGuQaJ00RWKcLS2r9zaBs/edit?usp=sharing)] 
-
-	Access Now. “Spyware in Mexico: an interview with Luis Fernando García of R3D Mexico” 
+Access Now. “Spyware in Mexico: an interview with Luis Fernando García of R3D Mexico” 
 
 [[https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/](https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/)]
 
-**(Explore & use) **Citizen Lab’s Security Planner. [[https://securityplanner.org/](https://securityplanner.org/)]
+**(Explore & use)** Citizen Lab’s Security Planner. [[https://securityplanner.org/](https://securityplanner.org/)]
 
-
-    **(Skim)** Tactical Tech's Annual Report [[https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf](https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf)] 
+**(Skim)** Tactical Tech's Annual Report [[https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf](https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf)] 
 
 **(Optional)** Alex Gaynor. “What happens when you type google.com into your browser's address box and press enter?" 
-
 [[https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)]
 
 
-    **(Optional) **Rus Shuler. “How Does the Internet Work?” [[web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)]
-
+**(Optional)** Rus Shuler. “How Does the Internet Work?” [[web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)]
 
 ### **Week 1: Code of Conduct and Ethics in Cybersecurity**
 
 **Monday 1/27:**
 
 
-    Ethics and “Rules of the Road” - Steve
+Ethics and “Rules of the Road” - Steve
 
 
-        Citizen Clinic Code of Conduct. 
+* Citizen Clinic Code of Conduct. 
 
 
-        Ethical Considerations.
+* Ethical Considerations.
 
 
-        Security Response Plan.
+* Security Response Plan.
 
-	**Wednesday 1/29:**
+**Wednesday 1/29:**
 
-**		**Old School INFOSEC: Basic (& Some Outdated) Controls - Steve & Sean
-
-
-    Clinic Communications Setup - Steve
+Old School INFOSEC: Basic (& Some Outdated) Controls - Steve & Sean
 
 
-    Partner Overview - Sean
+* Clinic Communications Setup - Steve
+
+
+* Partner Overview - Sean
 
 **Assignments:**
 
 
-    _Due 1/27 before class:_ Prepare answers to questions on pages 15 - 17 and page 53 of “Intro to Cybersecurity Ethics” for in-class discussion. _[Individual]_ 
+_Due 1/27 before class:_ Prepare answers to questions on pages 15 - 17 and page 53 of “Intro to Cybersecurity Ethics” for in-class discussion. _[Individual]_ 
 
 
-    _Due 1/27 In-Class_: Code of Conduct Signed _[Individual]_ 
+_Due 1/27 In-Class:_ Code of Conduct Signed _[Individual]_ 
 
 
-    _Due 1/31 6:00PM: _Equipment Setup Completed & Partner Preference Submitted _[Individual]_
+_Due 1/31 6:00PM:_ Equipment Setup Completed & Partner Preference Submitted _[Individual]_
 
 **	Read (by next week):**
 
