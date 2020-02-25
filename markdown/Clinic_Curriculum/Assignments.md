@@ -2,50 +2,43 @@
 
 ### **Assignments.**
 
-* _Due Friday 1/24 6:00PM:_ Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on January 27th.
+* _Week 0:_ Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on January 27th.
 
-* _Due Monday 1/27 before class:_ Read pages 7 - 21 & 48 - 52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)] Prepare answers to questions on pages 15 - 17 and page 53 for in-class discussion.
+* _Week 1:_ Read pages 7 - 21 & 48 - 52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)] Prepare answers to questions on pages 15 - 17 and page 53 for in-class discussion.
 
-
-* _Due 1/27 before class:_ Prepare answers to questions on pages 15 - 17 and page 53 of “Intro to Cybersecurity Ethics” for in-class discussion. _[Individual]_ 
-
-
-* _Due 1/27 In-Class:_ Code of Conduct Signed _[Individual]_ 
+* _Week 1:_ Code of Conduct Signed _[Individual]_ 
 
 
-* _Due 1/31 6:00PM:_ Equipment Setup Completed & Partner Preference Submitted _[Individual]_
+* _Week 1:_ Equipment Setup Completed & Partner Preference Submitted _[Individual]_
 
 
-* _Due 2/5 6:00PM:_ Internal Collaborative Plan _[Team]_
+* _Week 2:_ Internal Collaborative Plan _[Team]_
 
 
-* _Due 2/7 6:00PM:_ Mentor Communications Established _[Team]_
+* _Week 2:_ Mentor Communications Established _[Team]_
 
 
-* _Due 2/14 6:00PM_: Partner Communications Established _[Team]_
+* _Week 3:_ Partner Communications Established _[Team]_
 
-* _Due 3/6 6:00PM_  Draft Work Plan and Partner Report to Teaching Team _[Team]_
+* _Week 6:_  Draft Work Plan and Partner Report to Teaching Team _[Team]_
 
-* _Due 3/6 6:00PM_ Team Evaluation 1 _[Individual]_
+* _Week 6:_ Team Evaluation 1 _[Individual]_
 
-* _Due 3/11 12:00PM_ Midterm Project Presentations _with Special Guest(s)_
+* _Week 7:_ Midterm Project Presentations
 
-* _Due 3/13 6:00 PM:_ Work Plan and Partner Report to Partner _[Team]_
+* _Week 7:_ Work Plan and Partner Report to Partner _[Team]_
 
+* _Week 8:_ **Community Service Assignment**
 
-* _Wednesday, 3/18:_ **_SAVE THE DATE:_ Community Service Assignment**
+* _Week 14:_ Final Partner Report for Teaching Team Review _[Team]_
 
+* _Week 15:_ Final Presentation Slides Submitted _[Team]_
 
+* _Week 15:_ Final Partner Report Submitted to Partner _[Team]_
 
-* _5/1 6:00PM:_ Final Partner Report for Teaching Team Review _[Team]_
+* _Week 15:_ Case Study Write-up _[Team]_
 
-* _5/5 6:00PM_: Final Presentation Slides Submitted _[Team]_
-
-* _5/8 6:00PM:_ Final Partner Report Submitted to Partner _[Team]_
-
-* _5/8 6:00PM:_ Case Study Write-up _[Team]_
-
-* _5/8 6:00PM:_ Team Evaluation 2 _[Individual]_
+* _Week 15:_ Team Evaluation 2 _[Individual]_
 
 
 ## 
