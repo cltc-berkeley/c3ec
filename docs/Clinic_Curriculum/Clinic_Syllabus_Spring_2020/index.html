@@ -125,11 +125,11 @@
     top: 0;
     right: 0;
     left: 0;
-    height: 2.8rem;
+    height: 3.0rem;
     -webkit-transition: background-color .25s,color .25s;
     transition: background-color .25s,color .25s;
     background-color: #000;
-	background-image: url(assets/images/header.jpg); 
+	background-image: url(../../assets/images/header.jpg); 
     background-position: 100% 100%;
     background-repeat: no-repeat;
     color: #fff;
@@ -138,6 +138,25 @@
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
+
+.md-header-nav__topic {
+    display: block;
+    position: absolute;
+    -webkit-transition: opacity .15s,-webkit-transform .4s cubic-bezier(.1,.7,.1,1);
+    transition: opacity .15s,-webkit-transform .4s cubic-bezier(.1,.7,.1,1);
+    transition: transform .4s cubic-bezier(.1,.7,.1,1),opacity .15s;
+    transition: transform .4s cubic-bezier(.1,.7,.1,1),opacity .15s,-webkit-transform .4s cubic-bezier(.1,.7,.1,1);
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.md-header-nav__title {
+    padding: 0 1rem;
+    font-size: 1.1rem;
+    line-height: 2.9rem;
+}
+
 </style>
 
 <!-- Application header -->
@@ -152,7 +171,7 @@
             aria-label="Citizen Clinic Resources (Beta)"
             class="md-header-nav__button md-logo">
           
-            <img alt="logo" src="../../images/logo.png" width="36" height="24" />
+            <img alt="logo" src="../../images/logo.png" width="52" height="38" />
           
         </a>
       </div>
