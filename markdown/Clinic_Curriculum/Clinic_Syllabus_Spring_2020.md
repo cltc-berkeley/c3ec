@@ -1,13 +1,15 @@
-**INFO289. Public Interest Cybersecurity: The Citizen Clinic Practicum.**
-
-**Spring 2020**
-
 !!! tip "New in Spring 2020!"
 	* Incorporated use of virtual environments.
     * Added student-led current events kickoff discussion.
-    * Added student-led community service workshop.
+    * Added student-led community-focused security training event.
+    * Developed (with EFF) hands-on Security Training design module for community-focused workshop.
     * Moved Resiliency module earlier in semester.
-    * Added fireside chat with Policy & Legal experts.
+    * Added collaborative discussion with Policy & Legal experts.
+
+
+**INFO289. Public Interest Cybersecurity: The Citizen Clinic Practicum.**
+
+**Spring 2020**
 
 
 ### **Course Description.**
