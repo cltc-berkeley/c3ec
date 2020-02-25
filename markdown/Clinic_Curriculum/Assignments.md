@@ -2,7 +2,7 @@
 
 ### **Assignments.**
 
-* _Week 0:_ Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on January 27th.
+* _Week 0:_ Submit application materials to enroll in this course. 
 
 * _Week 1:_ Read pages 7 - 21 & 48 - 52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)] Prepare answers to questions on pages 15 - 17 and page 53 for in-class discussion.
 
