@@ -25,9 +25,9 @@ Introduction to Public Interest Cybersecurity: _We will introduce the content an
 **Assignments:**
 
 
-_Due Friday 1/24 6:00PM:_ Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on January 27th.
+* _Due Friday 1/24 6:00PM:_ Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on January 27th.
 
-_Due Monday 1/27 before class:_ Read pages 7 - 21 & 48 - 52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)] Prepare answers to questions on pages 15 - 17 and page 53 for in-class discussion.
+* _Due Monday 1/27 before class:_ Read pages 7 - 21 & 48 - 52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)] Prepare answers to questions on pages 15 - 17 and page 53 for in-class discussion.
 
 **Read (by next week):**
 
@@ -75,13 +75,13 @@ Partner Overview - Sean
 **Assignments:**
 
 
-_Due 1/27 before class:_ Prepare answers to questions on pages 15 - 17 and page 53 of “Intro to Cybersecurity Ethics” for in-class discussion. _[Individual]_ 
+* _Due 1/27 before class:_ Prepare answers to questions on pages 15 - 17 and page 53 of “Intro to Cybersecurity Ethics” for in-class discussion. _[Individual]_ 
 
 
-_Due 1/27 In-Class:_ Code of Conduct Signed _[Individual]_ 
+* _Due 1/27 In-Class:_ Code of Conduct Signed _[Individual]_ 
 
 
-_Due 1/31 6:00PM:_ Equipment Setup Completed & Partner Preference Submitted _[Individual]_
+* _Due 1/31 6:00PM:_ Equipment Setup Completed & Partner Preference Submitted _[Individual]_
 
 **Read (by next week):**
 
@@ -117,10 +117,10 @@ Contextual & Capacity Research - Steve
 
 **Assignments:**
 
-_Due 2/5 6:00PM:_ Internal Collaborative Plan _[Team]_
+* _Due 2/5 6:00PM:_ Internal Collaborative Plan _[Team]_
 
 
-_Due 2/7 6:00PM:_ Mentor Communications Established _[Team]_
+* _Due 2/7 6:00PM:_ Mentor Communications Established _[Team]_
 
 **Read (by next week):**
 
@@ -161,7 +161,7 @@ Problem Diagnosis and Reframing - Sean
 **Assignments:**
 
 
-_Due 2/14 6:00PM_: Partner Communications Established _[Team]_
+* _Due 2/14 6:00PM_: Partner Communications Established _[Team]_
 
 **Read (by next week):**
 
