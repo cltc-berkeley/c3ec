@@ -1,4 +1,4 @@
-**Current as of Spring 2020**
+**_Current as of Spring 2020._**
 
 ### **Assignments.**
 
@@ -41,12 +41,9 @@
 * _Week 15:_ Team Evaluation 2 _[Individual]_
 
 
-## 
 
+## **Evaluation.**
 
-## Course policies
-
-**Evaluation.**
 
 Assignments will largely be evaluated on the following rubric that emphasizes (1) sound rationale in assessments, recommendations, and reflections, (2) “partner-ready” work products which reflect professional quality, and (3) completing the instructions of the assignment or the requirements agreed upon work plan with the partner. 
 
