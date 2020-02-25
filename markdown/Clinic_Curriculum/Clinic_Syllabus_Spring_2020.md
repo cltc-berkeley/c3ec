@@ -2,6 +2,14 @@
 
 **Spring 2020**
 
+!!! tip "New in Spring 2020!"
+	* Incorporated use of virtual environments.
+    * Added student-led current events kickoff discussion.
+    * Added student-led community service workshop.
+    * Moved Resiliency module earlier in semester.
+    * Added fireside chat with Policy & Legal experts.
+
+
 ### **Course Description.**
 
 For individuals and organizations involved in political advocacy, cybersecurity threats are an increasingly common reality of operating in the digital world. Civil society has always been under attack from ideological, political, and governmental opponents who seek to silence dissenting opinions, but the widespread adoption of connected technologies by the individuals and organizations that make up civil society creates a new class of vulnerabilities.

@@ -52,5 +52,6 @@ theme:
   next_previous: true
 
 markdown_extensions:
+  - admonition
   - footnotes
   - pymdownx.magiclink
