@@ -1,5 +1,5 @@
 
-**_Current as of Spring 2020_**
+**_Current as of Spring 2020._**
 
 ### **Lectures and Activities.**
 
@@ -54,7 +54,7 @@
 
 * Legal and Policy Factors For Non-Profits’ Cybersecurity - Kristin Berdan, Clinic Fellow, former Google Security Legal Counsel
 
-* Psychosocial Resilience, Andrea Lampros & Gisela Perez de Acha, Human Rights Center
+* Psychosocial Resilience - Andrea Lampros & Gisela Perez de Acha, Human Rights Center
 
 * Organizational Risks of Harmful Information - Steve
 
