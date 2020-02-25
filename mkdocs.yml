@@ -14,7 +14,16 @@ plugins:
 
 nav:
     - Home: index.md
-    - Low-Risk Organization Guide:
+    - Curriculum:
+        - Syllabus: 
+          - Current (Spring 2020): Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
+        - Assignments: Clinic_Curriculum/Assignments.md
+        - Lectures & Activities: Clinic_Curriculum/Lectures_and_Activities.md
+    - Infrastructure:
+        - Virtual Private Network: Clinic_Infrastructure/VPN.md
+        - Virtual Machines: Clinic_Infrastructure/VM.md
+        - Phishing Simulation: Clinic_Infrastructure/Phishing_Simulation.md
+    - Baseline Organizational Security Guide:
         - Introduction: LRO/0-Introduction_and_TOC_(README).md
         - Why do Low-Risk Organizations Need Cybersecurity?: LRO/1-Why_Do_Low-Risk_Organizations_Need_Cybersecurity.md
         - Common Cybersecurity Controls: LRO/2-Common_Cybersecurity_Controls.md
@@ -22,13 +31,7 @@ nav:
         - Appendix A - Building a Security Policy for Your Organization: LRO/4-Appendix_A_Building_a_Security_Policy.md
         - Appendix B - Implementation Guidance: LRO/5-Appendix_B_Implementation_Guidance.md
         - Appendix C - Moving Beyond the Baseline: LRO/6-Appendix_C_Moving_Beyond_the_Baseline.md
-    - Phishing:
-        - Setting up GoPhish on AWS: phishing/d1.md
-        - Using Gophish: phishing/d2.md
-    - Clinic Curriculum:
-        - Syllabus: 
-          - Current (Spring 2020): Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
-        - Lectures: Clinic Curriculum/index.md
+
 
 theme:
   name: material

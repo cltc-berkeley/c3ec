@@ -6,6 +6,36 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://cltc-berkeley.github.io/resources-beta/Clinic_Curriculum/Clinic_Syllabus_Spring_2020/</loc>
+     <lastmod>2020-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cltc-berkeley.github.io/resources-beta/Clinic_Curriculum/Assignments/</loc>
+     <lastmod>2020-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cltc-berkeley.github.io/resources-beta/Clinic_Curriculum/Lectures_and_Activities/</loc>
+     <lastmod>2020-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cltc-berkeley.github.io/resources-beta/Clinic_Infrastructure/VPN/</loc>
+     <lastmod>2020-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cltc-berkeley.github.io/resources-beta/Clinic_Infrastructure/VM/</loc>
+     <lastmod>2020-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cltc-berkeley.github.io/resources-beta/Clinic_Infrastructure/Phishing_Simulation/</loc>
+     <lastmod>2020-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://cltc-berkeley.github.io/resources-beta/LRO/0-Introduction_and_TOC_(README)/</loc>
      <lastmod>2020-02-24</lastmod>
      <changefreq>daily</changefreq>
@@ -38,26 +68,6 @@
     <url>
      <loc>https://cltc-berkeley.github.io/resources-beta/LRO/6-Appendix_C_Moving_Beyond_the_Baseline/</loc>
      <lastmod>2020-02-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://cltc-berkeley.github.io/resources-beta/phishing/d1/</loc>
-     <lastmod>2020-02-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://cltc-berkeley.github.io/resources-beta/phishing/d2/</loc>
-     <lastmod>2020-02-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://cltc-berkeley.github.io/resources-beta/Clinic_Curriculum/Clinic_Syllabus_Spring_2020/</loc>
-     <lastmod>2020-02-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
      <changefreq>daily</changefreq>
     </url>
 </urlset>
