@@ -157,9 +157,17 @@
     line-height: 3.4rem;
 }
 
+.md-tabs[data-md-state=hidden] .md-tabs__link {
+    -webkit-transition: color .25s,opacity .1s,-webkit-transform 0s .4s;
+    transition: color .25s,opacity .1s,-webkit-transform 0s .4s;
+    transition: color .25s,transform 0s .4s,opacity .1s;
+    transition: color .25s,transform 0s .4s,opacity .1s,-webkit-transform 0s .4s;
+    opacity: 0;
+}
+
 .md-tabs__item {
     display: inline-block;
-    height: 1.1rem;
+    height: 3.3rem;
     padding-right: .6rem;
     padding-left: .6rem;
 }
