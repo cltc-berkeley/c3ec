@@ -26,7 +26,8 @@ nav:
         - Setting up GoPhish on AWS: phishing/d1.md
         - Using Gophish: phishing/d2.md
     - Clinic Curriculum:
-        - Syllabi: Clinic Curriculum/Clinic_Syllabus_Spring_2020.md
+        - Syllabus: 
+          - Current (Spring 2020): Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
         - Lectures: Clinic Curriculum/index.md
 
 theme:
