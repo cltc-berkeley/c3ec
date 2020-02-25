@@ -25,13 +25,9 @@ Introduction to Public Interest Cybersecurity: _We will introduce the content an
 **Assignments:**
 
 
-_Due Friday 1/24 6:00PM:_ 
+_Due Friday 1/24 6:00PM:_ Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on January 27th.
 
-* Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on January 27th.
-
-_Due Monday 1/27 before class:_ 
-
-* Read pages 7 - 21 & 48 - 52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)] Prepare answers to questions on pages 15 - 17 and page 53 for in-class discussion.
+_Due Monday 1/27 before class:_ Read pages 7 - 21 & 48 - 52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)] Prepare answers to questions on pages 15 - 17 and page 53 for in-class discussion.
 
 **Read (by next week):**
 
@@ -56,26 +52,25 @@ _Due Monday 1/27 before class:_
 **Monday 1/27:**
 
 
-* Ethics and “Rules of the Road” - Steve
+Ethics and “Rules of the Road” - Steve
+
+* Citizen Clinic Code of Conduct. 
 
 
-    * Citizen Clinic Code of Conduct. 
+* Ethical Considerations.
 
 
-    * Ethical Considerations.
-
-
-    * Security Response Plan.
+* Security Response Plan.
 
 **Wednesday 1/29:**
 
-* Old School INFOSEC: Basic (& Some Outdated) Controls - Steve & Sean
+Old School INFOSEC: Basic (& Some Outdated) Controls - Steve & Sean
 
 
-* Clinic Communications Setup - Steve
+Clinic Communications Setup - Steve
 
 
-* Partner Overview - Sean
+Partner Overview - Sean
 
 **Assignments:**
 
@@ -108,15 +103,17 @@ _Due 1/31 6:00PM:_ Equipment Setup Completed & Partner Preference Submitted _[In
 **Monday 2/3:**
 
 
-* Threat Modeling & Bounding Risk Assessments - Sean 
+ Threat Modeling & Bounding Risk Assessments - Sean 
+
 
 **Wednesday 2/5:**
 
-* Contextual & Capacity Research - Steve
 
-	* SAFETAG
+Contextual & Capacity Research - Steve
 
-    * PESTLE-M
+* SAFETAG
+
+* PESTLE-M
 
 **Assignments:**
 
@@ -149,13 +146,17 @@ _Due 2/7 6:00PM:_ Mentor Communications Established _[Team]_
 
 **Monday 2/10:**
 
-* Digital Surveillance of PVOs: The Threat Landscape - Bill Marczak, Citizen Lab, Citizen Clinic Resident
+
+Digital Surveillance of PVOs: The Threat Landscape - Bill Marczak, Citizen Lab, Citizen Clinic Resident
+
 
 **Wednesday 2/12:**
 
-* Contextual Research Recap & Information Gathering - Steve
+Contextual Research Recap & Information Gathering - Steve
 
-* Problem Diagnosis and Reframing - Sean
+
+Problem Diagnosis and Reframing - Sean
+
 
 **Assignments:**
 
@@ -164,13 +165,9 @@ _Due 2/14 6:00PM_: Partner Communications Established _[Team]_
 
 **Read (by next week):**
 
-NIST SP 800-37 “Risk Management Framework for Information Systems and Organizations.” Chapter 2 only. 
+* NIST SP 800-37 “Risk Management Framework for Information Systems and Organizations.” Chapter 2 only. [[https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf](https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20SP%20800-037r2%20Risk%20Management%20Framework%20for%20Information%20Systems%20and%20Organizations;%20A%20System%20Life%20Cycle%20Approach%20for%20Security%20and%20Privacy,%202018-12-20%20(Final).pdf)]
 
-[[https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf](https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20SP%20800-037r2%20Risk%20Management%20Framework%20for%20Information%20Systems%20and%20Organizations;%20A%20System%20Life%20Cycle%20Approach%20for%20Security%20and%20Privacy,%202018-12-20%20(Final).pdf)]
-
-* **(Skim)** NIST SP 800-39 “Managing Information Security Risk.” Chapter 2 only. 
-
-[[https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20SP%20800-039%20Managing%20Information%20Security%20Risk;%20Organization,%20Mission,%20and%20Information%20System%20View,%202011-03-01%20(Final).pdf)]
+* **(Skim)** NIST SP 800-39 “Managing Information Security Risk.” Chapter 2 only. [[https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20SP%20800-039%20Managing%20Information%20Security%20Risk;%20Organization,%20Mission,%20and%20Information%20System%20View,%202011-03-01%20(Final).pdf)]
 
 * **(Skim)** NISTIR 8062 “An Introduction to Privacy Engineering and Risk Management in Federal Systems.” [[https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20IR%208062.pdf)]
 
@@ -197,22 +194,22 @@ NIST SP 800-37 “Risk Management Framework for Information Systems and Organiza
 **Wednesday 2/19:**
 
 
-* Open Source Research Methods, Safety, and Tools - Steve
+Open Source Research Methods, Safety, and Tools - Steve
 
-    * Virtual Networks: VPNs vs TOR
+* Virtual Networks: VPNs vs TOR
 
-    * Virtual Machines
+* Virtual Machines
 
-    * Virtual Identities
+* Virtual Identities
 
-    * Manual Searches & Google Hacking
+* Manual Searches & Google Hacking
 
-    * Automated Tools
+* Automated Tools
 
 **Read (by next week):**
 
 
-* **** Example Risk Assessment shared via email. ****
+* **Example Risk Assessment shared via email.**
 
 
 * Julian Cohen. “Playbook Based Testing.” [[https://medium.com/@HockeyInJune/playbook-based-testing-5df4b656113a](https://medium.com/@HockeyInJune/playbook-based-testing-5df4b656113a)]
@@ -232,12 +229,18 @@ NIST SP 800-37 “Risk Management Framework for Information Systems and Organiza
 
 **Monday 2/24:**
 
-* Adversary Persona Development - Steve & Sean (_Adversary Cards_)
-* Threat Scenario Development - Sean & Steve (_Resource Game_)
+
+Adversary Persona Development - Steve & Sean (_Adversary Cards_)
+
+
+Threat Scenario Development - Sean & Steve (_Resource Game_)
+
 
 **Wednesday 2/26:**
 
-* Changing Behaviors within PVOs - Steve Weber, Professor, School of Information & Department of Political Science
+
+Changing Behaviors within PVOs - Steve Weber, Professor, School of Information & Department of Political Science
+
 
 **Read (by next week):**
 
@@ -256,11 +259,15 @@ NIST SP 800-37 “Risk Management Framework for Information Systems and Organiza
 
 **Monday 3/2:**
 
-* Social Engineering (Phishing Sim Demonstration) - Steve
+
+Social Engineering (Phishing Sim Demonstration) - Steve
+
 
 **Wednesday 3/4:**
 
-* Designing Security Training - Alexis Hancock (Staff Technologist, Electronic Frontier Foundation) & Soraya Okuda (Designer, Security Education Companion, EFF)
+
+Designing Security Training - Alexis Hancock (Staff Technologist, Electronic Frontier Foundation) & Soraya Okuda (Designer, Security Education Companion, EFF)
+
 
 **Assignments:**
 
@@ -285,11 +292,11 @@ NIST SP 800-37 “Risk Management Framework for Information Systems and Organiza
 
 **Monday, 3/9:**
 
-* Legal and Policy Factors For Non-Profits’ Cybersecurity - Kristin Berdan, Clinic Fellow, former Google Security Legal Counsel
+Legal and Policy Factors For Non-Profits’ Cybersecurity - Kristin Berdan, Clinic Fellow, former Google Security Legal Counsel
 
 **Wednesday, 3/11:**
 
-* Midterm Project Presentations _with Special Guest(s)_
+Midterm Project Presentations _with Special Guest(s)_
 
 **Assignments:**
 
@@ -313,7 +320,9 @@ NIST SP 800-37 “Risk Management Framework for Information Systems and Organiza
 
 **Monday, 3/16:**
 
-* Psychosocial Resilience, Andrea Lampros & Gisela Perez de Acha, Human Rights Center
+
+Psychosocial Resilience, Andrea Lampros & Gisela Perez de Acha, Human Rights Center
+
 
 **Wednesday, 3/18:**
 
@@ -348,11 +357,14 @@ NIST SP 800-37 “Risk Management Framework for Information Systems and Organiza
 
 **Monday, 3/30:**
 
-* Organizational Risks of Harmful Information - Steve
+
+Organizational Risks of Harmful Information - Steve
+
 
 **Wednesday, 4/1:**
 
-* Mitigations for the Risks of Harmful Information - Steve
+
+Mitigations for the Risks of Harmful Information - Steve
 
 
 ### **Week 11: Clinic Work**
@@ -404,12 +416,14 @@ _“Clinic Core Hours” refers to the required student work during official cla
 **Monday, 5/4 - Course Wrap-up:**
 
 
-* Feedback on deliverables, submit all final deliverables.
+Feedback on deliverables, submit all final deliverables.
+
 
 **Wednesday, 5/6 - Project Presentations:**
 
 
-* An overview of partner work, findings, recommendations delivered to CLTC and stakeholders.
+An overview of partner work, findings, recommendations delivered to CLTC and stakeholders.
+
 
 **Assignments:**
 
