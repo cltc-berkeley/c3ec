@@ -16,10 +16,38 @@
   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
   IN THE SOFTWARE.
 -->
+<style type="text/css">
+[data-md-color-primary=black] .md-header, [data-md-color-primary=black] .md-hero, button[data-md-color-primary=black] {
+    	background-color: #000;
+    	color: #fff;
+}
+.md-header[data-md-state=shadow] {
+    -webkit-transition: background-color .25s,color .25s,box-shadow .25s;
+    transition: background-color .25s,color .25s,box-shadow .25s;
+    box-shadow: 0 0 0.2rem rgba(0,0,0,.1), 0 0.2rem 0.4rem rgba(0,0,0,.2);
+}
+.md-header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 2.4rem;
+    -webkit-transition: background-color .25s,color .25s;
+    transition: background-color .25s,color .25s;
+    background-color: #000;
+	background-image: url(assets/images/header.jpg); 
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    color: #fff;
+    box-shadow: none;
+    z-index: 2;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+</style>
 
 <!-- Application header -->
 <header class="md-header" data-md-component="header">
-  <img src="../../assets/images/header.jpg">
   <!-- Top-level navigation -->
   <nav class="md-header-nav md-grid">
     <div class="md-flex">
