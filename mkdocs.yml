@@ -16,7 +16,10 @@ nav:
     - Home: index.md
     - Curriculum:
         - Syllabus: 
-          - Current (Spring 2020): Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
+          - Spring 2020 (Current): Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
+          - Fall 2019: Clinic_Curriculum/Clinic_Syllabus_Fall_2019.md
+          - Spring 2019: Clinic_Curriculum/Clinic_Syllabus_Spring_2019.md
+          - Fall 2018: Clinic_Curriculum/Clinic_Syllabus_Fall_2018.md
         - Assignments: Clinic_Curriculum/Assignments.md
         - Lectures & Activities: Clinic_Curriculum/Lectures_and_Activities.md
     - Infrastructure:
