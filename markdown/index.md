@@ -12,11 +12,11 @@ For more information about the Clinic, visit https://cltc.berkeley.edu/about-us/
 
 ## Curriculum
 
-	Low-risk organizations.
+	Syllabus, activities, assignments.
 
 ## Infrastructure
 
-    No phishing, please.
+    Virtual machines, virtual private networks, and phishing siumulators.
 
 ## Baseline Organizational Security Guide
 
