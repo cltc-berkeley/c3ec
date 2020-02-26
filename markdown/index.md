@@ -1,7 +1,7 @@
 
+# Welcome to the Citizen Clinic Cybersecurity Education Center (C3EC)
 
 <p align="center">
-	# Welcome to the Citizen Clinic Cybersecurity Education Center (C3EC)
 	<img  src="https://cltc.berkeley.edu/wp-content/uploads/2018/10/citizenclinic-logo-large-1.png">
 </p>
 
@@ -31,5 +31,4 @@ Is your organization at low-risk of a cyberattack? At high-risk? Does it matter?
 [<img style="float: right;"src=https://cltc.berkeley.edu/wp-content/uploads/2019/07/cltc-logo-hi-res-300x142.png width=150x>](https://cltc.berkeley.edu/)
 **Citizen Clinic is a program of the [Center for Long-Term Cybersecurity](https://cltc.berkeley.edu/).** 
 
-
-License: [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+**License: [CC-BY](https://creativecommons.org/licenses/by/3.0/)**
