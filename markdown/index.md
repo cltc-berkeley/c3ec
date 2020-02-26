@@ -4,7 +4,7 @@
 **Public Interest Cybersecurity**
 
 
-The Citizen Clinic is a public-interest cybersecurity clinic at UC Berkeley. It supports the capacity of politically-vulnerable organizations to defend themselves against online threats. Building off [our recent research](https://cltc.berkeley.edu/defendingpvos/) on the ecosystem providing technical assistance to civil society, the clinic supports interdisciplinary teams of students to assess threats to targeted organizations, recommend risk-appropriate mitigations, and to work collaboratively with clients to implement new policies and technical controls that enhance their cybersecurity. ![alt text](https://cltc.berkeley.edu/wp-content/uploads/2018/07/Screen-Shot-2018-07-23-at-12.21.17-PM.png "Defending Politically Vulnerable Organizations")
+The Citizen Clinic is a public-interest cybersecurity clinic at UC Berkeley. It supports the capacity of politically-vulnerable organizations to defend themselves against online threats. Building off [our recent research](https://cltc.berkeley.edu/defendingpvos/) on the ecosystem providing technical assistance to civil society, the clinic supports interdisciplinary teams of students to assess threats to targeted organizations, recommend risk-appropriate mitigations, and to work collaboratively with clients to implement new policies and technical controls that enhance their cybersecurity. <img style="float: right;" src="https://cltc.berkeley.edu/wp-content/uploads/2018/07/Screen-Shot-2018-07-23-at-12.21.17-PM.png" width=250x>
 
 
 For more information about the Clinic, visit https://cltc.berkeley.edu/about-us/citizen-clinic/.
@@ -26,6 +26,6 @@ Is your organization at low-risk of a cyberattack? At high-risk? Does it matter?
 
 Citizen Clinic is a program of the [Center for Long-Term Cybersecurity](https://cltc.berkeley.edu/). 
 
-![alt text](https://cltc.berkeley.edu/wp-content/uploads/2019/07/cltc-logo-hi-res-300x142.png "Center for Long-Term Cybersecurity")
+![alt text](https://cltc.berkeley.edu/wp-content/uploads/2019/07/cltc-logo-hi-res-300x142.png =50x "Center for Long-Term Cybersecurity")
 
 License: [CC-BY](https://creativecommons.org/licenses/by/3.0/)
