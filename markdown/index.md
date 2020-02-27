@@ -18,11 +18,11 @@ For more information about the Clinic, visit https://cltc.berkeley.edu/about-us/
 
 View our syllabus (current and past) and reading lists, in-class activities, and work assignments.
 
-## Infrastructure
+## [Infrastructure](Clinic_Infrastructure/VPN/)
 
 Need help setting up the infrastructure for your own program? Check out our primers on setting up virtual machines, virtual private networks, and phishing siumulators.
 
-## Baseline Organizational Security Guide
+## [Baseline Organizational Security Guide](LRO/0-Introduction_and_TOC_(README)/)
 
 Is your organization at low-risk of a cyberattack? At high-risk? Does it matter? Here's our guide for the baseline protection your organization needs.
 
