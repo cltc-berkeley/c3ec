@@ -14,7 +14,7 @@ The Citizen Clinic is a public-interest cybersecurity clinic at UC Berkeley. It 
 For more information about the Clinic, visit https://cltc.berkeley.edu/about-us/citizen-clinic/.
 
 
-## [Curriculum](/Clinic_Curriculum/Clinic_Syllabus_Spring_2020/)
+## [Curriculum](Clinic_Curriculum/Clinic_Syllabus_Spring_2020/)
 
 View our syllabus (current and past) and reading lists, in-class activities, and work assignments.
 
