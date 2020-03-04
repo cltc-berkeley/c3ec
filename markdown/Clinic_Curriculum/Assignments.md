@@ -1,6 +1,6 @@
 **_Current as of Spring 2020._**
 
-### **Assignments.**
+### **Assignments!**
 
 * _Week 0:_ Submit application materials to enroll in this course. 
 
