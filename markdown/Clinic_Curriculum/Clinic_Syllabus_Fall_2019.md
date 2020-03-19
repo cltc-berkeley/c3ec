@@ -22,40 +22,32 @@ _Note: This schedule is tentative and may be adjusted - assignment dates may cha
 **Wednesday 8/28:** 
 
 
-    Introduction to Public Interest Cybersecurity: _We will introduce the content and methods of the course, answer your questions, and everyone will introduce themselves to one another._
+Introduction to Public Interest Cybersecurity: _We will introduce the content and methods of the course, answer your questions, and everyone will introduce themselves to one another._
 
 **Assignments:**
 
 
-    _Due Friday 8/30 11:59PM:** **_Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on September 4th.
+* _Due Friday 8/30 11:59PM:_ Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on September 4th.
 
 
-    _Due Wednesday 9/4 before class:_ 
+* _Due Wednesday 9/4 before class:_ Read pages 7 - 21 & 48 - 52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)] Prepare answers to questions on pages 15 - 17 and page 53 for in-class discussion.
+
+**Read (by end of week):**
+
+* Shannon Vallor, The Markkula Center for Applied Ethics, “An Introduction to Cybersecurity Ethics” pages 7 - 21 & 48 - 52. [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)]
+
+* Access Now. “Spyware in Mexico: an interview with Luis Fernando García of R3D Mexico” [[https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/](https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/)]
+
+* Netgain “Digital Security and Grantcraft Guide” [[fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf](https://www.fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf)]
 
 
-    Read pages 7 - 21 & 48 - 52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)] Prepare answers to questions on pages 15 - 17 and page 53 for in-class discussion.
-
-**	Read (by end of week): **
+* Sean Brooks “Defending Politically Vulnerable Organizations Online” [[https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf](https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf)]
 
 
-    Shannon Vallor, The Markkula Center for Applied Ethics, “An Introduction to Cybersecurity Ethics” pages 7 - 21 & 48 - 52. [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)]
-
-	Access Now. “Spyware in Mexico: an interview with Luis Fernando García of R3D Mexico” 
-
-[[https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/](https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/)]
-
-Netgain “Digital Security and Grantcraft Guide”
-
-[[fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf](https://www.fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf)]
+* **(Skim)** Citizen Lab’s “About Us” Paper. [[https://citizenlab.ca/wp-content/uploads/2018/05/18033-Citizen-Lab-booklet-p-E.pdf](https://citizenlab.ca/wp-content/uploads/2018/05/18033-Citizen-Lab-booklet-p-E.pdf)] 
 
 
-    Sean Brooks “Defending Politically Vulnerable Organizations Online” [[https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf](https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf)]
-
-
-    **(Skim)** Citizen Lab’s “About Us” Paper. [[https://citizenlab.ca/wp-content/uploads/2018/05/18033-Citizen-Lab-booklet-p-E.pdf](https://citizenlab.ca/wp-content/uploads/2018/05/18033-Citizen-Lab-booklet-p-E.pdf)] 
-
-
-    **(Skim)** Tactical Tech's Annual Report [[https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf](https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf)] 
+* **(Skim)** Tactical Tech's Annual Report [[https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf](https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf)] 
 
 
 ### **Week 2: Code of Conduct and Ethics in Cybersecurity**
