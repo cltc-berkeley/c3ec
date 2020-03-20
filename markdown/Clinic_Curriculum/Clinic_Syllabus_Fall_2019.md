@@ -82,7 +82,7 @@ Ethics and “Rules of the Road”:
 
 * _Due 9/4 In-Class:_ Code of Conduct Signed _[Individual]_ 
 
-**	Read (by end of week):**
+**Read (by end of week):**
 
 
 * **(Watch)** CLTC / TechSoup. Webinar. “Cybersecurity in Low-Risk Organizations: Understanding Your Risk and Making Practical Improvements.” linked here: [[https://cltc.berkeley.edu/2019/02/25/cltc-and-citizen-clinic-present-cybersecurity-in-low-risk-organizations-webinar/](https://cltc.berkeley.edu/2019/02/25/cltc-and-citizen-clinic-present-cybersecurity-in-low-risk-organizations-webinar/)]
