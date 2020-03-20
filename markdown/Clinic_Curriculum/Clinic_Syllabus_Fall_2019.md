@@ -2,7 +2,7 @@
 
 **Fall 2019.**
 
-**Course description.**
+### **Course Description.**
 
 For individuals and organizations involved in political advocacy, cybersecurity threats are an increasingly common reality of operating in the digital world. Civil society has always been under attack from ideological, political, and governmental opponents who seek to silence dissenting opinions, but the widespread adoption of connected technologies by the individuals and organizations that make up civil society creates a new class of vulnerabilities.
 
@@ -17,12 +17,12 @@ _Note: This schedule is tentative and may be adjusted - assignment dates may cha
 
 ### **Week 1: Introduction / What is Public-Interest Cybersecurity?**
 
-	
 
 **Wednesday 8/28:** 
 
 
 Introduction to Public Interest Cybersecurity: _We will introduce the content and methods of the course, answer your questions, and everyone will introduce themselves to one another._
+
 
 **Assignments:**
 
@@ -52,71 +52,66 @@ Introduction to Public Interest Cybersecurity: _We will introduce the content an
 
 ### **Week 2: Code of Conduct and Ethics in Cybersecurity**
 
-	**Monday 9/2:** **No class.**
+**Monday 9/2:** **No class.**
 
 **Wednesday 9/4:**
 
 
-    Ethics and “Rules of the Road”: 
+Ethics and “Rules of the Road”: 
 
 
-        Citizen Clinic Code of Conduct. 
+* Citizen Clinic Code of Conduct. 
 
 
-        Ethical Considerations.
+* Ethical Considerations.
 
 
-        Security Response Plan.	
+* Security Response Plan.	
 
 
-    Partner Overview
+* Partner Overview
 
 
-    Personal Communications setup and equipment issue
+* Personal Communications setup and equipment issue
 
 **Assignments:**
 
 
-    _Due 9/4 before class:_ Prepare answers to questions on pages 15 - 17 and page 53 of “Intro to Cybersecurity Ethics” for in-class discussion. _[Individual]_ 
+* _Due 9/4 before class:_ Prepare answers to questions on pages 15 - 17 and page 53 of “Intro to Cybersecurity Ethics” for in-class discussion. _[Individual]_ 
 
 
-    _Due 9/4 In-Class_: Code of Conduct Signed _[Individual]_ 
+* _Due 9/4 In-Class:_ Code of Conduct Signed _[Individual]_ 
 
 **	Read (by end of week):**
 
 
-    **(Watch) **CLTC / TechSoup. Webinar. “Cybersecurity in Low-Risk Organizations: Understanding Your Risk and Making Practical Improvements.” linked here: [[https://cltc.berkeley.edu/2019/02/25/cltc-and-citizen-clinic-present-cybersecurity-in-low-risk-organizations-webinar/](https://cltc.berkeley.edu/2019/02/25/cltc-and-citizen-clinic-present-cybersecurity-in-low-risk-organizations-webinar/)]
+* **(Watch)** CLTC / TechSoup. Webinar. “Cybersecurity in Low-Risk Organizations: Understanding Your Risk and Making Practical Improvements.” linked here: [[https://cltc.berkeley.edu/2019/02/25/cltc-and-citizen-clinic-present-cybersecurity-in-low-risk-organizations-webinar/](https://cltc.berkeley.edu/2019/02/25/cltc-and-citizen-clinic-present-cybersecurity-in-low-risk-organizations-webinar/)]
 
 
-    Jorge Luis Sierra “Digital and Mobile Security for Mexican Journalists and Bloggers” [[https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf](https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf)] 
+* Jorge Luis Sierra “Digital and Mobile Security for Mexican Journalists and Bloggers” [[https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf](https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf)] 
 
-Le Blond et al. “A look at targeted attacks through the lense of an NGO” 
-
-[[www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf)]
+* Le Blond et al. “A look at targeted attacks through the lense of an NGO” [[www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf)]
 
 
-    Arthur Turner. “Consulting Is More Than Giving Advice.” [[https://hbr.org/1982/09/consulting-is-more-than-giving-advice](https://hbr.org/1982/09/consulting-is-more-than-giving-advice)] 
+* Arthur Turner. “Consulting Is More Than Giving Advice.” [[https://hbr.org/1982/09/consulting-is-more-than-giving-advice](https://hbr.org/1982/09/consulting-is-more-than-giving-advice)] 
 
-**(Optional)** Alex Gaynor. “What happens when you type google.com into your browser's address box and press enter?" 
-
-[[https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)]
+* **(Optional)** Alex Gaynor. “What happens when you type google.com into your browser's address box and press enter?" [[https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)]
 
 
-    **(Optional) **Rus Shuler. “How Does the Internet Work?” [[web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)]
+* **(Optional)** Rus Shuler. “How Does the Internet Work?” [[web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)]
 
 
-### **Week 3: Integrating Outside Expertise within Civil Society Organizations **
+### **Week 3: Integrating Outside Expertise within Civil Society Organizations**
 
 **Monday 9/9:**
 
-**	**Problem diagnosis and reframing - Deloitte
+* Problem diagnosis and reframing - Deloitte
 
 **Wednesday 9/11:**
 
-**	**Strategies for effective meetings - PWC
+* Strategies for effective meetings - PWC
 
 	
-
 **Assignments:**
 
 
