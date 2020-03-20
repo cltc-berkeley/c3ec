@@ -342,10 +342,9 @@ Threat Modeling & Bounding Risk Assessments
 
 ### **Week 11: Additional Topics**
 
-**Monday, 11/4:**
+**Monday, 11/4:** _Clinic Core Hours_
 
-
-* Clinic Core Hours
+* _“Clinic Core Hours” refers to the required student attendance of official class meeting hours between 1:30PM and 3:30PM that will be reserved for instruction specific to partner needs, feedback and guidance from the teaching team, and ad-hoc lectures. Every Monday (unless there’s a holiday), each team will have a 20-minute check-in with the teaching team. Each team member will provide a ~5 minute update on the progress of their assigned partner work._
 
 
 **Wednesday, 11/6:**
@@ -361,9 +360,8 @@ Threat Modeling & Bounding Risk Assessments
 **Monday, 11/11:** _No class._
 
 
-**Wednesday, 11/13:** Clinic Core Hours / Team Check-in
+**Wednesday, 11/13:** _Clinic Core Hours / Team Check-in_
 
-* _“Clinic Core Hours” refers to the required student attendance of official class meeting hours between 1:30PM and 3:30PM that will be reserved for instruction specific to partner needs, feedback and guidance from the teaching team, and ad-hoc lectures. Every Monday (unless there’s a holiday), each team will have a 20-minute check-in with the teaching team. Each team member will provide a ~5 minute update on the progress of their assigned partner work._
 
 
 ### **Week 13:**
@@ -426,7 +424,7 @@ This is a 4-unit class. Coursework will primarily focus on partner-facing projec
 
 Assignments will largely be evaluated on the following rubric that emphasizes (1) sound rationale in assessments, recommendations, and reflections, (2) “partner-ready” work products which reflect professional quality, and (3) completing the instructions of the assignment or the requirements agreed upon work plan with the partner. 
 
-**General Grading Rubric**
+**General Grading Rubric.**
 
 <table>
   <tr>
@@ -503,7 +501,7 @@ If there are difficulties with any team member, discuss the matter within your t
 
 **Late assignments.**
 
-** **As we want to respect the time of our partners and ensure a high level of quality control (the teaching team will review deliverables before it reaches the partner), we expect students to adhere to timelines and due dates. **Each day an assignment is late will result in a letter grade deduction.** Recognizing that emergencies arise and partners may require schedule adjustments, exceptions will be made on a case-by-case basis.
+* As we want to respect the time of our partners and ensure a high level of quality control (the teaching team will review deliverables before it reaches the partner), we expect students to adhere to timelines and due dates. **Each day an assignment is late will result in a letter grade deduction.** Recognizing that emergencies arise and partners may require schedule adjustments, exceptions will be made on a case-by-case basis.
 
 **Code of Conduct.**
 
