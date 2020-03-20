@@ -501,7 +501,7 @@ If there are difficulties with any team member, discuss the matter within your t
 
 **Late assignments.**
 
-* As we want to respect the time of our partners and ensure a high level of quality control (the teaching team will review deliverables before it reaches the partner), we expect students to adhere to timelines and due dates. **Each day an assignment is late will result in a letter grade deduction.** Recognizing that emergencies arise and partners may require schedule adjustments, exceptions will be made on a case-by-case basis.
+As we want to respect the time of our partners and ensure a high level of quality control (the teaching team will review deliverables before it reaches the partner), we expect students to adhere to timelines and due dates. **Each day an assignment is late will result in a letter grade deduction.** Recognizing that emergencies arise and partners may require schedule adjustments, exceptions will be made on a case-by-case basis.
 
 **Code of Conduct.**
 
