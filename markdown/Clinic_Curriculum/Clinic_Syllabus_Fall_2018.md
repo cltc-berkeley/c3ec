@@ -48,12 +48,11 @@ _We will introduce the content and methods of the course, answer your questions,
 
 * _8/27 in-class_: Code of Conduct Signed _[Individual]_ 
 
-* _8/31 6:00PM: _Secure Communications Established (with Reflection) _[Individual]_
+* _8/31 6:00PM:_ Secure Communications Established (with Reflection) _[Individual]_
 
 **Monday 8/27 Lab:**
 
-
-* Citizen Clinic “Rules of the Road”: 
+Citizen Clinic “Rules of the Road” 
 
 * Citizen Clinic Code of Conduct. 
 
@@ -93,11 +92,9 @@ _We will introduce the content and methods of the course, answer your questions,
 
 * _9/7 6:00PM:_ Collaborative Plan _[Team]_
 
-* _9/9 11:59PM:_ 9/12 11:59PM:** _Secure-a-Friend Reflection _[Individual]_
+* _9/9 11:59PM:_ 9/12 11:59PM:** Secure-a-Friend Reflection _[Individual]_
 
-**Monday 9/3:**
-
-_Academic and Administrative Holiday (Labor Day)_
+**Monday 9/3:** _Academic and Administrative Holiday (Labor Day)_
 
 **Wednesday 9/5 Lecture:**
 
@@ -169,7 +166,7 @@ _Academic and Administrative Holiday (Labor Day)_
 
 **Wednesday 9/19 Lecture:**
 
-* Sean Brooks** “Bounding risk assessments”
+* Sean Brooks: “Bounding risk assessments”
 
 
 ### Week 5: Conducting Technical Assessments
@@ -193,9 +190,9 @@ _Additional readings as specified by guest_
 * _9/24 2:00PM_: 1st Contextual Research Briefs _[Individual]_
 
 * _9/26 2:00PM_: Threat Model Reflection _[Individual - Mini Assignment]_ 
-* 9/26 11:59PM _- Initial Work Plan (for Teaching Team Review) _[Team]_ 
+* 9/26 11:59PM_: Initial Work Plan (for Teaching Team Review) _[Team]_ 
 
-* _9/28 6:00PM_ - Work Plan To Client _[Team]_
+* _9/28 6:00PM_: Work Plan To Client _[Team]_
 
 **Monday 9/24 Lab:**
 
@@ -284,13 +281,13 @@ _“Clinic Core Hours” refers to the required student attendance of official c
 * _10/29 11:59PM:_ Community Clinic Reflection _[Individual]_
 
 
-* _Monday 10/22_: Clinic Core Hours
+**Monday 10/22**: Clinic Core Hours
 
 
-* _Wednesday 10/24_: Clinic Core Hours
+**Wednesday 10/24**: Clinic Core Hours
 
 
-* _Thursday 10/25 4:50 - 7:00PM:_ Digital Security Crash Course, **UC Berkeley, South Hall Room 210**
+**Thursday 10/25, 4:50 - 7:00PM:** Digital Security Crash Course, **UC Berkeley, South Hall Room 210**
 
 
 ### Week 10: 
@@ -349,13 +346,13 @@ _“Clinic Core Hours” refers to the required student attendance of official c
 
 * _12/3 6:00PM:_ Final Client Report (to Client) _[Team]_
 
-* _12/4 11:59PM_:Project Presentations _[Team]_
+* _12/4 11:59PM_: Project Presentations _[Team]_
 
 * _12/9 11:59PM:_ Final Individual Write-up _[Individual]_
 
 * _12/9 11:59PM:_ Team Evaluation 2 _[Individual]_
 
-**Monday 12/3 -Course Wrap-up:**
+**Monday 12/3 - Course Wrap-up:**
 
 _Feedback on deliverables, submit all final deliverables, turn-in all equipment._
 
