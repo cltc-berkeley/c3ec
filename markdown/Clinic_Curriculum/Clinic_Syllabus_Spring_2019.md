@@ -17,376 +17,297 @@ _Note: This schedule is tentative and may be adjusted - assignment dates may cha
 
 ### Week 1: Introduction / What is Public-Interest Cybersecurity?
 
-	**Read:** 
+**Read:** 
 
-	Access Now. “Spyware in Mexico: an interview with Luis Fernando García of R3D Mexico” 
-
-[[https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/](https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/)]
+* Access Now. “Spyware in Mexico: an interview with Luis Fernando García of R3D Mexico” [[https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/](https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/)]
 
 
-    Jorge Luis Sierra “Digital and Mobile Security for Mexican Journalists and Bloggers” [[https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf](https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf)] 
+* Jorge Luis Sierra “Digital and Mobile Security for Mexican Journalists and Bloggers” [[https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf](https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf)] 
 
-Netgain “Digital Security and Grantcraft Guide”
-
-[[fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf](https://www.fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf)]
+* Netgain “Digital Security and Grantcraft Guide” [[fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf](https://www.fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf)]
 
 
-    **(Skim)** Citizen Lab’s “About Us” Paper. [[https://citizenlab.ca/wp-content/uploads/2018/05/18033-Citizen-Lab-booklet-p-E.pdf](https://citizenlab.ca/wp-content/uploads/2018/05/18033-Citizen-Lab-booklet-p-E.pdf)] 
+* **(Skim)** Citizen Lab’s “About Us” Paper. [[https://citizenlab.ca/wp-content/uploads/2018/05/18033-Citizen-Lab-booklet-p-E.pdf](https://citizenlab.ca/wp-content/uploads/2018/05/18033-Citizen-Lab-booklet-p-E.pdf)] 
 
 
-    **(Skim)** Tactical Tech's Annual Report [[https://tacticaltech.org/media/news/annual-report-2017.pdf](https://tacticaltech.org/media/news/annual-report-2017.pdf)] 
+* **(Skim)** Tactical Tech's Annual Report [[https://tacticaltech.org/media/news/annual-report-2017.pdf](https://tacticaltech.org/media/news/annual-report-2017.pdf)] 
 
 
-    **(Optional)** Sean Brooks “Defending Politically Vulnerable Organizations Online” [[https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf](https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf)]
+* **(Optional)** Sean Brooks “Defending Politically Vulnerable Organizations Online” [[https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf](https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf)]
 
 
-    **(Optional) **Rus Shuler. “How Does the Internet Work?” [[web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)]
+* **(Optional)** Rus Shuler. “How Does the Internet Work?” [[web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)]
 
 **Assignments Due:**
 
 
-    _1/22 11:59PM:** **_Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on January 24th.
+* _1/22 11:59PM:_ **Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on January 24th.**
 
 
-    _1/24 In-Class_: Code of Conduct Signed _[Individual]_ 
+* _1/24 In-Class_: Code of Conduct Signed _[Individual]_ 
 
 
-    _1/27 11:59PM: _Equipment Setup Completed (with Reflection & Partner Preference Submitted) _[Individual]_
+* _1/27 11:59PM: _Equipment Setup Completed (with Reflection & Partner Preference Submitted) _[Individual]_
 
 **Tuesday 1/22:** 
 
 
-    We will introduce the content and methods of the course, answer your questions, and everyone will introduce themselves to one another.
+* We will introduce the content and methods of the course, answer your questions, and everyone will introduce themselves to one another.
 
 
-    Introduction to Public Interest Cybersecurity
+* Introduction to Public Interest Cybersecurity
 
 **Thursday 1/24:**
 
 
-    Citizen Clinic “Rules of the Road”: 
+* Citizen Clinic “Rules of the Road”: 
 
+* Citizen Clinic Code of Conduct. 
 
-        Citizen Clinic Code of Conduct. 
+* Personal Risk of Citizen Clinic.
 
+* How to talk about Citizen Clinic.
 
-        Personal Risk of Citizen Clinic.
+* Ethical Considerations.
 
+* Security Response Plan.	
 
-        How to talk about Citizen Clinic.
+* Personal Communications setup and equipment issue
 
-
-        Ethical Considerations.
-
-
-        Security Response Plan.	
-
-
-    Personal Communications setup and equipment issue
-
-
-    Partner Overview
+* Partner Overview
 
 
 ### Week 2: Threats to Civil Society’s Cybersecurity
 
 **Read:**
 
-Electronic Frontier Foundation, “Surveillance Self-Defense: Your Security Plan” [[https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan](https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan)]** - know the definitions of underlined terms.**
+* Electronic Frontier Foundation, “Surveillance Self-Defense: Your Security Plan” [[https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan](https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan)]** - know the definitions of underlined terms.**
 
-Le Blond et al. “A look at targeted attacks through the lense of an NGO” 
+* Le Blond et al. “A look at targeted attacks through the lense of an NGO” [[www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf)]
 
-[[www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf)]
+* Citizen Lab. “Bittersweet: Supporters of Mexico’s soda tax targeted with NSO exploit links” [[https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/](https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/)]
 
-Citizen Lab. “Bittersweet: Supporters of Mexico’s soda tax targeted with NSO exploit links”
-
-[[https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/](https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/)]
+* Silver & Elgin. “Torture in Bahrain Becomes Routine With Help From Nokia Siemens” [[https://web.archive.org/web/20111006185329/http://www.bloomberg.com/news/2011-08-22/torture-in-bahrain-becomes-routine-with-help-from-nokia-siemens-networking.html](https://web.archive.org/web/20111006185329/http://www.bloomberg.com/news/2011-08-22/torture-in-bahrain-becomes-routine-with-help-from-nokia-siemens-networking.html)]
 
 
-    Silver & Elgin. “Torture in Bahrain Becomes Routine With Help From Nokia Siemens” [[https://web.archive.org/web/20111006185329/http://www.bloomberg.com/news/2011-08-22/torture-in-bahrain-becomes-routine-with-help-from-nokia-siemens-networking.html](https://web.archive.org/web/20111006185329/http://www.bloomberg.com/news/2011-08-22/torture-in-bahrain-becomes-routine-with-help-from-nokia-siemens-networking.html)]
+* **(Explore)** MSFT’s STRIDE and related blog posts. [[https://cloudblogs.microsoft.com/microsoftsecure/2007/09/11/stride-chart/](https://cloudblogs.microsoft.com/microsoftsecure/2007/09/11/stride-chart/)]
 
 
-    **(Explore)** MSFT’s STRIDE and related blog posts. [[https://cloudblogs.microsoft.com/microsoftsecure/2007/09/11/stride-chart/](https://cloudblogs.microsoft.com/microsoftsecure/2007/09/11/stride-chart/)]
+* **(Optional)** Joseph Cox. “I Gave a Bounty Hunter $300. Then He Located Our Phone” [[https://motherboard.vice.com/en_us/article/nepxbz/i-gave-a-bounty-hunter-300-dollars-located-phone-microbilt-zumigo-tmobile](https://motherboard.vice.com/en_us/article/nepxbz/i-gave-a-bounty-hunter-300-dollars-located-phone-microbilt-zumigo-tmobile)]  
 
 
-    **(Optional) **Joseph Cox. “I Gave a Bounty Hunter $300. Then He Located Our Phone” [[https://motherboard.vice.com/en_us/article/nepxbz/i-gave-a-bounty-hunter-300-dollars-located-phone-microbilt-zumigo-tmobile](https://motherboard.vice.com/en_us/article/nepxbz/i-gave-a-bounty-hunter-300-dollars-located-phone-microbilt-zumigo-tmobile)]  
+* **(Optional)** Stephen Arnold. “Telestrategies - An Interview with Dr. Jerry Lucas” [[http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html](http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html)]
 
-
-    **(Optional)** Stephen Arnold. “Telestrategies - An Interview with Dr. Jerry Lucas” [[http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html](http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html)]
-
-**(Optional)** Alex Gaynor. “What happens when you type google.com into your browser's address box and press enter?" 
-
-[[https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)]
+* **(Optional)** Alex Gaynor. “What happens when you type google.com into your browser's address box and press enter?" [[https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)]
 
 **Assignments Due:**
 
-	_2/1 6:00PM_: Partner Communications Instructions (for Review) _[Team]_
+* _2/1 6:00PM_: Partner Communications Instructions (for Review) _[Team]_
 
 **Tuesday 1/29:**
 
 
-    Threat Modeling
+* Threat Modeling
 
 
-    Partner Communication Workshop
+* Partner Communication Workshop
 
-**Thursday 1/31: **
+**Thursday 1/31:**
 
-**	**Bill Marczak, “Digital Surveillance of PVOs - The Threat Landscape” 
+* Bill Marczak, “Digital Surveillance of PVOs - The Threat Landscape” 
 
 
 ### Week 3: Information Collection
 
 **Read:**
 
-
-    Amnesty International. “Digitally dissecting atrocities – Amnesty International’s open source investigations.” [[https://www.amnesty.org/en/latest/news/2018/09/digitally-dissecting-atrocities-amnesty-internationals-open-source-investigations/](https://www.amnesty.org/en/latest/news/2018/09/digitally-dissecting-atrocities-amnesty-internationals-open-source-investigations/)]
-
-
-    Protective Intelligence. “Part I: An Introduction To OSINT Research For Protective Intelligence Professionals” [[https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt1](https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt1)]
+* Amnesty International. “Digitally dissecting atrocities – Amnesty International’s open source investigations.” [[https://www.amnesty.org/en/latest/news/2018/09/digitally-dissecting-atrocities-amnesty-internationals-open-source-investigations/](https://www.amnesty.org/en/latest/news/2018/09/digitally-dissecting-atrocities-amnesty-internationals-open-source-investigations/)]
 
 
-    Protective Intelligence. “Part 2: An Introduction To OSINT Research For Protective Intelligence Professionals” [[https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt2](https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt2)] 
+* Protective Intelligence. “Part I: An Introduction To OSINT Research For Protective Intelligence Professionals” [[https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt1](https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt1)]
+
+* Protective Intelligence. “Part 2: An Introduction To OSINT Research For Protective Intelligence Professionals” [[https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt2](https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt2)] 
 
 
-    Ian Barwise. “Open-Source Intelligence (OSINT) Reconnaissance” [[https://medium.com/@z3roTrust/open-source-intelligence-osint-reconnaissance-75edd7f7dada](https://medium.com/@z3roTrust/open-source-intelligence-osint-reconnaissance-75edd7f7dada)]  
+* Ian Barwise. “Open-Source Intelligence (OSINT) Reconnaissance” [[https://medium.com/@z3roTrust/open-source-intelligence-osint-reconnaissance-75edd7f7dada](https://medium.com/@z3roTrust/open-source-intelligence-osint-reconnaissance-75edd7f7dada)]  
 
 
-    **(Explore)** OSINT Framework [[https://osintframework.com/](https://osintframework.com/)]
+* **(Explore)** OSINT Framework [[https://osintframework.com/](https://osintframework.com/)]
 
 
-    **(Explore)** Bellingcat Online Investigation Toolkit [[https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit)] 
+* **(Explore)** Bellingcat Online Investigation Toolkit [[https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit)] 
 
 **Assignments Due:**
 
-
-    _2/8 6:00PM:_ Collaborative Plan _[Team]_
+* _2/8 6:00PM:_ Collaborative Plan _[Team]_
 
 **Swapped - Tuesday 2/5:**
 
-
-    Open Source Research Methods, Safety, and Tools
+* Open Source Research Methods, Safety, and Tools
 
 **Thursday 2/7:**
 
-
-    Félim McMahon, Technology Director, Human Rights Center “Deploying Security Controls in a High-Risk Environment”
+* Félim McMahon, Technology Director, Human Rights Center “Deploying Security Controls in a High-Risk Environment”
 
 
 ### Week 4: Risk Assessment for Cybersecurity 
 
 **Read:**
 
+* _Example Risk Assessment shared via email._
 
-    **** Example Risk Assessment shared via email. ****
-
-SAFETAG Guide. Read to Section 4.4, skim rest. 
-
-[[https://safetag.org/guide/](https://safetag.org/guide/) read to Section 4.4] 
+* SAFETAG Guide. Read to Section 4.4, skim rest. [[https://safetag.org/guide/](https://safetag.org/guide/) read to Section 4.4] 
 
 
-    Julian Cohen. “Playbook Based Testing.” [[https://medium.com/@HockeyInJune/playbook-based-testing-5df4b656113a](https://medium.com/@HockeyInJune/playbook-based-testing-5df4b656113a)] 
+* Julian Cohen. “Playbook Based Testing.” [[https://medium.com/@HockeyInJune/playbook-based-testing-5df4b656113a](https://medium.com/@HockeyInJune/playbook-based-testing-5df4b656113a)] 
 
-NIST SP 800-37 “Risk Management Framework for Information Systems and Organizations.” Chapter 2 only. 
+* NIST SP 800-37 “Risk Management Framework for Information Systems and Organizations.” Chapter 2 only. [[https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf](https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20SP%20800-037r2%20Risk%20Management%20Framework%20for%20Information%20Systems%20and%20Organizations;%20A%20System%20Life%20Cycle%20Approach%20for%20Security%20and%20Privacy,%202018-12-20%20(Final).pdf)]
 
-[[https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf](https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20SP%20800-037r2%20Risk%20Management%20Framework%20for%20Information%20Systems%20and%20Organizations;%20A%20System%20Life%20Cycle%20Approach%20for%20Security%20and%20Privacy,%202018-12-20%20(Final).pdf)]
+* **(Explore)** About PESTLE.** ** [[http://guides.ucf.edu/industryanalysis/PESTLE](http://guides.ucf.edu/industryanalysis/PESTLE)]
 
-**(Explore)** About PESTLE.** **
+* **(Skim)** NIST SP 800-39 “Managing Information Security Risk.” Chapter 2 only. [[https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20SP%20800-039%20Managing%20Information%20Security%20Risk;%20Organization,%20Mission,%20and%20Information%20System%20View,%202011-03-01%20(Final).pdf)]
 
-[[http://guides.ucf.edu/industryanalysis/PESTLE](http://guides.ucf.edu/industryanalysis/PESTLE)]
-
-**(Skim)** NIST SP 800-39 “Managing Information Security Risk.” Chapter 2 only. 
-
-[[https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20SP%20800-039%20Managing%20Information%20Security%20Risk;%20Organization,%20Mission,%20and%20Information%20System%20View,%202011-03-01%20(Final).pdf)]
-
-**(Skim) **NISTIR 8062 “An Introduction to Privacy Engineering and Risk Management in Federal Systems.” 
-
-
-    [[https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20IR%208062.pdf)] 
+* **(Skim)** NISTIR 8062 “An Introduction to Privacy Engineering and Risk Management in Federal Systems.” [[https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20IR%208062.pdf)] 
 
 **Assignments Due:**
 
+* _By end of week (2/15)_: First Call with Partner _[Team]_
 
-    _By end of week (2/15)_: First Call with Partner _[Team]_
-
-**	_2/15 6:00PM_**: OSINT Assignment _[Team]_
+* _2/15 6:00PM_: OSINT Assignment _[Team]_
 
 **Tuesday 2/12:**
 
-**	**Contextual Factors and Frameworks
+_Contextual Factors and Frameworks_
 
-		SAFETAG
+* SAFETAG
 
+* PESTLE-M
 
-        PESTLE-M
+* PMESII
 
+**Thursday 2/14:**
 
-        PMESII
-
-**Thursday 2/14: **
-
-
-    Bounding Risk Assessments
+* Bounding Risk Assessments
 
 
 ### Week 5: Changing Security Behaviors
 
 **Read:**
 
-Engine Room. “Ties That Bind: Organisational Security for Civil Society” - read Full Report.
+* Engine Room. “Ties That Bind: Organisational Security for Civil Society” - read Full Report. [[https://www.theengineroom.org/civil-society-digital-security-new-research/](https://www.theengineroom.org/civil-society-digital-security-new-research/)]
 
+* APF et al. “Improving SSL Warnings: Comprehension and Adherence” [[https://dl.acm.org/citation.cfm?id=2702442](https://dl.acm.org/citation.cfm?id=2702442)] 
 
-    [[https://www.theengineroom.org/civil-society-digital-security-new-research/](https://www.theengineroom.org/civil-society-digital-security-new-research/)]
+* Abu-Salma et al. “Obstacles to the Adoption of Secure Communication Tools” [[https://ieeexplore.ieee.org/abstract/document/7958575/](https://ieeexplore.ieee.org/abstract/document/7958575/)]
 
-APF et al. “Improving SSL Warnings: Comprehension and Adherence” 
+* **(Watch)** Rachel Tobac. “How I would Hack You: Social Engineering Step-by-Step”  [[https://www.youtube.com/watch?v=L5J2PgGOLtE](https://www.youtube.com/watch?v=L5J2PgGOLtE)] 
 
-[[https://dl.acm.org/citation.cfm?id=2702442](https://dl.acm.org/citation.cfm?id=2702442)] 
-
-Abu-Salma et al. “Obstacles to the Adoption of Secure Communication Tools” 
-
-[[https://ieeexplore.ieee.org/abstract/document/7958575/](https://ieeexplore.ieee.org/abstract/document/7958575/)]
-
-
-    **(Watch) **Rachel Tobac. “How I would Hack You: Social Engineering Step-by-Step”  [[https://www.youtube.com/watch?v=L5J2PgGOLtE](https://www.youtube.com/watch?v=L5J2PgGOLtE)] 
-
-**(Optional) **Scott, James C. “Seeing Like a State” - Chapter 9
-
-
-    [[https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf)] 
+* **(Optional)** Scott, James C. “Seeing Like a State” - Chapter 9 [[https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf)] 
 
 **Assignments Due:**
 
-**	_By end of week (2/22)_ **-** **1st Contextual Research Briefs _[Individual]_
+* _By end of week (2/22)_: 1st Contextual Research Briefs _[Individual]_
 
-**Tuesday 2/19: **
+**Tuesday 2/19:**
 
-
-    Steve Weber, “Changing Behaviors within PVOs”
+* Steve Weber, “Changing Behaviors within PVOs”
 
 **Thursday 2/21:**
 
-
-    Phishing for Context** **
+* Phishing for Context
 
 
 ### Week 6: Establishing Baseline Digital Security (Part 1)
 
 **Read:**
 
-Bill Marczak and John Scott-Railton. “Keep Calm and (Don’t) Enable Macros: A New Threat Actor Targets UAE Dissidents” 
+* Bill Marczak and John Scott-Railton. “Keep Calm and (Don’t) Enable Macros: A New Threat Actor Targets UAE Dissidents” [[https://citizenlab.ca/2016/05/stealth-falcon/](https://citizenlab.ca/2016/05/stealth-falcon/)] 
 
-[[https://citizenlab.ca/2016/05/stealth-falcon/](https://citizenlab.ca/2016/05/stealth-falcon/)] 
+* Micah Lee. “It’s Impossible To Prove Your Laptop Hasn’t Been Hacked. I Spent Two Years Finding Out.” [[https://theintercept.com/2018/04/28/computer-malware-tampering/](https://theintercept.com/2018/04/28/computer-malware-tampering/)]
 
-Micah Lee. “It’s Impossible To Prove Your Laptop Hasn’t Been Hacked. I Spent Two Years Finding Out.” 
-
-[[https://theintercept.com/2018/04/28/computer-malware-tampering/](https://theintercept.com/2018/04/28/computer-malware-tampering/)]
-
-
-    Arthur Turner. “Consulting Is More Than Giving Advice.” [[https://hbr.org/1982/09/consulting-is-more-than-giving-advice](https://hbr.org/1982/09/consulting-is-more-than-giving-advice)] 
+* Arthur Turner. “Consulting Is More Than Giving Advice.” [[https://hbr.org/1982/09/consulting-is-more-than-giving-advice](https://hbr.org/1982/09/consulting-is-more-than-giving-advice)] 
 
 **Assignments Due:**
 
-**	_3/1 6:00PM_ **-** **Draft Work Plan (to Teaching Team) _[Team]_
+* _3/1 6:00PM_: Draft Work Plan (to Teaching Team) _[Team]_
 
-**	_~~3/3 11:59PM: Phishing Email Template [Individual]~~_**
+* _3/3 11:59PM_: Phishing Email Template _[Individual]_
 
-**Tuesday 2/26: **
+**Tuesday 2/26:**
 
-	Managing an Effective Consulting Relationship
+* Managing an Effective Consulting Relationship
 
-	Designing your Work Plan
+* Designing your Work Plan
 
-**Thursday 2/28: **
+**Thursday 2/28:**
 
-**	**Bill Marczak, “Technical Investigations and Techniques”
+* Bill Marczak, “Technical Investigations and Techniques”
 
 
 ### Week 7: Establishing Baseline Digital Security (Part 2)
 
 **Read:**
 
-IFTF “State-Sponsored Trolling: How Governments Are Deploying Disinformation as Part of Broader Digital Harassment Campaigns”. Read pages 3 to 21 & 45 to 51.
+* IFTF “State-Sponsored Trolling: How Governments Are Deploying Disinformation as Part of Broader Digital Harassment Campaigns”. Read pages 3 to 21 & 45 to 51. [[http://www.iftf.org/statesponsoredtrolling](http://www.iftf.org/statesponsoredtrolling)] 
 
-<span style="text-decoration:underline;">[[http://www.iftf.org/statesponsoredtrolling](http://www.iftf.org/statesponsoredtrolling)</span>] 
+* InterAction “Disinformation Toolkit.” [[https://staging.interaction.org/documents/disinformation-toolkit/](https://staging.interaction.org/documents/disinformation-toolkit/)] 
 
-InterAction “Disinformation Toolkit.” [[https://staging.interaction.org/documents/disinformation-toolkit/](https://staging.interaction.org/documents/disinformation-toolkit/)] 
+* Emma L. Backe. “Left to their Own Devices: Gender, Cyberviolence, and the Internet” [[https://thenewinquiry.com/blog/left-to-their-own-devices-gender-cyberviolence-and-the-internet/](https://thenewinquiry.com/blog/left-to-their-own-devices-gender-cyberviolence-and-the-internet/)] 
 
-Emma L. Backe. “Left to their Own Devices: Gender, Cyberviolence, and the Internet” [[https://thenewinquiry.com/blog/left-to-their-own-devices-gender-cyberviolence-and-the-internet/](https://thenewinquiry.com/blog/left-to-their-own-devices-gender-cyberviolence-and-the-internet/)] 
+* Reply All podcast. “#112 The Prophet” Listen to or read transcript. [[https://www.gimletmedia.com/reply-all/112-the-prophet](https://www.gimletmedia.com/reply-all/112-the-prophet)]   
 
-Reply All podcast. “#112 The Prophet” Listen to or read transcript. 
-
-[[https://www.gimletmedia.com/reply-all/112-the-prophet](https://www.gimletmedia.com/reply-all/112-the-prophet)]   
-
-
-    **(Explore)** Mitre’s ATT&CK Wiki. 
-
-
-    [[https://attack.mitre.org/wiki/Main_Page](https://attack.mitre.org/wiki/Main_Page)]
+* **(Explore)** Mitre’s ATT&CK Wiki. [[https://attack.mitre.org/wiki/Main_Page](https://attack.mitre.org/wiki/Main_Page)]
 
 **Assignments Due:**
 
+* _3/5 11:59PM_: Phishing Email Template _[Individual]_
 
-    _3/5 11:59PM_: Phishing Email Template _[Individual]_
+* _By end of week (3/8)_: Work Plan Call with Partner _[Team]_
 
-
-    _By end of week (3/8)_: Work Plan Call with Partner _[Team]_
-
-**	_3/8 6:00PM_**: Final Work Plan Approved by Partner _[Team]_
+* _3/8 6:00PM_: Final Work Plan Approved by Partner _[Team]_
 
 **Tuesday 3/5:**
 
+* M Porup, Cybersecurity Journalist/Trainer, “Training the Security Trainers” 
 
-    **~~JM Porup, Cybersecurity Journalist/Trainer, “Training the Security Trainers” ~~**
-
-	Threat Scenario Development (Nick Merrill’s Security Game)
+* Threat Scenario Development (Nick Merrill’s Security Game)
 
 **Thursday 3/7:**
 
-
-    Leigh Honeywell, Founder/CEO, Tall Poppy “Online Harassment and Trolling”  
-
+* Leigh Honeywell, Founder/CEO, Tall Poppy “Online Harassment and Trolling”  
 
 ### Week 8: Digital Security Training (Part 1)
 
 **Read:**
 
-Weidinger et al. “How To Give A Digital Security Training” [[https://medium.com/@geminiimatt/how-to-give-a-digital-security-training-4c83af667d40](https://medium.com/@geminiimatt/how-to-give-a-digital-security-training-4c83af667d40)] 
+* Weidinger et al. “How To Give A Digital Security Training” [[https://medium.com/@geminiimatt/how-to-give-a-digital-security-training-4c83af667d40](https://medium.com/@geminiimatt/how-to-give-a-digital-security-training-4c83af667d40)] 
 
 
-    EFF. “Am I the Right Person?” [[https://sec.eff.org/articles/right-person-to-train]](https://sec.eff.org/articles/right-person-to-train)
+* EFF. “Am I the Right Person?” [[https://sec.eff.org/articles/right-person-to-train]](https://sec.eff.org/articles/right-person-to-train)
 
 
-    EFF. “How to Teach Adults” [[https://sec.eff.org/articles/how-to-teach-adults](https://sec.eff.org/articles/how-to-teach-adults)] 
+* EFF. “How to Teach Adults” [[https://sec.eff.org/articles/how-to-teach-adults](https://sec.eff.org/articles/how-to-teach-adults)] 
 
-(Explore) Citizen Lab’s Security Planner. 
+* **(Explore)** Citizen Lab’s Security Planner. [[https://securityplanner.org/](https://securityplanner.org/)]
 
-[[https://securityplanner.org/](https://securityplanner.org/)]
+* **(Explore)** The rest of EFF’s Security Education Companion. [[https://sec.eff.org/](https://sec.eff.org/)]
 
-(Explore) The rest of EFF’s Security Education Companion.
-
-[[https://sec.eff.org/](https://sec.eff.org/)]
-
-
-    (Explore)** **Mitre’s Common Vulnerabilities and Exposures search.** **
-
-
-    [[https://cve.mitre.org/cve/](https://cve.mitre.org/cve/)]
+* **(Explore)** Mitre’s Common Vulnerabilities and Exposures search. [[https://cve.mitre.org/cve/](https://cve.mitre.org/cve/)]
 
 
 ### **Assignments Due:**
 
-**	_By end of week (3/15)_ **-** **2nd Contextual Research Briefs _[Individual]_
+* _By end of week (3/15)_: 2nd Contextual Research Briefs _[Individual]_
 
-**Tuesday 3/12: **
+**Tuesday 3/12:**
 
-	~~Adult Education for Security~~
+* Adult Education for Security
 
-~~	**Studying and Evaluating Security Tools (Yubikey), Indiana University**~~
+* Studying and Evaluating Security Tools (Yubikey), Indiana University**
 
-**Thursday 3/14: **
+**Thursday 3/14:**
 
-
-    Eva Galperin, Director of Cybersecurity, EFF** **“Being a good security educator”
+* Eva Galperin, Director of Cybersecurity, EFF - “Being a good security educator”
 
 
 ### Week 9: Digital Security Training (Part 2)
@@ -395,100 +316,93 @@ Weidinger et al. “How To Give A Digital Security Training” [[https://medium.
 ### **Assignments Due:**
 
 
-### **	_3/21 11:59PM_ **-** **Team Evaluation 1 _[Individual]_ 
+* _3/21 11:59PM_ : Team Evaluation 1 _[Individual]_ 
 
 
-    **Tuesday 3/19:**
+**Tuesday 3/19:**
 
 
-    	Community Clinic with the School of Journalism **(School of Journalism Library, Lunch will be provided)**
+* Community Clinic with the School of Journalism **(School of Journalism Library, Lunch will be provided)**
 
 
-    **Thursday 3/21:**
+**Thursday 3/21:**
 
+* Community Clinic Discussion
 
-    	Community Clinic Discussion
-
-
-    **	~~Third-Party Tool Evaluation~~**
+* Third-Party Tool Evaluation
 
 
 ### Week 10 - “Spring Break”: 
 
-**Tuesday 3/26: _No Class_**
+* Tuesday 3/26: _No Class_
 
-**Thursday 3/28: _No Class_**
+* Thursday 3/28: _No Class_
 
 
 ### Week 11: 
 
-
-    **Tuesday 4/2: **Clinic Core Hours / Team Check-in 
+* Tuesday 4/2: Clinic Core Hours / Team Check-in 
 
 _“Clinic Core Hours” refers to the required student attendance of official class meeting hours between 12PM and 2PM that will be reserved for instruction specific to partner needs, feedback and guidance from the teaching team, and ad-hoc lectures. Every Tuesday (starting on April 2nd), each team will have a 30-minute check-in with the teaching team. Each team member will provide a ~5 minute update on the progress of their assigned partner work._
 
 
-    **Thursday 4/4: **Clinic Core Hours 
+* Thursday 4/4: Clinic Core Hours 
 
 
 ### Week 12: 
 
 
-    **Tuesday 4/9:_ _**Clinic Core Hours / Team Check-in
+* Tuesday 4/9: Clinic Core Hours / Team Check-in
 
 
-    **Thursday 4/11: **Clinic Core Hours 
+* Thursday 4/11: Clinic Core Hours 
 
 
 ### Week 13:
 
 
-    **Tuesday 4/16: **Clinic Core Hours / Team Check-in
+* Tuesday 4/16: Clinic Core Hours / Team Check-in
 
 
-    **Thursday 4/18:_ _**Clinic Core Hours
+* Thursday 4/18: Clinic Core Hours
 
 
 ### Week 14: 
 
-**	Tuesday 4/23: **Clinic Core Hours / Team Check-in
-
-**Thursday 4/25: **Clinic Core Hours
+* Tuesday 4/23: Clinic Core Hours / Team Check-in
+* Thursday 4/25: Clinic Core Hours
 
 
 ### Week 15: 
 
-**	Assignments Due:**
+**Assignments Due:**
 
-**		_4/30 11:59PM:_ **Final Partner Report (for Teaching Team Review) _[Team]_
+* _4/30 11:59PM:_ Final Partner Report (for Teaching Team Review) _[Team]_
 
-**Tuesday 4/30: **Clinic Core Hours
+* Tuesday 4/30: Clinic Core Hours
 
-**Thursday 5/2: **Clinic Core Hours / Final Report Feedback
+* Thursday 5/2: Clinic Core Hours / Final Report Feedback
 
 
 ### Week 16 (RRR): Wrap-up & Project Presentations
 
-**	Assignments Due:**
+**Assignments Due:**
 
-**		_5/10 6:00PM:_** Final Partner Report (to Partner) _[Team]_
+* _5/10 6:00PM:_ Final Partner Report (to Partner) _[Team]_
 
-		_5/8 11:59PM_:** **Project Presentations _[Team]_
+* _5/8 11:59PM_: Project Presentations _[Team]_
 
-		_5/12 11:59PM:** **_Final Individual Write-up _[Individual]_
+* _5/12 11:59PM_: Final Individual Write-up _[Individual]_
 
+* _5/12 11:59PM:_ Team Evaluation 2 _[Individual]_
 
-    _5/12 11:59PM:_ Team Evaluation 2 _[Individual]_
+**Tuesday 5/7 - Course Wrap-up:**
 
-**Tuesday 5/7 - Course Wrap-up: **
+_Feedback on deliverables, submit all final deliverables._
 
+**Thursday 5/9 - Project Presentations:**
 
-    Feedback on deliverables, submit all final deliverables. **  **
-
-**Thursday 5/9 - Project Presentations: **
-
-
-    An overview of partner work, findings, recommendations delivered to CLTC and stakeholders.
+_An overview of partner work, findings, recommendations delivered to CLTC and stakeholders._
 
 
 ## 
@@ -504,7 +418,7 @@ This is a 4-unit class. Coursework will primarily focus on partner-facing projec
 
 Assignments will largely be evaluated on the following rubric that emphasizes (1) sound rationale in assessments, recommendations, and reflections, (2) “partner-ready” work products which reflect professional quality, and (3) completing the instructions of the assignment or the requirements agreed upon work plan with the partner. 
 
-**General Grading Rubric* **
+**General Grading Rubric**
 
 
 <table>
@@ -551,7 +465,7 @@ Assignments will largely be evaluated on the following rubric that emphasizes (1
 </table>
 
 
-**_*Note: Students taking the course for P/NP or S/U are expected to participate in classes and complete all work to the same level of quality as students taking the course for a letter grade._**
+_Note: Students taking the course for P/NP or S/U are expected to participate in classes and complete all work to the same level of quality as students taking the course for a letter grade._
 
 **Assignments.**
 
@@ -559,7 +473,7 @@ Assignments will largely be evaluated on the following rubric that emphasizes (1
 
 The largest portion of graded evaluation will be based upon your team’s work and support for its assigned partner. These deliverables may include assessments, recommendations, and guides, each tailored towards the partner’s needs. Each team will also deliver a final report summarizing work performed with their partner.
 
-**2. Individual Assignments - 10% **
+**2. Individual Assignments - 10%**
 
 A small number of individual assignments will be given, mostly within the first half of the course.
 
