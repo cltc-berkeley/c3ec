@@ -5,7 +5,7 @@
     * Developed (with EFF) hands-on Security Training design module for community-focused workshop.
     * Moved Resiliency module earlier in semester.
     * Added collaborative discussion with Policy & Legal experts.
-
+ 
 
 **INFO289. Public Interest Cybersecurity: The Citizen Clinic Practicum.**
 

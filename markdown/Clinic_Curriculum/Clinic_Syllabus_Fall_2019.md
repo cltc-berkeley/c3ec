@@ -124,7 +124,7 @@ Ethics and “Rules of the Road”:
 
 **Read (by end of week):**
 
-* Electronic Frontier Foundation, “Surveillance Self-Defense: Your Security Plan” [[https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan](https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan)]** - know the definitions of underlined terms.**
+* Electronic Frontier Foundation, “Surveillance Self-Defense: Your Security Plan” [[https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan](https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan)] - **know the definitions of underlined terms.**
 
 * Citizen Lab. “Bittersweet: Supporters of Mexico’s soda tax targeted with NSO exploit links” [[https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/](https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/)]
 
@@ -147,7 +147,7 @@ Ethics and “Rules of the Road”:
 
 Threat Modeling & Bounding Risk Assessments
 
-**Wednesday 9/18: **
+**Wednesday 9/18:**
 
 *	Bill Marczak, “Digital Surveillance of PVOs - The Threat Landscape” 
 
