@@ -17,467 +17,351 @@ _Note: This schedule is tentative and may be adjusted - assignment dates may cha
 
 ### Week 0: Introduction
 
-	**Read:** 
+**Read:** 
 
-	
+* Access Now. “Spyware in Mexico: an interview with Luis Fernando García of R3D Mexico” [[https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/](https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/)]
 
-	Access Now. “Spyware in Mexico: an interview with Luis Fernando García of R3D Mexico” 
-
-[[https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/](https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/)]
-
-
-    Sean Brooks “Defending Politically Vulnerable Organizations Online” [[https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf](https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf)]
+* Sean Brooks “Defending Politically Vulnerable Organizations Online” [[https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf](https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf)]
 
 **Assignments Due:**
 
-
-    _8/22 11:59PM:** **_Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on August 27th.
+* _8/22 11:59PM_: Submit application materials to enroll in this course. You will be notified of your enrollment status prior to the next class meeting on August 27th.
 
 **Wednesday 8/22 [South Hall Room 107] :** 
 
-
-    We will introduce the content and methods of the course, answer your questions, and everyone will introduce themselves to one another.
+_We will introduce the content and methods of the course, answer your questions, and everyone will introduce themselves to one another._
 
 
 ### Week 1: What is Public-Interest Cybersecurity?
 
 **Read:**
 
+* Jorge Luis Sierra “Digital and Mobile Security for Mexican Journalists and Bloggers” [[https://ijnet.org/en/content/digital-and-mobile-security-mexican-journalists-and-bloggers](https://ijnet.org/en/content/digital-and-mobile-security-mexican-journalists-and-bloggers)]
 
-    Jorge Luis Sierra “Digital and Mobile Security for Mexican Journalists and Bloggers” [[https://ijnet.org/en/content/digital-and-mobile-security-mexican-journalists-and-bloggers](https://ijnet.org/en/content/digital-and-mobile-security-mexican-journalists-and-bloggers)]
+* Netgain “Digital Security and Grantcraft Guide” [[fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf](https://www.fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf)]
 
-Netgain “Digital Security and Grantcraft Guide”
+* Citizen Lab’s “About Us” Paper. [[https://citizenlab.ca/wp-content/uploads/2018/05/18033-Citizen-Lab-booklet-p-E.pdf](https://citizenlab.ca/wp-content/uploads/2018/05/18033-Citizen-Lab-booklet-p-E.pdf)] 
 
-[[fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf](https://www.fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf)]
-
-
-    Citizen Lab’s “About Us” Paper. [[https://citizenlab.ca/wp-content/uploads/2018/05/18033-Citizen-Lab-booklet-p-E.pdf](https://citizenlab.ca/wp-content/uploads/2018/05/18033-Citizen-Lab-booklet-p-E.pdf)] 
-
-
-    Tactical Tech's Annual Report [[https://tacticaltech.org/media/news/annual-report-2017.pdf](https://tacticaltech.org/media/news/annual-report-2017.pdf)] 
+* Tactical Tech's Annual Report [[https://tacticaltech.org/media/news/annual-report-2017.pdf](https://tacticaltech.org/media/news/annual-report-2017.pdf)] 
 
 **Assignments Due:**
 
+* _8/27 in-class_: Code of Conduct Signed _[Individual]_ 
 
-    _8/27 in-class_: Code of Conduct Signed _[Individual]_ 
-
-
-    _8/31 6:00PM: _Secure Communications Established (with Reflection) _[Individual]_
+* _8/31 6:00PM: _Secure Communications Established (with Reflection) _[Individual]_
 
 **Monday 8/27 Lab:**
 
 
-    Citizen Clinic “Rules of the Road”: 
+* Citizen Clinic “Rules of the Road”: 
 
+* Citizen Clinic Code of Conduct. 
 
-        Citizen Clinic Code of Conduct. 
+* Personal Risk of Citizen Clinic.
 
+* How to talk about Citizen Clinic.
 
-        Personal Risk of Citizen Clinic.
+* Ethical Considerations.
 
+* Security Response Plan.	
 
-        How to talk about Citizen Clinic.
+* Personal Communications setup and equipment issue.
 
+**Wednesday 8/29 Lecture:**
 
-        Ethical Considerations.
-
-
-        Security Response Plan.	
-
-
-    Personal Communications setup and equipment issue.
-
-**Wednesday 8/29 Lecture: **
-
-
-    Sean B & Steve T** **“The need for public interest cybersecurity”** **
+* Sean B & Steve T: “The need for public interest cybersecurity”
 
 
 ### Week 2: Threat Landscape (Technical Theory Base)
 
 **Read:**
 
-Citizen Lab. “Bittersweet: Supporters of Mexico’s soda tax targeted with NSO exploit links”
+* Citizen Lab. “Bittersweet: Supporters of Mexico’s soda tax targeted with NSO exploit links” [[https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/](https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/)]
 
-[[https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/](https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/)]
+* Le Blond et al. “A look at targeted attacks through the lense of an NGO” [[www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf)]
 
-Le Blond et al. “A look at targeted attacks through the lense of an NGO” 
+* Silver & Elgin. “Torture in Bahrain Becomes Routine With Help From Nokia Siemens” [[https://web.archive.org/web/20111006185329/http://www.bloomberg.com/news/2011-08-22/torture-in-bahrain-becomes-routine-with-help-from-nokia-siemens-networking.html](https://web.archive.org/web/20111006185329/http://www.bloomberg.com/news/2011-08-22/torture-in-bahrain-becomes-routine-with-help-from-nokia-siemens-networking.html)]
 
-[[www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf)]
+* Stephen Arnold. “Telestrategies - An Interview with Dr. Jerry Lucas” [[http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html](http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html)]
 
+* **(Optional)** Reply All podcast. “#112 The Prophet” Listen to or read transcript. [[https://www.gimletmedia.com/reply-all/112-the-prophet](https://www.gimletmedia.com/reply-all/112-the-prophet)] 
 
-    Silver & Elgin. “Torture in Bahrain Becomes Routine With Help From Nokia Siemens” [[https://web.archive.org/web/20111006185329/http://www.bloomberg.com/news/2011-08-22/torture-in-bahrain-becomes-routine-with-help-from-nokia-siemens-networking.html](https://web.archive.org/web/20111006185329/http://www.bloomberg.com/news/2011-08-22/torture-in-bahrain-becomes-routine-with-help-from-nokia-siemens-networking.html)]
-
-
-    Stephen Arnold. “Telestrategies - An Interview with Dr. Jerry Lucas” [[http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html](http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html)]
-
-(Optional) Reply All podcast. “#112 The Prophet” Listen to or read transcript. 
-
-[[https://www.gimletmedia.com/reply-all/112-the-prophet](https://www.gimletmedia.com/reply-all/112-the-prophet)] 
-
-(Optional) Alex Gaynor. “What happens when you type google.com into your browser's address box and press enter?" 
-
-[[https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)]
+* **(Optional)** Alex Gaynor. “What happens when you type google.com into your browser's address box and press enter?" [[https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)]
 
 **Assignments Due:**
 
 
-    _9/7 6:00PM:_ Collaborative Plan _[Team]_
+* _9/7 6:00PM:_ Collaborative Plan _[Team]_
 
+* _9/9 11:59PM:_ 9/12 11:59PM:** _Secure-a-Friend Reflection _[Individual]_
 
-    _~~9/9 11:59PM:~~ **9/12 11:59PM:** _Secure-a-Friend Reflection_ [Individual] _
+**Monday 9/3:**
 
-**Monday 9/3:_ _**
+_Academic and Administrative Holiday (Labor Day)_
 
+**Wednesday 9/5 Lecture:**
 
-    _Academic and Administrative Holiday (Labor Day)_
-
-**Wednesday 9/5 Lecture: **
-
-**	**Bill Marczak “The vulnerabilities of cyberspace”
-
-
-     
+* Bill Marczak “The vulnerabilities of cyberspace”
 
 
 ### Week 3: Challenges to Securing Politically-Vulnerable Organizations 
 
 **Read:**
 
-CIPESA. “Safeguarding Civil Society: Assessing Internet Freedom and the Digital Resilience of Civil Society in East Africa” - Read each chapter, but for one country only.  
+* CIPESA. “Safeguarding Civil Society: Assessing Internet Freedom and the Digital Resilience of Civil Society in East Africa” - Read each chapter, but for one country only. [[https://cipesa.org/?wpfb_dl=237](https://cipesa.org/?wpfb_dl=237)] 
 
-[[https://cipesa.org/?wpfb_dl=237](https://cipesa.org/?wpfb_dl=237)] 
+* Abu-Salma et al. “Obstacles to the Adoption of Secure Communication Tools” [[https://ieeexplore.ieee.org/abstract/document/7958575/](https://ieeexplore.ieee.org/abstract/document/7958575/)]
 
-Abu-Salma et al. “Obstacles to the Adoption of Secure Communication Tools” 
+* Whitten & Tygar. “Why Johnny Can’t Encrypt” [[https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf](https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf)]
 
-[[https://ieeexplore.ieee.org/abstract/document/7958575/](https://ieeexplore.ieee.org/abstract/document/7958575/)]
-
-Whitten & Tygar. “Why Johnny Can’t Encrypt” 
-
-[[https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf](https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf)]
-
-Scott, James C. “Seeing Like a State” - Chapter 9
-
-
-    [[https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf)] 
+* Scott, James C. “Seeing Like a State” - Chapter 9 [[https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf)] 
 
 **Assignments Due:**
 
-	_9/10 11:59PM_: Client Communications Instructions (for Review) _[Team]_
+* _9/10 11:59PM_: Client Communications Instructions (for Review) _[Team]_
 
 
-    **_9/12 11:59PM: (Moved from Week 2) _**Secure-a-Friend Reflection_ [Individual] _
+* _9/12 11:59PM:_ (Moved from Week 2) Secure-a-Friend Reflection _[Individual]_
+
+* _9/20 (Target)_: Communication Established with Client _[Team]_
+
+* _9/16 11:59PM:_ Personal Threat Model _[Individual]_ TBD
+
+**Monday 9/10: Lab:**
+
+* Threat modelling. 
+
+* Establishing communications with clients.
+
+* Conducting interviews.
 
 
-    **_9/20 (Target)_:** Communication Established with Client _[Team]_
+**Wednesday 9/12 Lecture:**
 
-
-    _~~9/16 11:59PM: Personal Threat Model [Individual]  ~~_TBD
-
-**Monday 9/10 Lab:**
-
-
-    Threat modelling. 
-
-
-    Establishing communications with clients.
-
-
-    **~~Conducting interviews.~~**
-
-**Wednesday 9/12 Lecture: **
-
-
-    Steve Weber “Changing behaviors within PVOs”
+* Steve Weber “Changing behaviors within PVOs”
 
 
 ### Week 4: Contextual Assessments for Cybersecurity 
 
 **Read:**
 
-SAFETAG Guide. Read pages 1 - 31, skim rest. 
+* SAFETAG Guide. Read pages 1 - 31, skim rest. [[github.com/SAFETAG/SAFETAG/files/1278308/SAFETAG-FullGuide_Sep2017.pdf](https://github.com/SAFETAG/SAFETAG/files/1278308/SAFETAG-FullGuide_Sep2017.pdf)] 
 
-[[github.com/SAFETAG/SAFETAG/files/1278308/SAFETAG-FullGuide_Sep2017.pdf](https://github.com/SAFETAG/SAFETAG/files/1278308/SAFETAG-FullGuide_Sep2017.pdf)] 
+* NIST SP 800-39 “Managing Information Security Risk.” Chapter 2 only. [[https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf)]
 
-NIST SP 800-39 “Managing Information Security Risk.” Chapter 2 only. 
+* NIST SP 800-37 “Risk Management Framework for Information Systems and Organizations.” Chapter 2 only. [[https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf](https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf)]
 
-[[https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf)]
+* NISTIR 8062 “An Introduction to Privacy Engineering and Risk Management in Federal Systems.” [[https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf)] 
 
-NIST SP 800-37 “Risk Management Framework for Information Systems and Organizations.” Chapter 2 only. 
+* Fong, Rowland, Trush. “A CRIMSon Tide of Data: An Assessment of Potential Privacy Problems of the Consolidate Records Information Management System” [[http://people.ischool.berkeley.edu/~strush/CRIMS_FongRowlandTrush_Feb2018.pdf](http://people.ischool.berkeley.edu/~strush/CRIMS_FongRowlandTrush_Feb2018.pdf)]
 
-[[https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf](https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf)]
-
-NISTIR 8062 “An Introduction to Privacy Engineering and Risk Management in Federal Systems.” 
-
-
-    [[https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf)] 
-
-	Fong, Rowland, Trush. “A CRIMSon Tide of Data: An Assessment of Potential Privacy Problems of the Consolidate Records Information Management System” 
-
-[[http://people.ischool.berkeley.edu/~strush/CRIMS_FongRowlandTrush_Feb2018.pdf](http://people.ischool.berkeley.edu/~strush/CRIMS_FongRowlandTrush_Feb2018.pdf)]
-
-About PESTLE.** **
-
-[[http://guides.ucf.edu/industryanalysis/PESTLE](http://guides.ucf.edu/industryanalysis/PESTLE)]
+* About PESTLE. [[http://guides.ucf.edu/industryanalysis/PESTLE](http://guides.ucf.edu/industryanalysis/PESTLE)]
 
 **Assignments Due:**
 
-**	_9/20 (Target) Continued_:** Communication Established with Client _[Team]_
+* _9/20 (Target) Continued_: Communication Established with Client _[Team]_
 
-**Monday 9/17 Lab:**
+**Monday 9/17: Lab**
 
+* Open Source Research methods and tools.
 
-    Open Source Research methods and tools.
+* Environmental factors frameworks (PESTLE-M, PMESII).
 
+**Wednesday 9/19 Lecture:**
 
-    Environmental factors frameworks (PESTLE-M, PMESII).
-
-**Wednesday 9/19 Lecture: **
-
-
-    Sean Brooks** “**Bounding risk assessments”
+* Sean Brooks** “Bounding risk assessments”
 
 
 ### Week 5: Conducting Technical Assessments
 
 **Read:**
 
-Bill Marczak and John Scott-Railton. “Keep Calm and (Don’t) Enable Macros: A New Threat Actor Targets UAE Dissidents” 
+*  Marczak and John Scott-Railton. “Keep Calm and (Don’t) Enable Macros: A New Threat Actor Targets UAE Dissidents” [[https://citizenlab.ca/2016/05/stealth-falcon/](https://citizenlab.ca/2016/05/stealth-falcon/)] 
 
-[[https://citizenlab.ca/2016/05/stealth-falcon/](https://citizenlab.ca/2016/05/stealth-falcon/)] 
+* Micah Lee. “It’s Impossible To Prove Your Laptop Hasn’t Been Hacked. I Spent Two Years Finding Out.” [[https://theintercept.com/2018/04/28/computer-malware-tampering/](https://theintercept.com/2018/04/28/computer-malware-tampering/)]
 
-Micah Lee. “It’s Impossible To Prove Your Laptop Hasn’t Been Hacked. I Spent Two Years Finding Out.” 
+* Explore Mitre’s PRE-ATT&CK Wiki. [[https://attack.mitre.org/pre-attack/index.php/Main_Page](https://attack.mitre.org/pre-attack/index.php/Main_Page)]
 
-[[https://theintercept.com/2018/04/28/computer-malware-tampering/](https://theintercept.com/2018/04/28/computer-malware-tampering/)]
+* Explore Mitre’s ATT&CK Wiki. [[https://attack.mitre.org/wiki/Main_Page](https://attack.mitre.org/wiki/Main_Page)]
 
+* Use Mitre’s Common Vulnerabilities and Exposures search. [[https://cve.mitre.org/cve/](https://cve.mitre.org/cve/)].
 
-    Explore Mitre’s PRE-ATT&CK Wiki. [[https://attack.mitre.org/pre-attack/index.php/Main_Page](https://attack.mitre.org/pre-attack/index.php/Main_Page)]
-
-
-    Explore Mitre’s ATT&CK Wiki. 
-
-
-    [[https://attack.mitre.org/wiki/Main_Page](https://attack.mitre.org/wiki/Main_Page)]
-
-
-    Use** **Mitre’s Common Vulnerabilities and Exposures search.** **
-
-
-    [[https://cve.mitre.org/cve/](https://cve.mitre.org/cve/)].
-
-
-    Additional readings as specified by guest 
+_Additional readings as specified by guest_  
 
 **Assignments Due:**
 
-**	_9/24 2:00PM_ **-** **1st Contextual Research Briefs _[Individual]_
+* _9/24 2:00PM_: 1st Contextual Research Briefs _[Individual]_
 
-**	_9/26 2:00PM_ - Threat Model Reflection_ [Individual - Mini Assignment]_**
+* _9/26 2:00PM_: Threat Model Reflection _[Individual - Mini Assignment]_ 
+* 9/26 11:59PM _- Initial Work Plan (for Teaching Team Review) _[Team]_ 
 
-**_	9/26 11:59PM _- Initial Work Plan (for Teaching Team Review) _[Team]_ ** 
+* _9/28 6:00PM_ - Work Plan To Client _[Team]_
 
-	_9/28 6:00PM_ - Work Plan To Client _[Team]_
+**Monday 9/24 Lab:**
 
-**Monday 9/24 Lab: **
+* Conducting interviews.
 
-	**Conducting interviews.**
+* Surveys / Device inventories. 
 
+**Wednesday 9/26 Lecture:**
 
-    Surveys / Device inventories. 
-
-**Wednesday 9/26 Lecture: **
-
-
-    Eva Galperin, Director of Cybersecurity, EFF** **“Being a good security educator / trainer”
+* Eva Galperin, Director of Cybersecurity, EFF “Being a good security educator / trainer”
 
 
 ### Week 6: Establishing Baseline Digital Security (Part 1)
 
 **Read:**
 
-Weidinger et al. “How To Give A Digital Security Training” [[https://medium.com/@geminiimatt/how-to-give-a-digital-security-training-4c83af667d40](https://medium.com/@geminiimatt/how-to-give-a-digital-security-training-4c83af667d40)] 
+* Weidinger et al. “How To Give A Digital Security Training” [[https://medium.com/@geminiimatt/how-to-give-a-digital-security-training-4c83af667d40](https://medium.com/@geminiimatt/how-to-give-a-digital-security-training-4c83af667d40)] 
 
-Musiani & Ermoshina. “What is a Good Secure Messaging Tool? The EFF Secure Messaging Scorecard and the Shaping of Digital (Usable) Security” 
+* Musiani & Ermoshina. “What is a Good Secure Messaging Tool? The EFF Secure Messaging Scorecard and the Shaping of Digital (Usable) Security” [[https://www.westminsterpapers.org/articles/10.16997/wpcc.265/](https://www.westminsterpapers.org/articles/10.16997/wpcc.265/)]
 
-[[https://www.westminsterpapers.org/articles/10.16997/wpcc.265/](https://www.westminsterpapers.org/articles/10.16997/wpcc.265/)]
+* Use Citizen Lab’s Security Planner. [[https://securityplanner.org/](https://securityplanner.org/)]
 
-Use Citizen Lab’s Security Planner. 
+* Explore EFF’s Surveillance Self-Defense guide. [[https://ssd.eff.org/](https://ssd.eff.org/)]
 
-[[https://securityplanner.org/](https://securityplanner.org/)]
-
-Explore EFF’s Surveillance Self-Defense guide.
-
-[[https://ssd.eff.org/](https://ssd.eff.org/)]
-
-
-    Additional readings as specified by guest. 
+_Additional readings as specified by guest._
 
 **Assignments Due:**
 
-**	_10/1 2:00PM_ **-** **2nd Contextual Research Briefs _[Individual]_
+* _10/1 2:00PM_ 2nd Contextual Research Briefs _[Individual]_
 
-**Monday 10/1 Lab: **
+**Monday 10/1: Lab**
 
-**		Technical assessments.**
+* Technical assessments.
 
+* Tool Evaluation.
 
-    Tool Evaluation.
+**Wednesday 10/3 Guest Lecture:**
 
-**Wednesday 10/3 Guest Lecture: **
-
-
-    Bill Marczak “Technical investigations and techniques”
+* Bill Marczak “Technical investigations and techniques”
 
 
 ### Week 7: Establishing Baseline Digital Security (Part 2)
 
 **Read:**
 
-
-    Additional readings as specified by guest 
+_Additional readings as specified by guest_ 
 
 **Assignments Due:**
 
-**~~	_10/14 11:59PM _- Phishing Templates _[Individual]_~~**
+* _10/14 11:59PM_: Phishing Templates _[Individual]_
 
-**_~~	TBD - Home Router Assessment [Individual]~~_**
+* _TBD:_ Home Router Assessment _[Individual]_
 
-**	_~~TBD - Community Clinic Reflection [Individual]~~_**
+* _TBD:_  Community Clinic Reflection _[Individual]_
 
-**Monday 10/8 Lab: **
+**Monday 10/8 Lab:**
 
-**	**Recommendations 
+Recommendations 
 
+* Guides: Password manager, device security.
 
-        Guides: Password manager, device security.
+* Phishing training.
 
-	Phishing training.
+* (Potential move) Community Clinic: _an event for assessing & securing local high-risk organization members_
 
+**Wednesday 10/10 Lecture:**
 
-    **~~(Potential move) Community Clinic - _an event for assessing & securing local high-risk organization members _~~**
-
-**Wednesday 10/10 Lecture: **
-
-
-    Félim McMahon, Technology Director, Human Rights Center “Deploying security controls in high-risk environments”
+* Félim McMahon, Technology Director, Human Rights Center “Deploying security controls in high-risk environments”
 
 
 ### Week 8:
 
-**Monday 10/15: **Clinic Core Hours
+**Monday 10/15:** Clinic Core Hours
 
-_“Clinic Core Hours” refers to the required student attendance of official class meeting hours between 2PM and 4PM that will be reserved for instruction specific to client needs, feedback and guidance from the teaching team, and potential guest lectures.   _
+_“Clinic Core Hours” refers to the required student attendance of official class meeting hours between 2PM and 4PM that will be reserved for instruction specific to client needs, feedback and guidance from the teaching team, and potential guest lectures._
 
-**Wednesday 10/17: **Clinic Core Hours
+**Wednesday 10/17:** Clinic Core Hours
 
 
 ### Week 9: 
 
 
-### 	**Assignments Due:**
+**Assignments Due:**
 
 
-    **_10/29 11:59PM: _Community Clinic Reflection _[Individual]_**
+* _10/29 11:59PM:_ Community Clinic Reflection _[Individual]_
 
 
-    **Monday 10/22: **Clinic Core Hours
+* _Monday 10/22_: Clinic Core Hours
 
 
-    **Wednesday 10/24: **Clinic Core Hours
+* _Wednesday 10/24_: Clinic Core Hours
 
 
-    **Thursday 10/25 4:50 - 7:00PM: **
-
-
-    **Digital Security Crash Course**
-
-
-    **4:50-7pm, followed by reception**
-
-
-    **UC Berkeley, South Hall Room 210**
+* _Thursday 10/25 4:50 - 7:00PM:_ Digital Security Crash Course, **UC Berkeley, South Hall Room 210**
 
 
 ### Week 10: 
 
 **Assignments Due:**
 
-~~	_10/31 11:59PM:_ Team Midterm Progress Report _[Team]_~~
+* _10/31 11:59PM:_ Team Midterm Progress Report _[Team]_
 
+* _10/31 11:59PM:_ Team Evaluation 1 _[Individual]_
 
-    _10/31 11:59PM:_ Team Evaluation 1 _[Individual]_
+**Monday 10/29:** Clinic Core Hours
 
-**Monday 10/29: **Clinic Core Hours
-
-**Wednesday 10/31: **Clinic Core Hours
+**Wednesday 10/31:** Clinic Core Hours
 
 
 ### Week 11: 
 
 
-    **Monday 11/5: **Clinic Core Hours
+**Monday 11/5:** Clinic Core Hours
 
-
-    **Wednesday 11/7: **Clinic Core Hours
+**Wednesday 11/7:** Clinic Core Hours
 
 
 ### Week 12: 
 
 
-    **Monday 11/12:_ _**
+**Monday 11/12:** _Academic and Administrative Holiday (Labor Day)_
 
 
-    _Academic and Administrative Holiday (Labor Day)_
-
-
-    **Wednesday 11/14: **Clinic Core Hours
+**Wednesday 11/14:** Clinic Core Hours
 
 
 ### Week 13: Thanksgiving Week 
 
 
-    **Monday 11/19: **Clinic Core Hours
+**Monday 11/19:** Clinic Core Hours
 
 
-    **Wednesday 11/21:_ _**
-
-
-    _Academic and Administrative Holiday (Thanksgiving Eve)_
+**Wednesday 11/21:** _Academic and Administrative Holiday (Thanksgiving Eve)_
 
 
 ### Week 14: 
 
-**	Assignments Due:**
+**Assignments Due:**
 
-**		_11/28 11:59PM:_ **Final Client Report (for Teaching Team Review) _[Team]_
+* _11/28 11:59PM:_ **Final Client Report (for Teaching Team Review)** _[Team]_
 
-**Monday 11/26: **Clinic Core Hours
+**Monday 11/26:** Clinic Core Hours
 
-**Wednesday 11/28: **Clinic Core Hours
+**Wednesday 11/28:** Clinic Core Hours
 
 
 ### Week 15 (RRR): Wrap-up & Project Presentations
 
-**	Assignments Due:**
+**Assignments Due:**
 
-**		_12/3 6:00PM:_** Final Client Report (to Client) _[Team]_
+* _12/3 6:00PM:_ Final Client Report (to Client) _[Team]_
 
-		_12/4 11:59PM_:** **Project Presentations _[Team]_
+* _12/4 11:59PM_:Project Presentations _[Team]_
 
-		_12/9 11:59PM:** **_Final Individual Write-up _[Individual]_
+* _12/9 11:59PM:_ Final Individual Write-up _[Individual]_
 
+* _12/9 11:59PM:_ Team Evaluation 2 _[Individual]_
 
-    _12/9 11:59PM:_ Team Evaluation 2 _[Individual]_
+**Monday 12/3 -Course Wrap-up:**
 
-**Monday 12/3 - Course Wrap-up: **
+_Feedback on deliverables, submit all final deliverables, turn-in all equipment._
 
+**Wednesday 12/5 - Project Presentations:**
 
-    Feedback on deliverables, submit all final deliverables, turn-in all equipment. **  **
-
-**Wednesday 12/5 - Project Presentations: **
-
-
-    An overview of client work, findings, recommendations delivered to CLTC and stakeholders.
+_An overview of client work, findings, recommendations delivered to CLTC and stakeholders._
 
 
 ## 
@@ -493,7 +377,7 @@ This is a 4-unit class. Coursework will primarily focus on client-facing project
 
 Assignments will largely be evaluated on the following rubric that emphasizes (1) sound rationale in assessments, recommendations, and reflections, (2) “client-ready” work products which reflect professional quality, and (3) completing the instructions of the assignment or the requirements agreed upon work plan with the client. 
 
-**General Grading Rubric* **
+**General Grading Rubric**
 
 
 <table>
@@ -540,7 +424,7 @@ Assignments will largely be evaluated on the following rubric that emphasizes (1
 </table>
 
 
-**_*Note: Students taking the course for P/NP or S/U are expected to participate in classes and complete all work to the same level of quality as students taking the course for a letter grade._**
+_Note: Students taking the course for P/NP or S/U are expected to participate in classes and complete all work to the same level of quality as students taking the course for a letter grade._
 
 **Assignments.**
 
@@ -548,7 +432,7 @@ Assignments will largely be evaluated on the following rubric that emphasizes (1
 
 The largest portion of graded evaluation will be based upon your team’s work and support for its assigned client. These deliverables may include assessments, recommendations, and guides, each tailored towards the client’s needs. Each team will also deliver a final report summarizing work performed with their client.
 
-**2. Individual Assignments - 20% **
+**2. Individual Assignments - 20%**
 
 A small number of individual assignments will be given, mostly within the first half of the course.
 
@@ -566,7 +450,7 @@ If there are difficulties with any team member, discuss the matter within your t
 
 **Late assignments.**
 
-** **As we want to respect the time of our clients and ensure a high level of quality control (the teaching team will review deliverables before it reaches the client), we expect students to adhere to timelines and due dates. **Each day an assignment is late will result in a letter grade deduction.** Recognizing that emergencies arise and clients may require schedule adjustments, exceptions will be made on a case-by-case basis.
+As we want to respect the time of our clients and ensure a high level of quality control (the teaching team will review deliverables before it reaches the client), we expect students to adhere to timelines and due dates. **Each day an assignment is late will result in a letter grade deduction.** Recognizing that emergencies arise and clients may require schedule adjustments, exceptions will be made on a case-by-case basis.
 
 **Code of Conduct.**
 
