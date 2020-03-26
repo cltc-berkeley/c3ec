@@ -92,7 +92,7 @@ Citizen Clinic “Rules of the Road”
 
 * _9/7 6:00PM:_ Collaborative Plan _[Team]_
 
-* _9/9 11:59PM:_ 9/12 11:59PM:** Secure-a-Friend Reflection _[Individual]_
+* _9/9 11:59PM:_ 9/12 11:59PM: Secure-a-Friend Reflection _[Individual]_
 
 **Monday 9/3:** _Academic and Administrative Holiday (Labor Day)_
 
