@@ -303,7 +303,7 @@ _Contextual Factors and Frameworks_
 
 * Adult Education for Security
 
-* Studying and Evaluating Security Tools (Yubikey), Indiana University**
+* Studying and Evaluating Security Tools (Yubikey), Indiana University
 
 **Thursday 3/14:**
 
