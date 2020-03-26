@@ -189,8 +189,8 @@ _Additional readings as specified by guest_
 
 * _9/24 2:00PM_: 1st Contextual Research Briefs _[Individual]_
 
-* _9/26 2:00PM_: Threat Model Reflection _[Individual - Mini Assignment]_ 
-* 9/26 11:59PM_: Initial Work Plan (for Teaching Team Review) _[Team]_ 
+* _9/26 2:00PM_: Threat Model Reflection _[Individual - Mini Assignment]_  
+* _9/26 11:59PM_: Initial Work Plan (for Teaching Team Review) _[Team]_ 
 
 * _9/28 6:00PM_: Work Plan To Client _[Team]_
 
