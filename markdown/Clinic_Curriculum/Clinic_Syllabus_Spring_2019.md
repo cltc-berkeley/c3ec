@@ -47,12 +47,12 @@ _Note: This schedule is tentative and may be adjusted - assignment dates may cha
 * _1/24 In-Class_: Code of Conduct Signed _[Individual]_ 
 
 
-* _1/27 11:59PM: _Equipment Setup Completed (with Reflection & Partner Preference Submitted) _[Individual]_
+* _1/27 11:59PM:_ Equipment Setup Completed (with Reflection & Partner Preference Submitted) _[Individual]_
 
 **Tuesday 1/22:** 
 
 
-* We will introduce the content and methods of the course, answer your questions, and everyone will introduce themselves to one another.
+_We will introduce the content and methods of the course, answer your questions, and everyone will introduce themselves to one another._
 
 
 * Introduction to Public Interest Cybersecurity
@@ -81,7 +81,7 @@ _Note: This schedule is tentative and may be adjusted - assignment dates may cha
 
 **Read:**
 
-* Electronic Frontier Foundation, “Surveillance Self-Defense: Your Security Plan” [[https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan](https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan)]** - know the definitions of underlined terms.**
+* Electronic Frontier Foundation, “Surveillance Self-Defense: Your Security Plan” [[https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan](https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan)] - **know the definitions of underlined terms.**
 
 * Le Blond et al. “A look at targeted attacks through the lense of an NGO” [[www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf)]
 
@@ -163,7 +163,7 @@ _Note: This schedule is tentative and may be adjusted - assignment dates may cha
 
 * NIST SP 800-37 “Risk Management Framework for Information Systems and Organizations.” Chapter 2 only. [[https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf](https://csrc.nist.gov/CSRC/media/Publications/sp/800-37/rev-2/draft/documents/sp800-37r2-draft-ipd.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20SP%20800-037r2%20Risk%20Management%20Framework%20for%20Information%20Systems%20and%20Organizations;%20A%20System%20Life%20Cycle%20Approach%20for%20Security%20and%20Privacy,%202018-12-20%20(Final).pdf)]
 
-* **(Explore)** About PESTLE.** ** [[http://guides.ucf.edu/industryanalysis/PESTLE](http://guides.ucf.edu/industryanalysis/PESTLE)]
+* **(Explore)** About PESTLE. [[http://guides.ucf.edu/industryanalysis/PESTLE](http://guides.ucf.edu/industryanalysis/PESTLE)]
 
 * **(Skim)** NIST SP 800-39 “Managing Information Security Risk.” Chapter 2 only. [[https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20SP%20800-039%20Managing%20Information%20Security%20Risk;%20Organization,%20Mission,%20and%20Information%20System%20View,%202011-03-01%20(Final).pdf)]
 
@@ -491,7 +491,7 @@ If there are difficulties with any team member, discuss the matter within your t
 
 **Late assignments.**
 
-** **As we want to respect the time of our partners and ensure a high level of quality control (the teaching team will review deliverables before it reaches the partner), we expect students to adhere to timelines and due dates. **Each day an assignment is late will result in a letter grade deduction.** Recognizing that emergencies arise and partners may require schedule adjustments, exceptions will be made on a case-by-case basis.
+As we want to respect the time of our partners and ensure a high level of quality control (the teaching team will review deliverables before it reaches the partner), we expect students to adhere to timelines and due dates. **Each day an assignment is late will result in a letter grade deduction.** Recognizing that emergencies arise and partners may require schedule adjustments, exceptions will be made on a case-by-case basis.
 
 **Code of Conduct.**
 
