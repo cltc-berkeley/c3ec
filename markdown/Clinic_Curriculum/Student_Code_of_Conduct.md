@@ -3,11 +3,14 @@
 The Citizen Clinic is an inclusive course where students, mentors, and staff should feel comfortable sharing their work, opinions, and perspectives. All of us commit to engaging with each other mindfully to ensure an environment that promotes shared learning and collaboration.
 
 
-```
 When does the Code of Conduct apply?
-This Code of Conduct governs participation at the Citizen Clinic. It applies to all Clinic participants during all class meetings, as well as to all Clinic participants at after-hours working sessions or social events.
-The internet is real life. This Code of Conduct applies in all digital spaces connected to the Clinic (e.g., group chat channels, mailing lists, collaborative documents) as well as physical ones.
-Participants who violate this Code may be excluded from this and future Clinic opportunities, and may be prohibited from attending Clinic social events.
+
+```
+This Code of Conduct governs participation at the Citizen Clinic. It applies to all Clinic participants
+during all class meetings, as well as to all Clinic participants at after-hours working sessions or social events.
+The internet is real life. This Code of Conduct applies in all digital spaces connected to the Clinic (e.g., group
+chat channels, mailing lists, collaborative documents) as well as physical ones. Participants who violate this
+Code may be excluded from this and future Clinic opportunities, and may be prohibited from attending Clinic social events.
 ```
 
 
@@ -70,8 +73,8 @@ Work product, communications, and other partner-facing materials you may produce
 
 
 *   **Rigor:** Be thorough in your research. Do not make recommendations for partners based on what you assume they need—all recommendations should have a rigorous explanation behind them.
-*   **Attention to Detail: **Spelling, grammar, design, organization—do not underestimate the importance of details. We want partners to rely on the materials we create when they are considering  meaningful decisions about their security. Bad writing does not instill confidence.
-*   **Contextualize: **Think about who your audience is for any document or deliverable—whether it is an email, an organizational policy, or a report. Who is reading it? Who might read it? How technical are they? Do they read English? How well? Tailoring your work to your audience is critical to making the work meaningfully received and understood.
+*   **Attention to Detail:** Spelling, grammar, design, organization—do not underestimate the importance of details. We want partners to rely on the materials we create when they are considering  meaningful decisions about their security. Bad writing does not instill confidence.
+*   **Contextualize:** Think about who your audience is for any document or deliverable—whether it is an email, an organizational policy, or a report. Who is reading it? Who might read it? How technical are they? Do they read English? How well? Tailoring your work to your audience is critical to making the work meaningfully received and understood.
 
 **How do I report an issue related to the Code of Conduct?**
 
@@ -79,9 +82,8 @@ Please report any issues related to the Code of Conduct to:
 
 
 
-*   **Sean Brooks — **[swb@berkeley.edu](mailto:swb@berkeley.edu) 
-*   **Steve Trush — **[strush@berkeley.edu](mailto:strush@berkeley.edu)
-*   **Steve Weber (CLTC Faculty Director)— **[steve_weber@berkeley.edu](mailto:steve_weber@berkeley.edu) 
+*   **Sean Brooks** - swb AT berkeley DOT edu 
+*   **Steve Trush** - strush AT berkeley DOT edu
 
 Please speak to us if you encounter an issue—whether related to a specific situation or to a more general aspect of the Citizen Clinic. You can contact the Citizen Clinic staff team as a group or individually, in person or by email.
 
