@@ -21,8 +21,10 @@ nav:
           - Fall 2019: Clinic_Curriculum/Clinic_Syllabus_Fall_2019.md
           - Spring 2019: Clinic_Curriculum/Clinic_Syllabus_Spring_2019.md
           - Fall 2018: Clinic_Curriculum/Clinic_Syllabus_Fall_2018.md
-        - Assignments: Clinic_Curriculum/Assignments.md
-        - Lectures & Activities: Clinic_Curriculum/Lectures_and_Activities.md
+        - Modules:
+          - Harmful Information: Clinic_Curriculum/Modules/Harmful_Information/Harmful_Information.md
+          - Assignments: Clinic_Curriculum/Assignments.md
+          - Lectures & Activities: Clinic_Curriculum/Lectures_and_Activities.md
     - Infrastructure:
         - Virtual Private Network: Clinic_Infrastructure/VPN.md
         - Virtual Machines: Clinic_Infrastructure/VM.md
