@@ -1,3 +1,8 @@
+!!! tip "New in Spring 2019!"
+	* Removed two individual reflection assignments.
+    * Added Red Team OSINT assignment.
+    * Conducted hands-on cybersecurity workshop with School of Journalism.
+
 **Info 290. Public Interest Cybersecurity: The Citizen Clinic Practicum.**
 
 **Spring 2019.**
@@ -268,9 +273,7 @@ _Contextual Factors and Frameworks_
 
 **Tuesday 3/5:**
 
-* M Porup, Cybersecurity Journalist/Trainer, “Training the Security Trainers” 
-
-* Threat Scenario Development (Nick Merrill’s Security Game)
+* Adversary Persona and Threat Scenario Development (Nick Merrill’s Security Game)
 
 **Thursday 3/7:**
 

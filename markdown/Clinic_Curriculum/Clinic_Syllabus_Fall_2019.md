@@ -1,3 +1,10 @@
+!!! tip "New in Fall 2019!"
+    * Nominated student discussion leaders.
+    * Added phishing simulation training.
+    * Added student-led Community Office Hours
+    * Added Resiliency module.
+    * Added elements of SCU's Internet Ethics's Cybersecurity Ethics Module.
+
 **Info 289. Public Interest Cybersecurity: The Citizen Clinic Practicum.**
 
 **Fall 2019.**

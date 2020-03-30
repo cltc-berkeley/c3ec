@@ -1,7 +1,6 @@
 !!! tip "New in Spring 2020!"
-	* Incorporated use of virtual environments.
-    * Added student-led current events kickoff discussion.
-    * Added student-led community-focused security training event.
+    * Added student-led current events kickoff discussions.
+    * Added student-led community-focused security training event in place of student "office hours."
     * Developed (with EFF) hands-on Security Training design module for community-focused workshop.
     * Moved Resiliency module earlier in semester.
     * Added collaborative discussion with Policy & Legal experts.
