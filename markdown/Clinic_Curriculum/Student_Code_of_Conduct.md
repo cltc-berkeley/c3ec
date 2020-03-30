@@ -3,15 +3,11 @@
 The Citizen Clinic is an inclusive course where students, mentors, and staff should feel comfortable sharing their work, opinions, and perspectives. All of us commit to engaging with each other mindfully to ensure an environment that promotes shared learning and collaboration.
 
 
-When does the Code of Conduct apply?
 
-```
-This Code of Conduct governs participation at the Citizen Clinic. It applies to all Clinic participants
-during all class meetings, as well as to all Clinic participants at after-hours working sessions or social events.
-The internet is real life. This Code of Conduct applies in all digital spaces connected to the Clinic (e.g., group
-chat channels, mailing lists, collaborative documents) as well as physical ones. Participants who violate this
-Code may be excluded from this and future Clinic opportunities, and may be prohibited from attending Clinic social events.
-```
+
+!!! tip "When does the Code of Conduct apply?"
+	This Code of Conduct governs participation at the Citizen Clinic. It applies to all Clinic participants during all class meetings, as well as to all Clinic participants at after-hours working sessions or social events. The internet is real life. This Code of Conduct applies in all digital spaces connected to the Clinic (e.g., group chat channels, mailing lists, collaborative documents) as well as physical ones. Participants who violate this Code may be excluded from this and future Clinic opportunities, and may be prohibited from attending Clinic social events.
+
 
 
 Clinic participants are expected to comply with the policies that govern all activities and behavior at UC Berkeley, in particular the [Nondiscrimination Policies and Procedures, Sexual Violence and Harassment Policies and Procedures](https://ophd.berkeley.edu/policies-and-procedures/students), the [Student Code of Conduct](http://sa.berkeley.edu/sites/default/files/UCB-Code-of-Conduct-new%20Jan2012_0.pdf), and the [Computer Use Policy](https://security.berkeley.edu/computer-use-policy).
