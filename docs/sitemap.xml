@@ -6,11 +6,6 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://cltc-berkeley.github.io/resources-beta/Clinic_Curriculum/Student_Code_of_Conduct/</loc>
-     <lastmod>2020-03-30</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://cltc-berkeley.github.io/resources-beta/Clinic_Curriculum/Clinic_Syllabus_Spring_2020/</loc>
      <lastmod>2020-03-30</lastmod>
      <changefreq>daily</changefreq>
@@ -36,7 +31,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://cltc-berkeley.github.io/resources-beta/Clinic_Curriculum/Modules/Contextual_Research/Contextual_Research/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://cltc-berkeley.github.io/resources-beta/Clinic_Curriculum/Modules/Harmful_Information/Harmful_Information/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cltc-berkeley.github.io/resources-beta/Clinic_Curriculum/Student_Code_of_Conduct/</loc>
      <lastmod>2020-03-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
