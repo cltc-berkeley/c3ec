@@ -2,9 +2,9 @@
 
 ## Summary 
 
-** Learning Objectives **
+## Learning Objectives
 
-** Pre-Readings **
+## ** Pre-Readings **
 
 * Sarah Jeong, Charlie Warzel, Brianna Wu, Joan Donovan. New York Times. “Everything is GamerGate” [[https://www.nytimes.com/interactive/2019/08/15/opinion/gamergate-twitter.html](https://www.nytimes.com/interactive/2019/08/15/opinion/gamergate-twitter.html)] - **Read all of the four essays.**
 
@@ -19,16 +19,16 @@
 
 * **(Optional)** Tahmina Ansari. First Draft. “This Muslim journalist embraced social media until it ‘ruined’ his life” [[https://firstdraftnews.org/this-muslim-journalist-embraced-social-media-until-it-ruined-his-life/](https://firstdraftnews.org/this-muslim-journalist-embraced-social-media-until-it-ruined-his-life/)]
 
-** Resources **
+## Resources 
 
-* Activities
+## Activities
 
-* Discussion
+## Discussion
 
-* Input
+## Input
 
-* Deepening
+## Deepening
 
-* Synthesis
+## Synthesis
 
-* Assignments
+## Assignments
