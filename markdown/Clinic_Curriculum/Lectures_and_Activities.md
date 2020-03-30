@@ -46,5 +46,5 @@
 
 * Psychosocial Resilience - Andrea Lampros & Gisela Perez de Acha, Human Rights Center
 
-* **New!** [Beyond Hacking: Harmful Information (Misinformation and Harassment)](../Modules/Harmful_Information/)
+* **New!** [Beyond Hacking: Harmful Information (Misinformation and Harassment)](../Modules/Harmful_Information/Harmful_Information/)
 
