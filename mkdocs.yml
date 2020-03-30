@@ -15,15 +15,15 @@ plugins:
 nav:
     - Home: index.md
     - Curriculum:
-        - Syllabus: 
-          - Spring 2020 (Current): Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
-          - Fall 2019: Clinic_Curriculum/Clinic_Syllabus_Fall_2019.md
-          - Spring 2019: Clinic_Curriculum/Clinic_Syllabus_Spring_2019.md
-          - Fall 2018: Clinic_Curriculum/Clinic_Syllabus_Fall_2018.md
         - Lesson Modules: 
           - Table of Contents: Clinic_Curriculum/Lectures_and_Activities.md
           - Contextual and Capacity Research: Clinic_Curriculum/Modules/Contextual_Research/Contextual_Research.md
           - Harmful Information (Misinformation and Harassment): Clinic_Curriculum/Modules/Harmful_Information/Harmful_Information.md
+        - Entire Syllabus: 
+          - Spring 2020 (Current): Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
+          - Fall 2019: Clinic_Curriculum/Clinic_Syllabus_Fall_2019.md
+          - Spring 2019: Clinic_Curriculum/Clinic_Syllabus_Spring_2019.md
+          - Fall 2018: Clinic_Curriculum/Clinic_Syllabus_Fall_2018.md
         - Code of Conduct: Clinic_Curriculum/Student_Code_of_Conduct.md
     - Infrastructure:
         - Virtual Private Network: Clinic_Infrastructure/VPN.md

@@ -12,7 +12,7 @@
 
 * Threat Modeling & Bounding Risk Assessments 
 
-* Contextual & Capacity Research
+### * **New!** [Contextual & Capacity Research](../Modules/Contextual_Research/Contextual_Research/)
 
 * Digital Surveillance of PVOs: The Threat Landscape - Bill Marczak, Citizen Clinic Resident
 
@@ -46,5 +46,5 @@
 
 * Psychosocial Resilience - Andrea Lampros & Gisela Perez de Acha, Human Rights Center
 
-### **New!** [Beyond Hacking: Harmful Information (Misinformation and Harassment)](../Modules/Harmful_Information/Harmful_Information/)
+### * **New!** [Beyond Hacking: Harmful Information (Misinformation and Harassment)](../Modules/Harmful_Information/Harmful_Information/)
 
