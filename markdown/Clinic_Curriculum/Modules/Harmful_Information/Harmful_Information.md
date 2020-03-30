@@ -1,5 +1,3 @@
-## ** Harmful Information (Misinformation and Harassment) **
-
 ### ** Summary **
 
 ### ** Learning Objectives **

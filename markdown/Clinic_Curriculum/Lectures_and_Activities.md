@@ -46,7 +46,5 @@
 
 * Psychosocial Resilience - Andrea Lampros & Gisela Perez de Acha, Human Rights Center
 
-* Organizational Risks of Harmful Information
-
-* Holistic Security Mitigations
+* **New!** [Beyond Hacking: Harmful Information (Misinformation and Harassment)](Clinic_Curriculum/Modules/Harmful_Information/)
 
