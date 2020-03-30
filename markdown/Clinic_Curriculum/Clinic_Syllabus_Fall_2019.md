@@ -362,7 +362,7 @@ Threat Modeling & Bounding Risk Assessments
    * _11/5 11:59PM:_ Phishing / OSINT Analysis Report [Team] *(Optional)*
 
 
-### **Week 12:**
+### **Week 12: Clinic Work**
 
 **Monday, 11/11:** _No class._
 
@@ -371,7 +371,7 @@ Threat Modeling & Bounding Risk Assessments
 
 
 
-### **Week 13:**
+### **Week 13: Clinic Work**
 
 **Monday, 11/18:** _Clinic Core Hours / Team Check-in_
 
@@ -379,7 +379,7 @@ Threat Modeling & Bounding Risk Assessments
 **Wednesday, 11/20:** _Clinic Core Hours_ 
 
 
-### **Week 14:**
+### **Week 14: Clinic Work**
 
 
 **Monday, 11/25:**  _Clinic Core Hours / Team Check-in_
@@ -392,7 +392,7 @@ Threat Modeling & Bounding Risk Assessments
 *   _12/1 11:59PM:_ Final Partner Report (for Teaching Team Review) _[Team]_
 
 
-### **Week 15:**
+### **Week 15: Clinic Work**
 
 **Monday, 12/2:** _Clinic Core Hours / Team Check-in_
 
