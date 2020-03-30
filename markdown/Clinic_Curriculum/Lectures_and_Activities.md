@@ -1,36 +1,26 @@
 
-**_Current as of Spring 2020._**
+**_In Progress: Lectures and in-class activities will be described, linked, and/or outlined for each of the below topics._**
 
 ### **Lectures and Activities.**
 
 
 * Introduction to Public Interest Cybersecurity
 
-* Ethics and “Rules of the Road” - Steve
+* Ethics and the Citizen Clinic Code of Conduct 
 
-	* Citizen Clinic Code of Conduct. 
+* Old School INFOSEC: Basic (& Some Outdated) Controls
 
-	* Ethical Considerations.
+* Threat Modeling & Bounding Risk Assessments 
 
-	* Security Response Plan.
+* Contextual & Capacity Research
 
-* Old School INFOSEC: Basic (& Some Outdated) Controls - Steve & Sean
+* Digital Surveillance of PVOs: The Threat Landscape - Bill Marczak, Citizen Clinic Resident
 
-* Threat Modeling & Bounding Risk Assessments - Sean 
+* Information Gathering
 
-* Contextual & Capacity Research - Steve
+* Problem Diagnosis and Reframing
 
-	* SAFETAG
-
-	* PESTLE-M
-
-* Digital Surveillance of PVOs: The Threat Landscape - Bill Marczak, Citizen Lab, Citizen Clinic Resident
-
-* Contextual Research Recap & Information Gathering - Steve
-
-* Problem Diagnosis and Reframing - Sean
-
-* Open Source Research Methods, Safety, and Tools - Steve
+* Open Source Research Methods, Safety, and Tools
 
 	* Virtual Networks: VPNs vs TOR
 
@@ -42,21 +32,21 @@
 
 	* Automated Tools
 
-* Adversary Persona Development - Steve & Sean (_Adversary Cards_)
+* Adversary Persona Development (_Adversary Cards_)
 
-* Threat Scenario Development - Sean & Steve (_Resource Game_)
+* Threat Scenario Development (_Resource Game_)
 
-* Changing Behaviors within PVOs - Steve Weber, Professor, School of Information & Department of Political Science
+* Changing Security Behaviors - Steve Weber, Professor, School of Information & Department of Political Science
 
-* Social Engineering (Phishing Sim Demonstration) - Steve
+* Social Engineering and Phishing
 
-* Designing Security Training - Alexis Hancock (Staff Technologist, Electronic Frontier Foundation) & Soraya Okuda (Designer, Security Education Companion, EFF)
+* Designing Security Training - Eva Galperin, Alexis Hancock, Soraya Okuda (EFF), Matt Mitchell (Tactical Tech)
 
-* Legal and Policy Factors For Non-Profits’ Cybersecurity - Kristin Berdan, Clinic Fellow, former Google Security Legal Counsel
+* Security Law and Policy Factors - Kristin Berdan, Clinic Fellow
 
 * Psychosocial Resilience - Andrea Lampros & Gisela Perez de Acha, Human Rights Center
 
-* Organizational Risks of Harmful Information - Steve
+* Organizational Risks of Harmful Information
 
-* Mitigations for the Risks of Harmful Information - Steve
+* Holistic Security Mitigations
 
