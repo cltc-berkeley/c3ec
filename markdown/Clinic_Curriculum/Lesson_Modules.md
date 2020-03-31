@@ -1,7 +1,7 @@
 
 **_In Progress: Lectures and in-class activities will be described, linked, and/or outlined for each of the below topics._**
 
-### **Lectures and Activities.**
+### **Lesson Modules.**
 
 
 * Introduction to Public Interest Cybersecurity
