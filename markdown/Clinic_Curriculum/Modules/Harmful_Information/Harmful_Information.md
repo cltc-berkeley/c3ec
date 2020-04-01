@@ -19,7 +19,7 @@
 
 ### ** Resources **
 
-##### [Mitigation Framwork](../Mitigation_Framework/)
+#### * [Mitigation Framework](../Mitigation_Framework/)
 
 ### ** Activities **
 

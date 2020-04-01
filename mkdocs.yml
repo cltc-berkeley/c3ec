@@ -16,9 +16,11 @@ nav:
     - Home: index.md
     - Curriculum:
         - Lesson Modules: 
-          - Table of Contents: Clinic_Curriculum/Lesson_Modules.md
+          - Introduction: Clinic_Curriculum/Lesson_Modules.md
           - Contextual and Capacity Research: Clinic_Curriculum/Modules/Contextual_Research/Contextual_Research.md
-          - Harmful Information (Misinformation and Harassment): Clinic_Curriculum/Modules/Harmful_Information/Harmful_Information.md
+          - Harmful Information (Misinformation and Harassment): 
+            - Main: Clinic_Curriculum/Modules/Harmful_Information/Harmful_Information.md
+            - Mitigation Framework: Clinic_Curriculum/Modules/Harmful_Information/Mitigation_Framework.md
         - Entire Syllabus: 
           - Spring 2020 (Current): Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
           - Fall 2019: Clinic_Curriculum/Clinic_Syllabus_Fall_2019.md
