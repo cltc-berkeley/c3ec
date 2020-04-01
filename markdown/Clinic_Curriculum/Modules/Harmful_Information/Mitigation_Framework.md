@@ -1,5 +1,3 @@
-## Mitigation Frameworks.
-
 
 ### Step 1. Threat Map. Identify potential threat methods for analysis.
 
@@ -26,11 +24,7 @@
    </td>
    <td>Bullying; coordinated targeting; hateful, inflammatory, or embarrassing comments; threats of violence; upsetting content; gendered threats; sustained harassment; mob harassment; sexual harassment; stalking; doxxing; SWATing; and account takeovers/lockouts.
    </td>
-   <td>Tactics leveraging social cleavages (for example hate speech or dog whistles) such as race, ethnicity, socioeconomic status or class, gender, sexual orientation, religion, regional or national origin, citizenship status, occupation,
-<p>
-employment status,
-<p>
-age / generation, education, or political affiliation.
+   <td>Tactics leveraging social cleavages (for example hate speech or dog whistles) such as race, ethnicity, socioeconomic status or class, gender, sexual orientation, religion, regional or national origin, citizenship status, occupation, employment status, age / generation, education, or political affiliation.
    </td>
    <td>Coordinated targeting to organizational accounts; Denial of service or access to an organization’s content; 
    </td>
