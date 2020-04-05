@@ -18,9 +18,9 @@
 
 ### ** Resources **
 
-* PESTLE-M Analysis Worksheet
+* [Contextual Factors (PESTLE-M) Worksheet](PESTLE-M_Worksheet)
 
-* Contextual Research Information Requirements
+* [Contextual Assessment Information Requirements](Contextual_Assessment_Info_Reqs)
 
 * Contextual Research Source Tracker (Due Diligence Worksheet)
 

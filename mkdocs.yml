@@ -17,9 +17,12 @@ nav:
     - Curriculum:
         - Lesson Modules: 
           - Introduction: Clinic_Curriculum/Lesson_Modules.md
-          - Contextual and Capacity Research: Clinic_Curriculum/Modules/Contextual_Research/Contextual_Research.md
+          - Contextual and Capacity Research:
+            - Contextual Research Overview: Clinic_Curriculum/Modules/Contextual_Research/Contextual_Research.md
+            - PESTLE-M Worksheet: Clinic_Curriculum/Modules/Contextual_Research/PESTLE-M_Worksheet.md
+            - Contextual Assessment Requirements: Clinic_Curriculum/Modules/Contextual_Research/Contextual_Assessment_Info_Reqs.md            
           - Harmful Information (Misinformation and Harassment): 
-            - Main: Clinic_Curriculum/Modules/Harmful_Information/Harmful_Information.md
+            - Harmful Information Overview: Clinic_Curriculum/Modules/Harmful_Information/Harmful_Information.md
             - Mitigation Framework: Clinic_Curriculum/Modules/Harmful_Information/Mitigation_Framework.md
         - Entire Syllabus: 
           - Spring 2020 (Current): Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
