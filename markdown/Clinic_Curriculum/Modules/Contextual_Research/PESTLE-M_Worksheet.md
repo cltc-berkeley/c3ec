@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-   <td>
+   <td colspan="1">
    </td>
    <td><strong>Internal Factors (ie. within the org’s control, how the org functions)</strong>
    </td>
