@@ -1,7 +1,7 @@
 
 **Status: Last updated 4/20/20**
 
-**See **[Contextual Assessment Information Requirements](../../Contextual_Assessment_Info_Reqs) **for example questions.**
+**See **[Contextual Assessment Information Requirements](../Contextual_Assessment_Info_Reqs) **for example questions.**
 
 
 <table>
