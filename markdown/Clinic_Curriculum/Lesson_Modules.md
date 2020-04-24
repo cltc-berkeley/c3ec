@@ -21,11 +21,11 @@ Problem Diagnosis and Reframing
 
 Open Source Research Methods, Safety, and Tools
 
-	* Virtual Networks, Machines, & Identities
+* Virtual Networks, Machines, & Identities
 
-	* Manual Searches & Google Hacking
+* Manual Searches & Google Hacking
 
-	* Automated Tools
+* Automated Tools
 
 Adversary Persona Development (_Adversary Cards_)
 
