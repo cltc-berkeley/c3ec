@@ -1,15 +1,15 @@
-**See **[Contextual Assessment Information Requirements](../Contextual_Assessment_Info_Reqs) **for example questions.**
+**See **[Contextual Assessment Information Requirements](../../Contextual_Assessment_Info_Reqs) **for example questions.**
 
 
 <table>
   <tr>
-   <td colspan="1">
+   <td colspan="0">
    </td>
-   <td colspan="2"><strong>Internal Factors (ie. within the org’s control, how the org functions)</strong>
+   <td colspan="0"><strong>Internal Factors (ie. within the org’s control, how the org functions)</strong>
    </td>
-   <td colspan="2"><strong>External Factors beyond the org’s control but within an org’s possible influence</strong>
+   <td colspan="0"><strong>External Factors beyond the org’s control but within an org’s possible influence</strong>
    </td>
-   <td colspan="2"><strong>External Factors outside of org’s influence but will impact the org</strong>
+   <td colspan="0"><strong>External Factors outside of org’s influence but will impact the org</strong>
    </td>
   </tr>
   <tr>
