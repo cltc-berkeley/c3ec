@@ -3,10 +3,9 @@
 
 ### **Lesson Modules.**
 
-
 * Introduction to Public Interest Cybersecurity
 
-* Ethics and the Citizen Clinic Code of Conduct 
+#### **New!** [Ethics and the Citizen Clinic Code of Conduct](../Modules/Ethics/Ethics/) 
 
 * Old School INFOSEC: Basic (& Some Outdated) Controls
 
@@ -22,11 +21,7 @@
 
 * Open Source Research Methods, Safety, and Tools
 
-	* Virtual Networks: VPNs vs TOR
-
-	* Virtual Machines
-
-	* Virtual Identities
+	* Virtual Networks, Machines, & Identities
 
 	* Manual Searches & Google Hacking
 

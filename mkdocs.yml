@@ -17,6 +17,9 @@ nav:
     - Curriculum:
         - Lesson Modules: 
           - Introduction: Clinic_Curriculum/Lesson_Modules.md
+          - Code of Conduct & Ethics: 
+            - Ethics Overview: Clinic_Curriculum/Modules/Ethics/Ethics.md
+            - Code of Conduct: Clinic_Curriculum/Modules/Ethics/Student_Code_of_Conduct.md
           - Contextual and Capacity Research:
             - Contextual Research Overview: Clinic_Curriculum/Modules/Contextual_Research/Contextual_Research.md
             - PESTLE-M Worksheet: Clinic_Curriculum/Modules/Contextual_Research/PESTLE-M_Worksheet.md
@@ -29,7 +32,6 @@ nav:
           - Fall 2019: Clinic_Curriculum/Clinic_Syllabus_Fall_2019.md
           - Spring 2019: Clinic_Curriculum/Clinic_Syllabus_Spring_2019.md
           - Fall 2018: Clinic_Curriculum/Clinic_Syllabus_Fall_2018.md
-        - Code of Conduct: Clinic_Curriculum/Student_Code_of_Conduct.md
     - Infrastructure:
         - Virtual Private Network: Clinic_Infrastructure/VPN.md
         - Virtual Machines: Clinic_Infrastructure/VM.md
