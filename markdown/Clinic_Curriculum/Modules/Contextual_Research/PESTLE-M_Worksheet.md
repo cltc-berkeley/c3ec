@@ -3,13 +3,13 @@
 
 <table>
   <tr>
-   <td colspan="4">
+   <td colspan="1">
    </td>
-   <td><strong>Internal Factors (ie. within the org’s control, how the org functions)</strong>
+   <td colspan="2"><strong>Internal Factors (ie. within the org’s control, how the org functions)</strong>
    </td>
-   <td><strong>External Factors beyond the org’s control but within an org’s possible influence</strong>
+   <td colspan="2"><strong>External Factors beyond the org’s control but within an org’s possible influence</strong>
    </td>
-   <td><strong>External Factors outside of org’s influence but will impact the org</strong>
+   <td colspan="2"><strong>External Factors outside of org’s influence but will impact the org</strong>
    </td>
   </tr>
   <tr>

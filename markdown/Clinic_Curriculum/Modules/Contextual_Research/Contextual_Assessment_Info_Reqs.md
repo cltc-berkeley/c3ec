@@ -69,7 +69,7 @@ _Understand the assets used to achieve the organization’s goals_
 
 *   What are the political affiliations of its board members and leaders? (in general, or any heavily political advisors)
 *   What are current political aspirations of current employees? Is anyone running for office?
-*   What are the Internal relationships between members
+*   What are the internal relationships between members?
 *   Describe past and current internal conflicts -- organizational changes, layoffs & firing
 *   Immigration/Citizenship/Refugee status:
     *   Staff:
