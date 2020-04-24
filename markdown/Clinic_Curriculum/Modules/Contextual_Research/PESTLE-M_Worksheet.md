@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-   <td colspan="1">
+   <td colspan="4">
    </td>
    <td><strong>Internal Factors (ie. within the org’s control, how the org functions)</strong>
    </td>
@@ -14,10 +14,7 @@
   </tr>
   <tr>
    <td><strong>Political</strong>
-<p>
-(Ex: government type and stability, freedom of press, rule of law, levels of bureaucracy & corruption, social and employment legislation
-<p>
-tax policy and trade & tariff controls, likely changes in the political environment)
+<p>(Ex: government type and stability, freedom of press, rule of law, levels of bureaucracy & corruption, social and employment legislation, tax policy and trade & tariff controls, likely changes in the political environment)</p>
    </td>
    <td>
    </td>
@@ -28,8 +25,7 @@ tax policy and trade & tariff controls, likely changes in the political environm
   </tr>
   <tr>
    <td><strong>Economic</strong>
-<p>
-(Ex: stage of business cycle, current & projected economic growth, e.g. GDP / GNP growth inflation & interest rates, unemployment and labor supply, labor costs, levels of disposable income & income distribution, likely impact of technological or other change on the economy)
+<p>(Ex: stage of business cycle, current & projected economic growth, e.g. GDP / GNP growth inflation & interest rates, unemployment and labor supply, labor costs, levels of disposable income & income distribution, likely impact of technological or other change on the economy)</p>
    </td>
    <td>
    </td>
@@ -40,8 +36,7 @@ tax policy and trade & tariff controls, likely changes in the political environm
   </tr>
   <tr>
    <td><strong>Social</strong>
-<p>
-(Ex: population health, education & social mobility, and attitudes to these population employment patterns, job market freedom & attitudes to work, press attitudes, public opinion, social attitudes & social taboos , lifestyle choices and attitudes to these socio-cultural changes health consciousness)
+<p>(Ex: population health, education & social mobility, and attitudes to these population employment patterns, job market freedom & attitudes to work, press attitudes, public opinion, social attitudes & social taboos , lifestyle choices and attitudes to these socio-cultural changes health consciousness)</p>
    </td>
    <td>
    </td>
@@ -52,16 +47,8 @@ tax policy and trade & tariff controls, likely changes in the political environm
   </tr>
   <tr>
    <td><strong>Technology</strong>
-<p>
-(Ex: impact of emerging technologies,
-<p>
-impact of internet, reduction in communication costs & increased remote working, research & development (R&D) activity,
-<p>
-impact of technology transfer,
-<p>
-degree of automation,
-<p>
-rate of technological change)
+<p>(Ex: impact of emerging technologies, impact of internet, reduction in communication costs & increased remote working, research & development (R&D) activity,
+impact of technology transfer, degree of automation, rate of technological change)</p>
    </td>
    <td>
    </td>
@@ -72,10 +59,7 @@ rate of technological change)
   </tr>
   <tr>
    <td><strong>Legal</strong>
-<p>
-(Ex: antitrust law, consumer law, discrimination law, employment law
-<p>
-health & safety laws)
+<p>(Ex: antitrust law, consumer law, discrimination law, employment law, health & safety laws)</p>
    </td>
    <td>
    </td>
@@ -98,8 +82,7 @@ health & safety laws)
   </tr>
   <tr>
    <td><strong>Military</strong>
-<p>
-(Optional: military equipment, personnel, operations or other presence in the area, foreign armies, paramilitaries, war, internal may be associations with military members, attitudes)
+<p>(Ex: military equipment, personnel, operations or other presence in the area, foreign armies, paramilitaries, war, internal may be associations with military members, attitudes)</p>
    </td>
    <td>
    </td>

@@ -78,6 +78,7 @@ _Understand the assets used to achieve the organization’s goals_
 #### ECONOMIC 
 
 **What is your business model?**
+
 *   Corporate Structure (Non-profit, for-profit, hybrid)
 *   Dependencies
     *   Who are your Clients / Customers / Beneficiaries?
