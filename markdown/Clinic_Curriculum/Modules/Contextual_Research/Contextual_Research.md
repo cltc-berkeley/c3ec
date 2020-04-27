@@ -37,11 +37,11 @@ Security does not happen in a bubble. Every security policy, setting, and tool n
 
 ** Assumptions Game (for small class size) **
 
-Each student writes a interesting "hard to guess" facts about themselves (that they feel comfortable revealing to the class) on a sticky note and gives to the instructor (or private messages the instructor). The instructor displays all of the "facts" without their owners to the entire class. The class votes to match up each fact to a specific student. After each student is assigned a fact, the instructor asks which students have the correct fact assigned to them. When students are correctly matched with a fact, the class discusses why or why not they made that guess. Conduct multiple rounds until all students are assigned their correct fact.
+Each student writes an interesting "hard to guess" fact about themselves (that they feel comfortable revealing to the class) on a sticky note and gives to the instructor (or private messages the instructor). The instructor displays all of the "facts" (without the fact's owner) to the entire class. The class votes to match up each fact to a specific student. After each student is assigned a fact, the instructor asks which students have the correct fact assigned to them. When students are correctly matched with a fact, the class discusses why or why not they made that guess. Conduct multiple rounds until all students are assigned their correct fact.
 
 ** Assumptions Game (for large class size) **
 
-Each student writes three interesting facts about themselves that they believe are unique among the rest of the class. Ensure that students feel comfortable revealing this information to the rest of the class. One by one, have students state the 3 facts and then see, by show of hands, whether any facts might also any describe other students. If a student raises their hand, the student that stated the 3 facts must guess which of the facts is shared between the two students. 
+Each student writes three interesting facts about themselves believed to be unique among the rest of the class. Ensure that students feel comfortable revealing this information to the rest of the class. One by one, have students state the 3 facts and then see, by show of hands, whether any facts might also any describe other students. If a student raises their hand, the student that stated the 3 facts must guess which of the facts is shared between the two students. 
 
 ### ** Discussion **
 
@@ -68,9 +68,9 @@ There's a enormous range of factors that can impact and influence the security o
 
 Existing frameworks include:
 
--1. Frontline Defenders' Workbook on Security: Practical Steps for Human Rights Defenders at Risk [CONTEXT ANALYSIS QUESTIONS](https://www.frontlinedefenders.org/en/file/1111/download?token=7aoFdNX3)
+1) Frontline Defenders' Workbook on Security: Practical Steps for Human Rights Defenders at Risk [CONTEXT ANALYSIS QUESTIONS](https://www.frontlinedefenders.org/en/file/1111/download?token=7aoFdNX3)
 
--2. SAFETAG. [https://safetag.org/guide/](https://safetag.org/guide/)
+2) SAFETAG. [https://safetag.org/guide/](https://safetag.org/guide/)
 
 How to use SAFETAG:
 
@@ -87,18 +87,19 @@ SAFETAG (“Guiding Questions” from Section 2.2 “Context”):
 * Has any organization or individual made specific threats, or demonstrated intention or mindset to attack on the organization or similar organizations?
 
 SAFETAG (“Guiding Questions” from Section 2.3 “Capacity”):
+
 * What is the organization's ability to adopt new technologies or practices?
 * What resources does the organization have available to them?
 * What is the environment that the organization works within like? What barriers, threat actors, and other aspects influence their work?
 * Are there any specific considerations for the audit that would require modifying the overall approach, tools, preparation steps, or timeline?
 
--3. PMESII-PT Operational Variables may be seen in some INFOSEC circles. 
+3) PMESII-PT Operational Variables may be seen in some INFOSEC circles. 
 
 Considers Political, Military, Economic, Social, Infrastructure, Information, Physical Environment, and Time factors, usually in a "crosswalk" matrix with "ASCOPE civil considerations" (Area, Structures, Capabilities, Organizations, People, Events). However, same as in describing threats, we'll want to avoid adopting miltaristic terminology and methods. See example:
 
 ![alt_text](../../../images/ContextResearch1.png "PMESII ASCOPE Crosswalk") [Image source: US Marine Corps Training Command]
 
--4. Especially in the business world, PESTLE (or PEST) may be a good choice for categorizing contextual factors. 
+4) Especially in the business world, PESTLE (or PEST) may be a good choice for categorizing contextual factors. 
 
 ![alt_text](../../../images/ContextResearch2.png "PESTLE Factors") [Source: Free Templates]
 
