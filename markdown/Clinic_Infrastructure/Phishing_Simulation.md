@@ -398,4 +398,4 @@ That being said:
 
 Let me know if you have any questions. Thanks for participating!
 
-* _Note: Additional confirmation of end of exercise to be sent via trusted channel (eg. Signal instead of email)_
+_Note: Additional confirmation of end of exercise to be sent via trusted channel (eg. Signal instead of email)_

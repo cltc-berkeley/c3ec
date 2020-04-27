@@ -11,7 +11,7 @@ Attacks causing harms that stem from the use and/or abuse of information systems
 ### ** Learning Objectives **
 
 * Vocabulary and Classification of Harmful Information
-* Approaches to Identifying, Prioritizing, and Mitigating Harms
+* Approaches to Identifying, Prioritizing, and Mitigating Harmful Information
 
 
 ### ** Pre-Readings **
@@ -35,21 +35,20 @@ Attacks causing harms that stem from the use and/or abuse of information systems
 
 ### ** Activities **
 
-**Beyond Hacking** How might Twitter be used to harm an organization even when the site is used as designed (ie not being “hacked”)?
+**Beyond Hacking** 
+
+How might Twitter be used to harm an organization even when the site is used as designed (ie not being “hacked”)?
 
 **Vocabulary and Classification Problems**
 
-Which category (Usually Acceptable, Sometimes/Borderline Acceptable, Always Unacceptable) do the following terms belong to?
-
-	Propaganda – Disinformation – Misinformation – Malinformation – Internet Shutdowns - Harassment – Trolls – Bots – Doxxing – Mobbing – Swatting – Leaks – Sockpuppets – Astroturfing – Clickfarms - Deceptive Advertising – Exclusionary Advertising – Dog Whistles – Subtweeting – Parody News – Clickbait
-
+Which category (Usually Acceptable, Sometimes/Borderline Acceptable, Always Unacceptable) do the following terms belong to:
+Propaganda – Disinformation – Misinformation – Malinformation – Internet Shutdowns - Harassment – Trolls – Bots – Doxxing – Mobbing – Swatting – Leaks – Sockpuppets – Astroturfing – Clickfarms - Deceptive Advertising – Exclusionary Advertising – Dog Whistles – Subtweeting – Parody News – Clickbait
 
 ### ** Discussion **
 
 How much does intent behind harmful information matter for the organization? 
 
 How much does the truth of the harmful information matter for the organization?
-
 
 ### ** Input **
 

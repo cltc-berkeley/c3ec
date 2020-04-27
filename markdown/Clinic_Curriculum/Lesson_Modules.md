@@ -1,45 +1,46 @@
+_Last Updated: 27 April 2020_
 
-**_In Progress: Lectures and in-class activities will be described, linked, and/or outlined for each of the below topics._**
+**_(In Progress)_** Citizen Clinic modules consist of lectures, in-class activities, and homework assignments. These modules will be described, linked, and/or outlined below. Stay tuned for new modules added regularly. 
 
 ### **Lesson Modules.**
 
-Introduction to Public Interest Cybersecurity
+1. Introduction to Public Interest Cybersecurity
 
-#### **New!** [Ethics and the Citizen Clinic Code of Conduct](../Modules/Ethics/Ethics/) 
+#### **New!** 2. [Ethics and the Citizen Clinic Code of Conduct](../Modules/Ethics/Ethics/) 
 
-Old School INFOSEC: Basic (& Some Outdated) Controls
+3. Old School INFOSEC: Basic (& Some Outdated) Controls
 
-Threat Modeling & Bounding Risk Assessments 
+4. Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape
 
-#### **New!** [Contextual & Capacity Research](../Modules/Contextual_Research/Contextual_Research/)
+5. Problem Diagnosis and Reframing
 
-Digital Surveillance of PVOs: The Threat Landscape - Bill Marczak, Citizen Clinic Resident
+6. Threat Modeling & Bounding Risk Assessments 
 
-Information Gathering
+#### **New!** 7. [Contextual & Capacity Research](../Modules/Contextual_Research/Contextual_Research/)
 
-Problem Diagnosis and Reframing
+8. Information Gathering
 
-Open Source Research Methods, Safety, and Tools
+9. Open Source Research Methods, Safety, and Tools
 
-* Virtual Networks, Machines, & Identities
+	* Virtual Networks, Machines, & Identities
 
-* Manual Searches & Google Hacking
+	* Manual Searches & Google Hacking
 
-* Automated Tools
+	* Automated Tools
 
-Adversary Persona Development (_Adversary Cards_)
+10. Security Law and Policy Factors
 
-Threat Scenario Development (_Resource Game_)
+11. Adversary Persona Development
 
-Changing Security Behaviors - Steve Weber, Professor, School of Information & Department of Political Science
+12. Threat Scenario Development
 
-Social Engineering and Phishing
+13. Changing Security Behaviors
 
-Designing Security Training - Eva Galperin, Alexis Hancock, Soraya Okuda (EFF), Matt Mitchell (Tactical Tech)
+14. Social Engineering and Phishing
 
-Security Law and Policy Factors - Kristin Berdan, Clinic Fellow
+15. Designing Security Training
 
-Psychosocial Resilience - Andrea Lampros & Gisela Perez de Acha, Human Rights Center
+16. Psychosocial Resilience
 
-#### **New!** [Beyond Hacking: Harmful Information (Misinformation and Harassment)](../Modules/Harmful_Information/Harmful_Information/)
+#### **New!** 17. [Beyond Hacking: Harmful Information (Misinformation and Harassment)](../Modules/Harmful_Information/Harmful_Information/)
 
