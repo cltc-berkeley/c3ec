@@ -34,7 +34,7 @@ nav:
           - Fall 2018: Clinic_Curriculum/Clinic_Syllabus_Fall_2018.md
     - Infrastructure:
         - Virtual Private Network: Clinic_Infrastructure/VPN.md
-        - Virtual Machines: Clinic_Infrastructure/VM.md
+        - Virtual Identities: Clinic_Infrastructure/Virtual_Identities.md
         - Phishing Simulation: Clinic_Infrastructure/Phishing_Simulation.md
     - Baseline Organizational Security Guide:
         - Introduction: LRO/0-Introduction_and_TOC_(README).md

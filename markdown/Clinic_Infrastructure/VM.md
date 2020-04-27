@@ -1,1 +1,0 @@
-### **How to Setup Virtual Machine Environments for your Clinic or Lab.**
