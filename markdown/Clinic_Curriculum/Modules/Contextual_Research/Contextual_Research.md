@@ -59,7 +59,7 @@ Would considering (ie, "thinking hard") these insights have impacted your guesse
 
 ### ** Input **
 
-There's a enormous range of factors that can impact and influence the security of an organization. We need a systematic approach to narrow relevant “context” down, including:
+There's an enormous range of factors that can impact and influence the security of an organization. We need a systematic approach to narrow relevant “context” down, including:
 
 * What should we search for?
 * How do we organize the information we collect?

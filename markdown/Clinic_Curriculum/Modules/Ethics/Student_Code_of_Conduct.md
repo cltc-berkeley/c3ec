@@ -72,7 +72,7 @@ Work product, communications, and other partner-facing materials you may produce
 *   **Attention to Detail:** Spelling, grammar, design, organization—do not underestimate the importance of details. We want partners to rely on the materials we create when they are considering  meaningful decisions about their security. Bad writing does not instill confidence.
 *   **Contextualize:** Think about who your audience is for any document or deliverable—whether it is an email, an organizational policy, or a report. Who is reading it? Who might read it? How technical are they? Do they read English? How well? Tailoring your work to your audience is critical to making the work meaningfully received and understood.
 
-**How do I report an issue related to the Code of Conduct?**
+### **How do I report an issue related to the Code of Conduct?**
 
 Please report any issues related to the Code of Conduct to:
 
@@ -137,7 +137,7 @@ _Much of this Code of Conduct is based on the [Citizen Lab Summer Institute Code
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### Notes
 
 [^1]:
      An example of how to anonymously report: Use Tor to create and log in to a new email address, use the address exclusively for the purpose of your report, and never provide information that would personally identify you—to either the email service provider or to us.
