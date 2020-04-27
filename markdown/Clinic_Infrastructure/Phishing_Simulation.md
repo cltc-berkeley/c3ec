@@ -1,24 +1,6 @@
+_Last Updated: 27 April 2020_
+
 ### **How to Setup Phishing Simulations for your Clinic or Lab.**
-
-
-## Citizen Clinic Phishing Policy
-
-Last updated: May 2019
-
-Author: Lily
-
-
-## Executive Summary
-
-This report is meant to help practitioners understand what to consider when developing a phishing policy and provide recommendations. We conducted a limited review of existing phishing research, but were unable to get feedback from existing practitioners or gain access to existing phishing policies due to time constraints. We would highly recommend incorporating those sources of information into future iterations.
-
-
-## Table of Contents
-
-
-[TOC]
-
-
 
 ## Introduction to Phishing
 
@@ -27,9 +9,11 @@ Phishing is on the rise in both severity and amount of attacks. According to the
 While there is a wide variety of how to do phishing guides, ranging from advocacy groups such as EFF to commercial products, available on the web, we were unable to find any publicly accessible phishing policies. We can draw some insights from research that has been conducted in the space of evaluating the effectiveness of phishing training as well as the CPHS IRB process as a framework for ethical considerations [2, 3].
 
 
+## Citizen Clinic Phishing Policy
+
+
 ### Existing Phishing Policies
 
-We do not currently have examples of existing phishing policies. 
 
 UC Berkeley has an Information Security and Policy group that reportedly has an existing phishing policy and does conduct phishing training for the university. We have reached out to [security@berkeley.edu](mailto:security@berkeley.edu), but have yet to receive a response.
 
@@ -50,15 +34,11 @@ Though much of the IRB policies are more research specific, we can leverage its 
 
 The basic ethical principles the report asks us to follow are:
 
-
-
 1. Respect for persons - individuals should be treated as autonomous agents and that persons with diminished autonomy (e.g. underserved populations) are entitled to protection
 2. Beneficence - actions should (1) do not harm and (2) maximize possible benefits and minimize possible harms
 3. Justice - consider who ought to receive the benefits and bear its burdens (this is more relevant for research, such as in choosing what population to involve)
 
 Of the three, the most important in our assessment is the principle of beneficence in assessing the risk versus benefit of a good policy. The report uses the following definitions:
-
-
 
 *   “Benefit” as non-probabilistic positive value related to health or welfare; this may include contribution to generalizable knowledge and direct benefit to participant(s)
 *   “Risk” as possibility that harm may occur; including both chance (probability  of experiencing harm) and severity (magnitude of such harm)
@@ -66,8 +46,6 @@ Of the three, the most important in our assessment is the principle of beneficen
 We recommend when developing policies to have at least one author or reviewer having taken the Group 2 Human Subjects Training: Social and Behavioral Research Investigators Course, available to all UC Berkeley affiliates through CPHS and CITI, available at [https://cphs.berkeley.edu/training.html](https://cphs.berkeley.edu/training.html).
 
 Relevant sections from the CPHS training are as follows:
-
-
 
 *   Assessing risk and privacy
     *   Assessing Risk (ID 503)
@@ -81,11 +59,9 @@ Relevant sections from the CPHS training are as follows:
     *   International Research (ID 509)
 
 
-## Considerations for Constructing a Policy
+### Considerations for Constructing a Policy
 
 When forming a phishing policy, we would recommend considering the following questions:
-
-
 
 *   What benefits would your phishing training and simulation bring to your organization?
 *   What is the goal of the phishing training or simulation? 
@@ -104,8 +80,6 @@ When forming a phishing policy, we would recommend considering the following que
 
 A policy for a phishing simulation should include the following:
 
-
-
 *   Goal of outcome
 *   Target group definition
 *   Set duration
@@ -116,8 +90,6 @@ A policy for a phishing simulation should include the following:
 
 If our goal is to conduct generalizable research, we should additionally consider:
 
-
-
 *   Who should be included in the sample? Who should we exclude (e.g. undue burden)?
 *   Can this take place in a lab or field setting?
 *   What is my outcome variable?
@@ -126,12 +98,7 @@ If our goal is to conduct generalizable research, we should additionally conside
 
 Table 1, shown below, is from a 2018 CHI paper provides an overview of previous research design for phishing. Since they were interested in understanding how people who respond to different kinds of training material when shown after they have clicked on the phishing link, they did not get informed consent ahead of time. In this situation the debrief becomes very important as is having an IRB already in place [2].
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Citizen-Clinic0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Citizen-Clinic0.png "image_tooltip")
+![alt_text](../images/Phishing1.png "Various Phishing Designs")
 
 
 Also interesting is that phishing studies [2, 3] referred to timeframes for phishing as short (2-days), medium (7-days) and long (30-days). Outcome variables refer to if the user clicked on the phishing link (click), if they shared personal information (info), or click and information (both).
@@ -139,37 +106,29 @@ Also interesting is that phishing studies [2, 3] referred to timeframes for phis
 Please note that any phishing done for generalizable research purposes would need to submit a protocol for IRB review. You can find more information at [https://cphs.berkeley.edu/](https://cphs.berkeley.edu/training.html).
 
 
-## Limitations and Future Work
+### Limitations and Future Work
 
 Due to time constraints, there is much more work that can be done, including but not limited to conducting expert interviews, getting existing phishing policies currently in practice, and getting feedback from practitioners and past phishing simulation participants
 
 Further questions to consider:
-
-
 
 *   Is the risk versus benefit assessment approach of the IRB a good approach to consider? Is there another framework that can be used?
 *   How can we assess what is acceptable "harm" or "risk" in a phishing policy?
 *   What are some normative constraints to consider (e.g. culture of organization, size of campaign, frequency of phishing attempts)?
 *   Who are all of the stakeholders who should be considered with regard to a phishing policy (e.g. managers, employees, HR, legal team)?
 
-
-## References
-
+### References
 
 
 1. 2019 Data Breach Investigations Report. Verizon, 2019. https://enterprise.verizon.com/resources/reports/dbir/
 2. Rick Wash and Molly M. Cooper. 2018. Who Provides Phishing Training?: Facts, Stories, and People Like Me. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA, Paper 492, 12 pages. DOI: https://doi.org/10.1145/3173574.3174066
 3. Kumaraguru, Ponnurangam & Sheng, Steve & Acquisti, Alessandro & Cranor, Lorrie & Hong, Jason. (2008). Lessons From a Real World Evaluation of Anti-Phishing Training. eCrime Researchers Summit, eCrime 2008. 1 - 12. 10.1109/ECRIME.2008.4696970.
 4. National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research. [Bethesda, Md.]: The Commission, 1978. https://www.citiprogram.org/citidocuments/_001pic/1127_the_belmont_report.pdf
-
-
-## 
-
+ 
 
 ## Sample Policies
 
-**Internal**
-
+** Internal **
 
 <table>
   <tr>
@@ -253,8 +212,7 @@ Individual performance in the phishing simulation will be retained for future fo
 </table>
 
 
-**External**
-
+** External **
 
 <table>
   <tr>
@@ -335,9 +293,7 @@ Content will utilize social engineering strategies such as urgency and may inclu
   </tr>
 </table>
 
-
-**Research**
-
+** Research **
 
 <table>
   <tr>
@@ -420,3 +376,26 @@ Participants will be debriefed after the duration of the experiment has elapsed 
   </tr>
 </table>
 
+## Sample End of Exercise Notification
+
+Hi _NAME(S)_,
+
+This notification is for your awareness that, as of _TIME_ today, _DATE_, the phishing attack simulation Citizen Clinic conducted for the _NAME OF ORG_ has concluded.
+
+In my opinion, the results will successfully highlight practices to sustain and improve upon both at the individual and organizational level. There are some things that _NAME OF ORG_ did well and areas that _NAME OF ORG_ will need to improve upon to increase their digital security. We will compile a report of our findings to share with leadership in private and with _MODIFYasNEEDED_ as previously discussed.
+
+We will discuss areas for improvement and procedures for recovery & response. Do advise participants that we took steps to mitigate risks such as no passwords being collected / stored and requesting account credentials for accounts that already have multi-factor authentication enabled or presumably would be "virtual identities." Any information sent to the two "attacker" accounts is also protected by strong authentication (Yubikeys). 
+
+Security is a team effort so any information disclosed should not seem like personal failures, but a combination of weak links in a chain. When a participant realizes they did disclose information to us, they should also realize that their disclosure was part of a larger system where ultimately the odds (and human nature) are stacked up against them. Participants should not compare themselves with others - neither at the individual or organizational level. Instead, we seek improvement that is relative to the current state - the goal is that participants are themselves better prepared to handle similar threats today or tomorrow compared to where they were yesterday.
+
+That being said: 
+
+1) Participants should know that they will not be receiving any more simulated phishing emails from us via our attacker personas (_INSERT ATTACKER EMAILS_). It is possible that prior emails may be bumped in their inbox due to your email service's reminder feature. Any forms or "malicious" links have been disabled. Any messages sent to those accounts will not be returned.  
+
+2) The two attacker persona accounts (_INSERT ATTACKER EMAILS_) have already been reported and confirmed. We will detail the attacks in our brief, but for participants' peace of mind, there is no need to take any immediate recovery steps, although changing one's password, reviewing sign-in activity, and ensuring multi-factor authentication is enabled can provide some relief to personal feelings of discomfort.
+
+3) The _NAME OF ORG_ should resume their security and incident response policies & practices as usual. We're not in a posture to continually evaluate suspicious emails, but we're still, of course, happy to help as we can. _XYZ_ should, in most cases, be your primary resource beyond internal information sharing and precautions.
+
+Let me know if you have any questions. Thanks for participating!
+
+* _Note: Additional confirmation of end of exercise to be sent via trusted channel (eg. Signal instead of email)_
