@@ -1,46 +1,46 @@
 _Last Updated: 27 April 2020_
 
-**_(In Progress)_** Citizen Clinic modules consist of lectures, in-class activities, and homework assignments. These modules will be described, linked, and/or outlined below. Stay tuned for new modules added regularly. 
-
 ### **Lesson Modules.**
 
-1. Introduction to Public Interest Cybersecurity
+**_(In Progress)_** Citizen Clinic modules consist of lectures, in-class activities, and homework assignments. These modules will be described, linked, and/or outlined below. Stay tuned for new modules added regularly. 
 
-#### **New!** 2. [Ethics and the Citizen Clinic Code of Conduct](../Modules/Ethics/Ethics/) 
+-1. Introduction to Public Interest Cybersecurity
 
-3. Old School INFOSEC: Basic (& Some Outdated) Controls
+#### **New!** -2. [Ethics and the Citizen Clinic Code of Conduct](../Modules/Ethics/Ethics/) 
 
-4. Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape
+-3. Old School INFOSEC: Basic (& Some Outdated) Controls
 
-5. Problem Diagnosis and Reframing
+-4. Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape
 
-6. Threat Modeling & Bounding Risk Assessments 
+-5. Problem Diagnosis and Reframing
 
-#### **New!** 7. [Contextual & Capacity Research](../Modules/Contextual_Research/Contextual_Research/)
+-6. Threat Modeling & Bounding Risk Assessments 
 
-8. Information Gathering
+#### **New!** -7. [Contextual & Capacity Research](../Modules/Contextual_Research/Contextual_Research/)
 
-9. Open Source Research Methods, Safety, and Tools
+-8. Information Gathering
 
-	* Virtual Networks, Machines, & Identities
+-9. Open Source Research Methods, Safety, and Tools
 
-	* Manual Searches & Google Hacking
+* Virtual Networks, Machines, & Identities
 
-	* Automated Tools
+* Manual Searches & Google Hacking
 
-10. Security Law and Policy Factors
+* Automated Tools
 
-11. Adversary Persona Development
+-10. Security Law and Policy Factors
 
-12. Threat Scenario Development
+-11. Adversary Persona Development
 
-13. Changing Security Behaviors
+-12. Threat Scenario Development
 
-14. Social Engineering and Phishing
+-13. Changing Security Behaviors
 
-15. Designing Security Training
+-14. Social Engineering and Phishing
 
-16. Psychosocial Resilience
+-15. Designing Security Training
 
-#### **New!** 17. [Beyond Hacking: Harmful Information (Misinformation and Harassment)](../Modules/Harmful_Information/Harmful_Information/)
+-16. Psychosocial Resilience
+
+#### **New!** -17. [Beyond Hacking: Harmful Information (Misinformation and Harassment)](../Modules/Harmful_Information/Harmful_Information/)
 
