@@ -1,8 +1,8 @@
-**Citizen Clinic Student Code of Conduct**
+_Last Updated: 27 April 2020_
+
+## **Citizen Clinic Student Code of Conduct**
 
 The Citizen Clinic is an inclusive course where students, mentors, and staff should feel comfortable sharing their work, opinions, and perspectives. All of us commit to engaging with each other mindfully to ensure an environment that promotes shared learning and collaboration.
-
-
 
 
 !!! tip "When does the Code of Conduct apply?"
@@ -24,7 +24,7 @@ In addition, we expect all Clinic participants to abide by the following paramet
 *   Don’t be a bystander. If you see something inappropriate happening, speak up. If you don’t feel comfortable intervening but feel someone should, please feel free to ask a member of the Clinic staff to intervene.
 *   As an overriding general rule, please be intentional in your actions and humble in your mistakes.
 
-**Operational Security**
+### **Operational Security**
 
 Working with the Citizen Clinic will require engagement with its partner organizations. These organizations and their staff, partners, and the communities they serve are often at risk of online or physical attacks. Therefore, adherence to Clinic operational security procedures is not just a requirement for academic success, but for safeguarding the lives and livelihoods of Clinic partners, students, staff, and their friends and families.
 
@@ -38,7 +38,7 @@ In order to facilitate a secure, safe working environment, all Clinic participan
 *   Keep track of any Clinic-owned devices assigned to you or your team. Ensure they are under the control of you or your team at all times, or are securely stored when not in use, and do not engage in any unlawful or unethical online or offline behavior with them. Do not change any device settings in ways that would reduce device security. These devices are the gateway to our partners and the Clinic’s electronic infrastructure. You are the gatekeeper.
 *   Report any security incidents or concerns immediately to Clinic staff. This includes, but is not limited to, the loss, theft, or compromise of Clinic-owned devices or data stored on them. 
 
-**Confidentiality**
+### **Confidentiality**
 
 As a condition of allowing students to participate in the Clinic, including access to the Clinic’s
 
@@ -60,7 +60,7 @@ Clinic faculty and professional staff are available to answer any questions or c
 
 Agreement, or about disclosure of any specific information. Students who are uncertain about whether certain information is Confidential Information should ask mentors, Clinic faculty or professional staff before any disclosure.
 
-**Professionalism**
+### **Professionalism**
 
 Working with partner organizations is a position of significant privilege and trust. Your work does not just represent you, but your team, Citizen Clinic, the Center for Long-Term Cybersecurity, the School of Information, and UC Berkeley at-large. Students are expected to be on-time to all partner meetings (_remember: partners are not on Berkeley time_), and to be attentive and respectful during all external-facing engagements.
 
@@ -92,15 +92,15 @@ Many campus resources are also available for reporting incidents of harassment, 
 *   PATH to Care Center: [http://survivorsupport.berkeley.edu/report](http://survivorsupport.berkeley.edu/report)
 *   Office for the Prevention of Harassment and Discrimination: [https://ophd.berkeley.edu/home](https://ophd.berkeley.edu/home) 
 
-**Conflicts of Interest - Reporting**
+### **Conflicts of Interest - Reporting**
 
 If an issue, complaint or concern involves a member of Clinic staff or mentors, that person will be removed from the issue response process and will not have access to documentation related to the issue.
 
-**Conflicts of Interest – Partner Services**
+### **Conflicts of Interest – Partner Services**
 
 Students must seriously consider their own political, religious, cultural, and social affiliations before agreeing to work with any given partner. If anything about a student’s personal beliefs may cause a conflict of interest or prevent them from providing effective support to a partner, they are obligated to communicate with Clinic staff immediately so they can be assigned to a new team.
 
-**Appropriate Responses**
+### **Appropriate Responses**
 
 Staff will address all complaints or concerns in a responsive and expedient manner. Each case will be processed as is contextually appropriate and in line with existing University procedures. If, at any point, a student feels a concern, complaint, or report is not being addressed appropriately, they should escalate issues to the CLTC Faculty Director or other campus resources (such as Office for the Prevention of Harassment and Discrimination).
 
@@ -131,7 +131,7 @@ Your Signature:
 
 Date:
 
-**_Attribution_**
+### **_Attribution_**
 
 _Much of this Code of Conduct is based on the [Citizen Lab Summer Institute Code of Conduct](https://citizenlab.ca/2017/07/citizen-lab-summer-institute-code-conduct/). Parts of this Code are based on the [xvzf Code of Conduct](http://xvzf.io/), the [Contributor Covenant](http://contributor-covenant.org/), the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and [Reporting Guide](https://www.djangoproject.com/conduct/reporting/). This code has also been influenced by [this guidance from Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)._
 
