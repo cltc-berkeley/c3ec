@@ -39,18 +39,22 @@ What ethical challenges (Vallor pg 15 - 20) might we encounter?
 ### ** Input **
 
 Consider “First, do no harm”... 
-	...but discuss the limitations of that guiding principle.
-	We should be intentional about the decisions we make and intervene in ways that will not make the situation worse. 
-	Ultimately, the organization and its well-being should be your primary concern. However, you also have a duty to yourself, your family, and your team members that may play a factor. Sometimes there may seem like there are no good answers (for instance, doing nothing because there might be risk is not a resolution).
-	If we view our interventions as already raising the risks for our partners and ourselves, what can we actively do to mitigate that? 
+
+...but discuss the limitations of that guiding principle.
+
+We should be intentional about the decisions we make and intervene in ways that will not make the situation worse. 
+Ultimately, the organization and its well-being should be your primary concern. However, you also have a duty to yourself, your family, and your team members that may play a factor. Sometimes there may seem like there are no good answers (for instance, doing nothing because there might be risk is not a resolution).
+If we view our interventions as already raising the risks for our partners and ourselves, what can we actively do to mitigate that? 
 
 Informed Consent
+
 * Discuss and define disclosure, comprehension, and voluntary participation.
 * Understand the effect of your institutional affiliation and positioning.
 
 Tools and methods for good (ethical) can be used for bad (unethical).
 
 Important questions to regularly ask:
+
 * Are you, your team, or your partner able to do this?
 * Are you, your team, or your partner willing to do this?
 * Do you, your team, or your partner have any conflicts of interest?
@@ -61,12 +65,16 @@ What should our Code of Ethics look like? (Vallor pg 48)
 
 ### ** Synthesis **
 
-### ** Assignments **
-
-Review and submit signed Code of Conduct.
+Review the Citizen Clinic Code of Conduct.
 Highlights:
+
 * Harassment and Discrimination
 * Operational Security
 * Confidentiality
 * Professionalism
 * Reporting
+
+
+### ** Assignments **
+
+Review and submit signed Code of Conduct.
