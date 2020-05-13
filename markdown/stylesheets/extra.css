@@ -1,5 +1,5 @@
 table {
-  table-layout: auto;
+  table-layout: fixed;
   min-width: 100%;
   max-width: 100%;
 }
