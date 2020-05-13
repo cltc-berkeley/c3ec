@@ -1,5 +1,3 @@
-_Last Updated: 27 April 2020_
-
 ### **Lesson Modules.**
 
 **_(In Progress)_** Citizen Clinic modules consist of lectures, in-class activities, and homework assignments. These modules will be described, linked, and/or outlined below. Stay tuned for new modules added regularly. 
@@ -30,7 +28,7 @@ _Last Updated: 27 April 2020_
 
 10) Security Law and Policy Factors
 
-11) Adversary Persona Development
+#### **New!** 11) [Adversary Persona Development](../Modules/Adversary_Personas/Adversary_Personas/)
 
 12) Threat Scenario Development
 
@@ -42,5 +40,4 @@ _Last Updated: 27 April 2020_
 
 16) Psychosocial Resilience
 
-#### **New!** 17) [Beyond Hacking: Harmful Information (Misinformation and Harassment)](../Modules/Harmful_Information/Harmful_Information/)
-
+17) Beyond Hacking: Harmful Information (Misinformation and Harassment
