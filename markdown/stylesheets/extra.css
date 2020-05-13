@@ -1,4 +1,4 @@
 table {
-  table-layout: fixed;
+  table-layout: auto;
   max-width: 100%;
 }

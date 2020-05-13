@@ -10,8 +10,7 @@ edit_uri: '/cltc-berkeley/resources-beta/tree/master/markdown'
 plugins:
     - search
     - git-revision-date-localized
-    - pdf-export:
-        combined: false
+
 
 nav:
     - Home: index.md
