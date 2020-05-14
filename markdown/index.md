@@ -8,7 +8,7 @@
 ## **Public Interest Cybersecurity**
 
 [<img style="float: right;" src="https://cltc.berkeley.edu/wp-content/uploads/2018/07/Screen-Shot-2018-07-23-at-12.21.17-PM.png" width=250x>](https://cltc.berkeley.edu/defendingpvos/)
-The Citizen Clinic is a public-interest cybersecurity clinic at UC Berkeley. It supports the capacity of politically-vulnerable organizations to defend themselves against online threats. Building off [our recent research](https://cltc.berkeley.edu/defendingpvos/) on the ecosystem providing technical assistance to civil society, the clinic supports multidisciplinary teams of students to assess threats to targeted organizations, recommend risk-appropriate mitigations, and to work collaboratively with clients to implement new policies and technical controls that enhance their cybersecurity. 
+The Citizen Clinic is a public-interest cybersecurity clinic at UC Berkeley. It supports the capacity of politically vulnerable organizations to defend themselves against online threats. Building off [our recent research](https://cltc.berkeley.edu/defendingpvos/) on the ecosystem providing technical assistance to civil society, the clinic supports multidisciplinary teams of students to assess threats to targeted organizations, recommend risk-appropriate mitigations, and to work collaboratively with clients to implement new policies and technical controls that enhance their cybersecurity. 
 
 
 For more information about the Clinic, visit https://cltc.berkeley.edu/about-us/citizen-clinic/.
