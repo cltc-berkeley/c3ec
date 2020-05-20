@@ -20,12 +20,6 @@
 
 9) Open Source Research Methods, Safety, and Tools
 
-* Virtual Networks, Machines, & Identities
-
-* Manual Searches & Google Hacking
-
-* Automated Tools
-
 10) Security Law and Policy Factors
 
 #### **New!** 11) [Adversary Persona Development](../Modules/Adversary_Personas/Adversary_Personas/)
