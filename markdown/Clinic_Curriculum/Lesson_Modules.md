@@ -15,7 +15,7 @@ ____
 
 
 
-### Upcoming Modules
+### Upcoming Modules.
 
 
 Module 1. Introduction to Public Interest Cybersecurity
