@@ -13,18 +13,7 @@
 
 ### ** Pre-Readings **
 
-* Julian Cohen. “Playbook Based Testing.” [https://medium.com/@HockeyInJune/playbook-based-testing-5df4b656113a]
-
-* MSFT’s STRIDE and related blog posts. [https://cloudblogs.microsoft.com/microsoftsecure/2007/09/11/stride-chart/]
-
-* Bill Marczak and John Scott-Railton. “Keep Calm and (Don’t) Enable Macros: A New Threat Actor Targets UAE Dissidents” [https://citizenlab.ca/2016/05/stealth-falcon/]
-
-* Micah Lee. “It’s Impossible To Prove Your Laptop Hasn’t Been Hacked. I Spent Two Years Finding Out.” [https://theintercept.com/2018/04/28/computer-malware-tampering/]
-
-* (Watch) Rachel Tobac. “How I would Hack You: Social Engineering Step-by-Step” [https://www.youtube.com/watch?v=L5J2PgGOLtE]
-
-* The Engine Room. “Ties That Bind: Organisational Security for Civil Society” - read Full Report. [https://www.theengineroom.org/civil-society-digital-security-new-research/]
-
+* See Course Readings for ["Adversary Personas"](../../../Consolidated_Bibliography#adversary)
 
 ### ** Resources **
 

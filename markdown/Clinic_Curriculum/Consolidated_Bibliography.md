@@ -16,6 +16,7 @@ Deji Olukotun, Access Now. “Spyware in Mexico: an interview with Luis Fernando
 Tactical Tech's Annual Report [[https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf](https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf)] 
 
 <div id="ethics"></div>
+
 ### Ethics and the Citizen Clinic Code of Conduct
 
 Citizen Clinic. "Student Code of Conduct" [[https://www.citizenclinic.io/Clinic_Curriculum/Modules/Ethics/Student_Code_of_Conduct/](../Modules/Ethics/Student_Code_of_Conduct/)]
@@ -23,7 +24,7 @@ Citizen Clinic. "Student Code of Conduct" [[https://www.citizenclinic.io/Clinic_
 Shannon Vallor, The Markkula Center for Applied Ethics. “An Introduction to Cybersecurity Ethics” [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)]
 
 
-### Old School INFOSEC: Basic (& Some Outdated) Controls
+## Old School INFOSEC: Basic (& Some Outdated) Controls
 
 Le Blond et al. “A look at targeted attacks through the lense of an NGO”  [[www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf)]
 
@@ -38,7 +39,7 @@ Rus Shuler. “How Does the Internet Work?” [[web.stanford.edu/class/msande91s
 
 Jorge Luis Sierra. “Digital and Mobile Security for Mexican Journalists and Bloggers” [[https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf](https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf)] 
 
-### Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape
+### **Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape**
 
 Stephen Arnold. “Telestrategies - An Interview with Dr. Jerry Lucas” [[http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html](http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html)]
 
@@ -65,6 +66,9 @@ NIST SP 800-37 “Risk Management Framework for Information Systems and Organiza
 NIST SP 800-39 “Managing Information Security Risk.” Chapter 2 only. [[https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20SP%20800-039%20Managing%20Information%20Security%20Risk;%20Organization,%20Mission,%20and%20Information%20System%20View,%202011-03-01%20(Final).pdf)]
 
 NISTIR 8062 “An Introduction to Privacy Engineering and Risk Management in Federal Systems.” [[https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20IR%208062.pdf)]
+
+<div id="context"></div>
+
 
 ### Contextual & Capacity Research
 
@@ -108,11 +112,16 @@ James C. Scott. “Seeing Like a State” - Chapter 9 [[https://libcom.org/files
 
 Kim Fong et al. “A CRIMSon Tide of Data: An Assessment of Potential Privacy Problems of the Consolidate Records Information Management System” [[http://people.ischool.berkeley.edu/~strush/CRIMS_FongRowlandTrush_Feb2018.pdf](http://people.ischool.berkeley.edu/~strush/CRIMS_FongRowlandTrush_Feb2018.pdf)]
 
+<div id="adversary"></div>
+
+
 ### Adversary Persona Development
 
 Julian Cohen. “Playbook Based Testing.” [[https://medium.com/@HockeyInJune/playbook-based-testing-5df4b656113a](https://medium.com/@HockeyInJune/playbook-based-testing-5df4b656113a)]
 
 Bill Marczak and John Scott-Railton, Citizen Lab. “Keep Calm and (Don’t) Enable Macros: A New Threat Actor Targets UAE Dissidents” [[https://citizenlab.ca/2016/05/stealth-falcon/](https://citizenlab.ca/2016/05/stealth-falcon/)] 
+
+Nick Merrill, Daylight Security Research Lab. "Adversary Personas" [[https://daylight.berkeley.edu/adversary-personas/](https://daylight.berkeley.edu/adversary-personas/)]
 
 Microsoft’s STRIDE and related blog posts. [[https://cloudblogs.microsoft.com/microsoftsecure/2007/09/11/stride-chart/](https://cloudblogs.microsoft.com/microsoftsecure/2007/09/11/stride-chart/)]
 
