@@ -100,9 +100,9 @@ OSINT Framework [[https://osintframework.com/](https://osintframework.com/)]
 
 OSINT.link [[https://osint.link](https://osint.link)] 
 
-Protective Intelligence. “Part I: An Introduction To OSINT Research For Protective Intelligence Professionals” [[https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt1](https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt1)]
+Travis Lishok, Protective Intelligence. “Part I: An Introduction To OSINT Research For Protective Intelligence Professionals” [[https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt1](https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt1)]
 
-Protective Intelligence. “Part 2: An Introduction To OSINT Research For Protective Intelligence Professionals” [[https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt2](https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt2)] 
+Travis Lishok, Protective Intelligence. “Part 2: An Introduction To OSINT Research For Protective Intelligence Professionals” [[https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt2](https://www.protectiveintelligence.com/blog/osint-intro-for-protective-intelligence-pt2)] 
 
 SECALERTS - Automated Security Audit [[https://secalerts.co/security-audit](https://secalerts.co/security-audit)]
 

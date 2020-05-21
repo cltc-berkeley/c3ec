@@ -11,7 +11,7 @@ This module introduces ethical considerations for clinical security work. Our lo
 
 ### ** Pre-Readings **
 
-* See ["Ethics and the Citizen Clinic Code of Conduct"](../../../Consolidated_Bibliography#ethics)
+* See Course Readings for ["Ethics and the Citizen Clinic Code of Conduct"](../../../Consolidated_Bibliography#ethics)
 
 ### ** Resources **
 
