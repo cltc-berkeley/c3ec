@@ -17,7 +17,7 @@
 
 ### ** Resources **
 
-#### * Daylight Security Research Lab's [Adversary Persona Cards](https://daylight.berkeley.edu/adversary-personas/)
+* Daylight Security Research Lab's [Adversary Persona Cards](https://daylight.berkeley.edu/adversary-personas/)
 
 ### ** Activities **
 

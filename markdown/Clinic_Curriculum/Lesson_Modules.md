@@ -1,37 +1,47 @@
-### **Lesson Modules.**
+# **Lesson Modules.**
 
 Citizen Clinic modules consist of lectures, in-class activities, and homework assignments. These modules will be described, linked, and/or outlined below. Stay tuned for new modules added regularly! 
 
-1) Introduction to Public Interest Cybersecurity
+### Published Modules. 
 
-#### **New!** 2) [Ethics and the Citizen Clinic Code of Conduct](../Modules/Ethics/Ethics/) 
+#### **New!** Module 2. [Ethics and the Citizen Clinic Code of Conduct](../Modules/Ethics/Ethics/) 
 
-3) Old School INFOSEC: Basic (& Some Outdated) Controls
+#### **New!** Module 7. [Contextual & Capacity Research](../Modules/Contextual_Research/Contextual_Research/)
 
-4) Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape
+#### **New!** Module 11. [Adversary Persona Development](../Modules/Adversary_Personas/Adversary_Personas/)
 
-5) Problem Diagnosis and Reframing
 
-6) Threat Modeling & Bounding Risk Assessments 
+____
 
-#### **New!** 7) [Contextual & Capacity Research](../Modules/Contextual_Research/Contextual_Research/)
 
-8) Information Gathering
 
-9) Open Source Research Methods, Safety, and Tools
+### Upcoming Modules
 
-10) Security Law and Policy Factors
 
-#### **New!** 11) [Adversary Persona Development](../Modules/Adversary_Personas/Adversary_Personas/)
+Module 1. Introduction to Public Interest Cybersecurity
 
-12) Threat Scenario Development
+Module 3. Old School INFOSEC: Basic (& Some Outdated) Controls
 
-13) Changing Security Behaviors
+Module 4. Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape
 
-14) Social Engineering and Phishing
+Module 5. Problem Diagnosis and Reframing
 
-15) Designing Security Training
+Module 6. Threat Modeling & Bounding Risk Assessments 
 
-16) Psychosocial Resilience
+Module 8. Information Gathering
 
-17) Beyond Hacking: Harmful Information (Misinformation and Harassment)
+Module 9. Open Source Research Methods, Safety, and Tools
+
+Module 10. Security Law and Policy Factors
+
+Module 12. Threat Scenario Development
+
+Module 13. Changing Security Behaviors
+
+Module 14. Social Engineering and Phishing
+
+Module 15. Designing Security Training
+
+Module 16. Psychosocial Resilience
+
+Module 17. Beyond Hacking: Harmful Information (Misinformation and Harassment)

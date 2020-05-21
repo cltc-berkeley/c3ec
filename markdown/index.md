@@ -1,5 +1,5 @@
 
-# Welcome to the Citizen Clinic Cybersecurity Education Center (C3EC)
+# The Citizen Clinic Cybersecurity Education Center
 
 <p align="center">
 	<img  src="https://cltc.berkeley.edu/wp-content/uploads/2018/10/citizenclinic-logo-large-1.png">
