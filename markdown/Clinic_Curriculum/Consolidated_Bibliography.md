@@ -37,8 +37,6 @@ Alex Gaynor. “What happens when you type google.com into your browser's addres
 
 Rus Shuler. “How Does the Internet Work?” [[web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)]
 
-Jorge Luis Sierra. “Digital and Mobile Security for Mexican Journalists and Bloggers” [[https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf](https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf)] 
-
 ### **Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape**
 
 Stephen Arnold. “Telestrategies - An Interview with Dr. Jerry Lucas” [[http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html](http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html)]
@@ -75,6 +73,8 @@ NISTIR 8062 “An Introduction to Privacy Engineering and Risk Management in Fed
 SAFETAG, Internews. "SAFETAG Guide" **_Skim to Section 2.2, then read Section 2.2 and Section 2.3._** [[https://safetag.org/guide/](https://safetag.org/guide/)]
 
 Read and Explore Examples About PESTLE. *(use an ad-blocker!)* [[https://pestleanalysis.com/what-is-pestle-analysis/](https://pestleanalysis.com/what-is-pestle-analysis/)] 
+
+Jorge Luis Sierra. “Digital and Mobile Security for Mexican Journalists and Bloggers” [[https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf](https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf)] 
 
 ### **Information Gathering**
 

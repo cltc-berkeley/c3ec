@@ -6,7 +6,7 @@
     * Added collaborative discussion with Policy & Legal experts.
  
 
-**INFO289. Public Interest Cybersecurity: The Citizen Clinic Practicum.**
+**Info 289. Public Interest Cybersecurity: The Citizen Clinic Practicum.**
 
 **Spring 2020**
 
