@@ -1,5 +1,3 @@
-_Last Updated: 27 April 2020_
-
 ### ** Summary **
 
 Security does not happen in a bubble. Every security policy, setting, and tool needs to be tailored for the specific context of the organization. Particulary with non-profit organizations that work with fewer resources, under different circumstances, and for different motivations than for-profit or government entities, "industry best practice" and boilerplate policies can actually cause more harm than good. Instead, security assistance providers must consider context & capacity of their partner organizations, including the political, economic, social, technological, legal, and environmental factors both within and beyond the organization. 

@@ -1,7 +1,3 @@
-
-**Status: Last updated 4/20/20**
-
-
 ### BACKGROUND
 
 _Understand the history of the organization and its mission_

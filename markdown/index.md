@@ -1,6 +1,4 @@
-
 # ** **
-
 <p align="center">
 	<img  src="https://cltc.berkeley.edu/wp-content/uploads/2018/10/citizenclinic-logo-large-1.png">
 </p>
@@ -13,6 +11,8 @@ The Citizen Clinic is a public-interest cybersecurity clinic at the University o
 For more information about Citizen Clinic, visit https://cltc.berkeley.edu/about-us/citizen-clinic/.
 
 ___
+
+## **The Citizen Clinic Cybersecurity Education Center**
 
 The **Citizen Clinic Cybersecurity Education Center** is designed to share basic cybersecurity resources for civil society organizations, and to inform other academic institutions that may be interested in adopting the clinic model. 
 
