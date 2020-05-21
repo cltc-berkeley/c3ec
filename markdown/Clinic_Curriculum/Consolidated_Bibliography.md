@@ -1,8 +1,7 @@
-### **Consolidated Bibliography.**
 
 All Citizen Clinic currently or previously assigned readings in one place. 
 
-#### 1) Introduction to Public Interest Cybersecurity
+### Introduction to Public Interest Cybersecurity
 
 Sean Brooks, Center for Long-Term Cybersecurity. “Defending Politically Vulnerable Organizations Online” [[https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf](https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf)]
 
@@ -16,14 +15,15 @@ Deji Olukotun, Access Now. “Spyware in Mexico: an interview with Luis Fernando
 
 Tactical Tech's Annual Report [[https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf](https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf)] 
 
-#### 2) Ethics and the Citizen Clinic Code of Conduct
+<div id="ethics"></div>
+### Ethics and the Citizen Clinic Code of Conduct
 
 Citizen Clinic. "Student Code of Conduct" [[https://www.citizenclinic.io/Clinic_Curriculum/Modules/Ethics/Student_Code_of_Conduct/](../Modules/Ethics/Student_Code_of_Conduct/)]
 
 Shannon Vallor, The Markkula Center for Applied Ethics. “An Introduction to Cybersecurity Ethics” [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)]
 
 
-#### 3) Old School INFOSEC: Basic (& Some Outdated) Controls
+### Old School INFOSEC: Basic (& Some Outdated) Controls
 
 Le Blond et al. “A look at targeted attacks through the lense of an NGO”  [[www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf)]
 
@@ -34,11 +34,11 @@ Electronic Frontier Foundation’s Surveillance Self-Defense guide. [[https://ss
 Alex Gaynor. “What happens when you type google.com into your browser's address box and press enter?" 
 [[https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)]
 
-Jorge Luis Sierra. “Digital and Mobile Security for Mexican Journalists and Bloggers” [[https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf](https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf)] 
-
 Rus Shuler. “How Does the Internet Work?” [[web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)]
 
-#### 4) Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape
+Jorge Luis Sierra. “Digital and Mobile Security for Mexican Journalists and Bloggers” [[https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf](https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf)] 
+
+### Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape
 
 Stephen Arnold. “Telestrategies - An Interview with Dr. Jerry Lucas” [[http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html](http://www.arnoldit.com/search-wizards-speak/telestrategies-2.html)]
 
@@ -48,8 +48,7 @@ Vernon Silver and Ben Elgin. “Torture in Bahrain Becomes Routine With Help Fro
 
 John Scott-Railton et al, Citizen Lab. “Bittersweet: Supporters of Mexico’s soda tax targeted with NSO exploit links” [[https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/](https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/)]
 
-
-#### 5) Problem Diagnosis and Reframing
+### Problem Diagnosis and Reframing
 
 Netgain. “Digital Security and Grantcraft Guide” [[fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf](https://www.fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf)]
 
@@ -57,7 +56,7 @@ Arthur Turner. “Consulting Is More Than Giving Advice” [[https://hbr.org/198
 
 Thomas Wedell-Wedellsborg. “Are You Solving the Right Problems?” [[https://hbr.org/2017/01/are-you-solving-the-right-problems](https://hbr.org/2017/01/are-you-solving-the-right-problems)] 
 
-#### 6) Threat Modeling & Bounding Risk Assessments 
+### Threat Modeling & Bounding Risk Assessments 
 
 Electronic Frontier Foundation, “Surveillance Self-Defense: Your Security Plan” [[https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan](https://ssd.eff.org/en/playlist/activist-or-protester#your-security-plan)]
 
@@ -67,13 +66,13 @@ NIST SP 800-39 “Managing Information Security Risk.” Chapter 2 only. [[https
 
 NISTIR 8062 “An Introduction to Privacy Engineering and Risk Management in Federal Systems.” [[https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf) or [Shutdown Mirror](https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20IR%208062.pdf)]
 
-#### 7) Contextual & Capacity Research
+### Contextual & Capacity Research
 
 SAFETAG, Internews. "SAFETAG Guide" **_Skim to Section 2.2, then read Section 2.2 and Section 2.3._** [[https://safetag.org/guide/](https://safetag.org/guide/)]
 
 Read and Explore Examples About PESTLE. *(use an ad-blocker!)* [[https://pestleanalysis.com/what-is-pestle-analysis/](https://pestleanalysis.com/what-is-pestle-analysis/)] 
 
-#### 8) Information Gathering
+### Information Gathering
 
 Ruba Abu-Salma et al. “Obstacles to the Adoption of Secure Communication Tools” [[https://ieeexplore.ieee.org/abstract/document/7958575/](https://ieeexplore.ieee.org/abstract/document/7958575/)]
 
@@ -85,7 +84,7 @@ Collaboration on International ICT Policy in East and Southern Africa. “Safegu
 
 Lofland and Lofland. Read Chapter 5 (66-98) "Logging Data" in "Analyzing social settings: A guide to qualitative observation and analysis" [[https://searchworks.stanford.edu/view/10531063](https://searchworks.stanford.edu/view/10531063)]
 
-#### 9) Open Source Research Methods, Safety, and Tools
+### Open Source Research Methods, Safety, and Tools
 
 Awesome OSINT [[https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)]
 
@@ -103,13 +102,13 @@ Protective Intelligence. “Part 2: An Introduction To OSINT Research For Protec
 
 SECALERTS - Automated Security Audit [[https://secalerts.co/security-audit](https://secalerts.co/security-audit)]
 
-#### 10) Security Law and Policy Factors
+### Security Law and Policy Factors
 
 James C. Scott. “Seeing Like a State” - Chapter 9 [[https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf)]  
 
 Kim Fong et al. “A CRIMSon Tide of Data: An Assessment of Potential Privacy Problems of the Consolidate Records Information Management System” [[http://people.ischool.berkeley.edu/~strush/CRIMS_FongRowlandTrush_Feb2018.pdf](http://people.ischool.berkeley.edu/~strush/CRIMS_FongRowlandTrush_Feb2018.pdf)]
 
-#### 11) Adversary Persona Development
+### Adversary Persona Development
 
 Julian Cohen. “Playbook Based Testing.” [[https://medium.com/@HockeyInJune/playbook-based-testing-5df4b656113a](https://medium.com/@HockeyInJune/playbook-based-testing-5df4b656113a)]
 
@@ -117,7 +116,7 @@ Bill Marczak and John Scott-Railton, Citizen Lab. “Keep Calm and (Don’t) Ena
 
 Microsoft’s STRIDE and related blog posts. [[https://cloudblogs.microsoft.com/microsoftsecure/2007/09/11/stride-chart/](https://cloudblogs.microsoft.com/microsoftsecure/2007/09/11/stride-chart/)]
 
-#### 12) Threat Scenario Development
+### Threat Scenario Development
 
 Mitre’s ATT&CK Wiki. [[https://attack.mitre.org/](https://attack.mitre.org/)]
 
@@ -125,7 +124,7 @@ Mitre’s PRE-ATT&CK Techniques. [[https://attack.mitre.org/techniques/pre/](htt
 
 Mitre’s Common Vulnerabilities and Exposures search.[[https://cve.mitre.org/cve/](https://cve.mitre.org/cve/)]
 
-#### 13) Changing Security Behaviors
+### Changing Security Behaviors
 
 The Engine Room. “Ties That Bind: Organisational Security for Civil Society” [[https://www.theengineroom.org/civil-society-digital-security-new-research/](https://www.theengineroom.org/civil-society-digital-security-new-research/)]
 
@@ -135,7 +134,7 @@ Francesca Musiani and Ksenia Ermoshina. “What is a Good Secure Messaging Tool?
 
 Alma Whitten and Doug Tygar. “Why Johnny Can’t Encrypt” [[https://www.usenix.org/legacy/publications/library/proceedings/sec99/full_papers/whitten/whitten_html/index.html](https://www.usenix.org/legacy/publications/library/proceedings/sec99/full_papers/whitten/whitten_html/index.html)]
 
-#### 14) Social Engineering and Phishing
+### Social Engineering and Phishing
 
 Citizen Clinic. "Phishing Simulation Policy" [[https://www.citizenclinic.io/Clinic_Infrastructure/Phishing_Simulation/](../../Clinic_Infrastructure/Phishing_Simulation/)]
 
@@ -145,7 +144,7 @@ Micah Lee, The Intercept. “It’s Impossible To Prove Your Laptop Hasn’t Bee
 
 Rachel Tobac. Social Proof Security. “How I would Hack You: Social Engineering Step-by-Step”  [[https://www.youtube.com/watch?v=L5J2PgGOLtE](https://www.youtube.com/watch?v=L5J2PgGOLtE)] 
 
-#### 15) Designing Security Training
+### Designing Security Training
 
 Electronic Frontier Foundation. “Am I the Right Person?” [[https://sec.eff.org/articles/right-person-to-train]](https://sec.eff.org/articles/right-person-to-train)
 
@@ -157,7 +156,7 @@ Rachel Weidinger et al. “How To Give A Digital Security Training” [[https://
 
 Rachel Weidinger et al. “Digital Security Training Resources for Security Trainers, Fall 2019 Edition” [[https://medium.com/cryptofriends/digital-security-training-resources-for-security-trainers-spring-2017-edition-e95d9e50065e](https://medium.com/cryptofriends/digital-security-training-resources-for-security-trainers-spring-2017-edition-e95d9e50065e)]
 
-#### 16) Psychosocial Resilience
+### Psychosocial Resilience
 
 Angela Chen. The Verge. “Moderating content doesn’t have to be so traumatic” [[https://www.theverge.com/2019/2/27/18243359/content-moderation-mental-health-ptsd-psychology-science-facebook](https://www.theverge.com/2019/2/27/18243359/content-moderation-mental-health-ptsd-psychology-science-facebook)]
 
@@ -165,7 +164,7 @@ Sam Dubberley and Michele Grant. First Draft. “Journalism and Vicarious Trauma
 
 Sarah Jeong, Charlie Warzel, Brianna Wu, Joan Donovan. New York Times. “Everything is GamerGate” [[https://www.nytimes.com/interactive/2019/08/15/opinion/gamergate-twitter.html](https://www.nytimes.com/interactive/2019/08/15/opinion/gamergate-twitter.html)] - **Read all of the four essays.**
 
-#### 17) Beyond Hacking: Harmful Information (Misinformation and Harassment)
+### Beyond Hacking: Harmful Information (Misinformation and Harassment)
 
 Tahmina Ansari, First Draft. “This Muslim journalist embraced social media until it ‘ruined’ his life” [[https://firstdraftnews.org/this-muslim-journalist-embraced-social-media-until-it-ruined-his-life/](https://firstdraftnews.org/this-muslim-journalist-embraced-social-media-until-it-ruined-his-life/)]
 

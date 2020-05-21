@@ -1,5 +1,3 @@
-_Last Updated: 27 April 2020_
-
 ### ** Summary **
 
 This module introduces ethical considerations for clinical security work. Our look at ethics builds from the Markulla Center's work towards some agreement around norms specific to our Clinic (see Citizen Clinic Code of Conduct).
@@ -13,7 +11,7 @@ This module introduces ethical considerations for clinical security work. Our lo
 
 ### ** Pre-Readings **
 
-* Shannon Vallor, The Markkula Center for Applied Ethics, “An Introduction to Cybersecurity Ethics” pages 7 - 21 & 48 - 52. [https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf]
+* See ["Ethics and the Citizen Clinic Code of Conduct"](../../Consolidated_Bibliography#ethics)
 
 ### ** Resources **
 
