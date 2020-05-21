@@ -109,7 +109,7 @@ Citizen Clinic “Rules of the Road”
 
 * Abu-Salma et al. “Obstacles to the Adoption of Secure Communication Tools” [[https://ieeexplore.ieee.org/abstract/document/7958575/](https://ieeexplore.ieee.org/abstract/document/7958575/)]
 
-* Whitten & Tygar. “Why Johnny Can’t Encrypt” [[https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf](https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf)]
+* Alma Whitten and Doug Tygar. “Why Johnny Can’t Encrypt” [[https://www.usenix.org/legacy/publications/library/proceedings/sec99/full_papers/whitten/whitten_html/index.html](https://www.usenix.org/legacy/publications/library/proceedings/sec99/full_papers/whitten/whitten_html/index.html)]
 
 * Scott, James C. “Seeing Like a State” - Chapter 9 [[https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf)] 
 
@@ -177,7 +177,7 @@ Citizen Clinic “Rules of the Road”
 
 * Micah Lee. “It’s Impossible To Prove Your Laptop Hasn’t Been Hacked. I Spent Two Years Finding Out.” [[https://theintercept.com/2018/04/28/computer-malware-tampering/](https://theintercept.com/2018/04/28/computer-malware-tampering/)]
 
-* Explore Mitre’s PRE-ATT&CK Wiki. [[https://attack.mitre.org/pre-attack/index.php/Main_Page](https://attack.mitre.org/pre-attack/index.php/Main_Page)]
+* Explore Mitre’s PRE-ATT&CK Techniques. [[https://attack.mitre.org/techniques/pre/](https://attack.mitre.org/techniques/pre/)]
 
 * Explore Mitre’s ATT&CK Wiki. [[https://attack.mitre.org/wiki/Main_Page](https://attack.mitre.org/wiki/Main_Page)]
 

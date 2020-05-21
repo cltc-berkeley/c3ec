@@ -1,6 +1,6 @@
 ### **Lesson Modules.**
 
-**_(In Progress)_** Citizen Clinic modules consist of lectures, in-class activities, and homework assignments. These modules will be described, linked, and/or outlined below. Stay tuned for new modules added regularly. 
+Citizen Clinic modules consist of lectures, in-class activities, and homework assignments. These modules will be described, linked, and/or outlined below. Stay tuned for new modules added regularly! 
 
 1) Introduction to Public Interest Cybersecurity
 
@@ -34,4 +34,4 @@
 
 16) Psychosocial Resilience
 
-17) Beyond Hacking: Harmful Information (Misinformation and Harassment
+17) Beyond Hacking: Harmful Information (Misinformation and Harassment)

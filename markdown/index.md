@@ -34,5 +34,5 @@ All organizations need a basic level of cybersecurity, so whether or not you thi
 [<img style="float: right;"src=https://cltc.berkeley.edu/wp-content/uploads/2019/07/cltc-logo-hi-res-300x142.png width=150x>](https://cltc.berkeley.edu/)
 Citizen Clinic is a program of the Center for Long-Term Cybersecurity Learn more at https://cltc.berkeley.edu/.
 
-**License for written content: [CC-BY](https://creativecommons.org/licenses/by/3.0/)**
+License for written content: **[CC-BY](https://creativecommons.org/licenses/by/3.0/)**
 See original sources for license information of any images and linked publications.

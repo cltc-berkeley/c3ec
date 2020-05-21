@@ -42,7 +42,7 @@ Introduction to Public Interest Cybersecurity: _We will introduce the content an
 
 * Shannon Vallor, The Markkula Center for Applied Ethics, “An Introduction to Cybersecurity Ethics” pages 7 - 21 & 48 - 52. [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)]
 
-* Sandro Contento, Toronto Star, “How these Toronto sleuths are exposing the world’s digital spies while risking their own lives” [[https://docs.google.com/document/d/1WXpoDoHfht87nL0xxnFBxFAGuQaJ00RWKcLS2r9zaBs/edit?usp=sharing](https://docs.google.com/document/d/1WXpoDoHfht87nL0xxnFBxFAGuQaJ00RWKcLS2r9zaBs/edit?usp=sharing)] 
+* Sandro Contenta, Toronto Star, “How these Toronto sleuths are exposing the world’s digital spies while risking their own lives” [[https://www.thestar.com/news/canada/2019/12/13/from-a-tower-in-toronto-they-watch-the-watchers-how-citizen-lab-sleuths-are-exposing-the-worlds-digital-spies-while-risking-their-own-lives.html](https://www.thestar.com/news/canada/2019/12/13/from-a-tower-in-toronto-they-watch-the-watchers-how-citizen-lab-sleuths-are-exposing-the-worlds-digital-spies-while-risking-their-own-lives.html)] 
 
 * Access Now. “Spyware in Mexico: an interview with Luis Fernando García of R3D Mexico” [[https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/](https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/)]
 
