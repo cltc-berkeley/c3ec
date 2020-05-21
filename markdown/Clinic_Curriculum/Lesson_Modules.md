@@ -1,4 +1,4 @@
-# **Lesson Modules.**
+# Lesson Modules
 
 Citizen Clinic modules consist of lectures, in-class activities, and homework assignments. These modules will be described, linked, and/or outlined below. Stay tuned for new modules added regularly! 
 
