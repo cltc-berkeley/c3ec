@@ -16,7 +16,7 @@ nav:
     - Home: index.md
     - Curriculum:
         - Lesson Modules: 
-          - Introduction: Clinic_Curriculum/Lesson_Modules.md
+          - Index: Clinic_Curriculum/Lesson_Modules.md
           - Code of Conduct & Ethics: 
             - Ethics Overview: Clinic_Curriculum/Modules/Ethics/Ethics.md
             - Code of Conduct: Clinic_Curriculum/Modules/Ethics/Student_Code_of_Conduct.md
@@ -30,8 +30,8 @@ nav:
 #          - Harmful Information (Misinformation and Harassment): 
 #            - Harmful Information Overview: Clinic_Curriculum/Modules/Harmful_Information/Harmful_Information.md
 #            - Mitigation Framework: Clinic_Curriculum/Modules/Harmful_Information/Mitigation_Framework.md
-        - Entire Syllabus: 
-          - Spring 2020 (Current): Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
+        - Past Syllabi: 
+          - Spring 2020: Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
           - Fall 2019: Clinic_Curriculum/Clinic_Syllabus_Fall_2019.md
           - Spring 2019: Clinic_Curriculum/Clinic_Syllabus_Spring_2019.md
           - Fall 2018: Clinic_Curriculum/Clinic_Syllabus_Fall_2018.md
