@@ -6,13 +6,13 @@ ___
 
 ## A Voting Rights Organization
 
-**The Challenge:** In the run up to the 2020 primary election, a volunteer-led, U.S.-based voting rights organization had increasing concerns about the digital safety of their team members and the integrity of their data. In particular, the organization was concerned that online disinformation campaigns could hamper its efforts to ensure a fair and open democracy. 
+!!! tip "**The Challenge**"
+	In the run up to the 2020 primary election, a volunteer-led, U.S.-based voting rights organization had increasing concerns about the digital safety of their team members and the integrity of their data. In particular, the organization was concerned that online disinformation campaigns could hamper its efforts to ensure a fair and open democracy. 
 
-**What Citizen Clinic Did:** A team of students from Citizen Clinic, led by mentors from UC Berkeley and partner organizations, reached out to help the organization secure its online systems to be more resistant to cyberattacks.
-
-They began by conducting a large-scale audit to understand the organization’s cybersecurity challenges and the threats their team members faced. This audit exposed that the organization had no formalized structures in place for securing online accounts and responding to security incidents. More worryingly, many of the organization’s online accounts were accessed by multiple volunteers through shared logins. 
-
-The Citizen Clinic student team identified the shared accounts as the greatest immediate risk, and focused their efforts on moving the organization toward a more robust, secure account system. 
+!!! tip "**What Citizen Clinic Did**"
+	A team of students from Citizen Clinic, led by mentors from UC Berkeley and partner organizations, reached out to help the organization secure its online systems to be more resistant to cyberattacks.<br><br>
+	They began by conducting a large-scale audit to understand the organization’s cybersecurity challenges and the threats their team members faced. This audit exposed that the organization had no formalized structures in place for securing online accounts and responding to security incidents. More worryingly, many of the organization’s online accounts were accessed by multiple volunteers through shared logins.<br><br>
+	The Citizen Clinic student team identified the shared accounts as the greatest immediate risk, and focused their efforts on moving the organization toward a more robust, secure account system. 
 
 **Outcome:** As a result of Citizen Clinic’s recommendations, the organization has successfully created an account structure through which login credentials do not have to be shared among volunteers, which will make it easier to implement further security measures in the future. With a plan for improving its cybersecurity in place, the organization can more confidently carry out its mission to protect voter rights.
 
