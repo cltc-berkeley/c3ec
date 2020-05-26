@@ -1,7 +1,7 @@
 _Please Note: Cybersecurity is a rapidly evolving field. This document was last updated on February 2, 2019. Some of the technical guidance within this document may change, and some of the risks defined may increase or decrease in their potential likelihood or impact._
 
 # Appendix B: Implementation Guidance 
-While many of the controls described in this guide are simple, that does not mean it is easy to decide where (or how strictly) to implement them in an organization. This section provides additional resources and guidance to help identify critical account, priority devices, and other information to help prioritize where an organization focuses its limited time and attention. 
+While many of the controls described in this guide are simple, that does not mean it is easy to decide where (or how strictly) to implement them in an organization. This section provides additional resources and guidance to help identify critical accounts, priority devices, and other information to help prioritize where an organization focuses its limited time and attention. 
 
 ## Strong Authentication
 
@@ -9,7 +9,7 @@ While many of the controls described in this guide are simple, that does not mea
 
 [Set policy for this control here.](4-Appendix_A_Building_a_Security_Policy.md#strong-authentication)
 
-The below chart is a basic way to determine which accounts should be considered "critical" to an organization. By rating the accounts and mapping them to the staff with access, organization can determine which staff members need to prioritize enabling strong authentication.
+The below chart is a basic way to determine which accounts should be considered "critical" to an organization. By rating the accounts and mapping them to the staff with access, organizations can determine which staff members need to prioritize enabling strong authentication.
 
 <table>
   <tr>
@@ -157,7 +157,7 @@ It is likely that data - both sensitive and insensitive - is currently spread ac
     *   **Apple Numbers:** .number
     *   **Apple Keynote:** .key, .keynote
     *   An exhaustive list of other file formats and their associated applications can be found here: [https://en.wikipedia.org/wiki/List_of_file_formats](https://en.wikipedia.org/wiki/List_of_file_formats). 
-*   **Temporary folders and other hidden locations:** Some operating systems will have "temp" folders for a number of applications, such as Office, that save in-progress documents. While it is possible to find these folder, they can often be hidden and rarely contain complete documents or files that you'll want to back up. The best way to ensure a device is clean of legacy files is to reinstall its operating system. Newer devices make this refresh easy - but many will ask if you'd like to keep an archive of the old files. This is fine, but make sure you remove that archive and store it somewhere safe - like on  a USB drive not connected to the internet. 
+*   **Temporary folders and other hidden locations:** Some operating systems will have "temp" folders for a number of applications, such as Office, that save in-progress documents. While it is possible to find these folders, they can often be hidden and rarely contain complete documents or files that you'll want to back up. The best way to ensure a device is clean of legacy files is to reinstall its operating system. Newer devices make this refresh easy - but many will ask if you'd like to keep an archive of the old files. This is fine, but make sure you remove that archive and store it somewhere safe - like on  a USB drive not connected to the internet. 
 
 >**WARNING:** Resetting a device to factory settings or reinstalling its operating system will purge all data and applications from the device. Make sure any information you want to keep is backed up in the cloud or on an external drive before resetting your device.
 
@@ -179,8 +179,8 @@ For most websites, enabling HTTPS will not be a giant task - but it does require
 
 Other guides to enabling HTTPS can be found here:
 
-*   **Let's Encrypt **is a free source of the certificates needed to offer HTTPS on your website. Their documentation is generally geared toward more technical users: [https://letsencrypt.org/](https://letsencrypt.org/) 
-*   **Facebook **has provided a quick guide on how and why to enable HTTPs, with links to a number of additional resources: [https://developers.facebook.com/docs/facebook-login/web/enabling-https](https://developers.facebook.com/docs/facebook-login/web/enabling-https) 
+*   **Let's Encrypt** is a free source of the certificates needed to offer HTTPS on your website. Their documentation is generally geared toward more technical users: [https://letsencrypt.org/](https://letsencrypt.org/) 
+*   **Facebook** has provided a quick guide on how and why to enable HTTPs, with links to a number of additional resources: [https://developers.facebook.com/docs/facebook-login/web/enabling-https](https://developers.facebook.com/docs/facebook-login/web/enabling-https) 
 
 Additional information on how to enable HTTPS in common site hosting and design services can be found here: 
 
@@ -298,20 +298,20 @@ Not all documents or directories warrant constant monitoring for access permissi
 *   **Documents of critical importance to organizational operations:** Strategic plans, budgets, funding agreements or plans.
 *   **Documents containing personal or sensitive information:** HR files, donor or outreach lists with contact information, payment records, or any data that might illustrate information about individuals' behavior or preferences
 *   **Files exposed to external viewers:** Documents shared outside of your organization for purposes of external review or collaboration. 
-*   **Files accessed by departing staff:** When staff leave, they are unlikely to resolve any outstanding access permissions issues. For example: owners of documents may have allowed a personal account to access an organization-owned document. Once their organization account is disabled, they may be able to retain access to that document if their personal account has opened it even once. They may have also shared documents and directories outside the organization in  away that other staff are unaware of. When staff leave, it is important to review their files for permissions issues - or to archive all their documents in a new directory where the permissions can be holistically altered. 
+*   **Files accessed by departing staff:** When staff leave, they are unlikely to resolve any outstanding access permissions issues. For example: owners of documents may have allowed a personal account to access an organization-owned document. Once their organization account is disabled, they may be able to retain access to that document if their personal account has opened it even once. They may have also shared documents and directories outside the organization in a way that other staff are unaware of. When staff leave, it is important to review their files for permissions issues - or to archive all their documents in a new directory where the permissions can be holistically altered. 
 
 
 ### Enabling Device Encryption 
 
 **Windows Devices**
 
-Information on how to turn on device encryption in Windows 10 devices can be foud here: [https://support.microsoft.com/en-us/help/4028713/windows-10-turn-on-device-encryption](https://support.microsoft.com/en-us/help/4028713/windows-10-turn-on-device-encryption) 
+Information on how to turn on device encryption in Windows 10 devices can be found here: [https://support.microsoft.com/en-us/help/4028713/windows-10-turn-on-device-encryption](https://support.microsoft.com/en-us/help/4028713/windows-10-turn-on-device-encryption) 
 
 **Note:** This feature is not available on Windows Home edition, requires at least Windows Professional license.
 
 **Apple Devices**
 
-FileVault is a disk encryption feature built in to Mac OS X. FileVault provides 128bit AES encryption with a 256 bit key to encrypt the disk and all files located on the drive. This is a very strong encryption mechanism. Strong encryption helps to prevent unauthorized access to the Mac since the disk and all file contents are encrypted, a requiring the  password must be entered on boot before the computer, data, and files can be accessed.
+FileVault is a disk encryption feature built in to Mac OS X. FileVault provides 128bit AES encryption with a 256 bit key to encrypt the disk and all files located on the drive. This is a very strong encryption mechanism. Strong encryption helps to prevent unauthorized access to the Mac since the disk and all file contents are encrypted, requiring that the password be entered on boot before the computer, data, and files can be accessed.
 
 The following link provides a step- by- step instructions on how to enable FileVault: [https://support.apple.com/en-us/HT204837](https://support.apple.com/en-us/HT204837) 
 

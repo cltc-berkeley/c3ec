@@ -40,7 +40,7 @@ Each organization should also have a policy for device turnover before a device 
 >* [Microsoft System Center Operations Manager](https://docs.microsoft.com/en-us/system-center/scom/deploy-overview?view=sc-om-1807)
 >* [Splunk](https://www.splunk.com/)
 >
->**Mobile device management systems (including client computer management):** These systems can manage most modern mobile devices and client computers. The user interface is friendly and easier to use compared to server managements system. However, they require more time and attention than server management systems. Examples include:
+>**Mobile device management systems (including client computer management):** These systems can manage most modern mobile devices and client computers. The user interface is friendly and easier to use compared to server management systems. However, they require more time and attention than server management systems. Examples include:
 >
 >* [VMWare AirWatch](https://www.air-watch.com/)
 >* [Microsoft Intune](https://www.microsoft.com/en-us/cloud-platform/microsoft-intune)
@@ -54,7 +54,7 @@ Travelling – whether domestically or abroad – can create unique risks for an
 
 The most likely cybersecurity risk while travelling is an increased chance of device loss or theft. Therefore, at a basic level, employees should only travel with devices that utilize strong full-disk or device-level encryption so that in the event of loss, an attacker will have a difficult time accessing the information. 
 
-Some organizations provide staff with special "travel" devices that have limited capabilities. While this can limit an organization's exposure to risk, configuring devices for travel and wiping them after travel can be time consuming. An organization should always consider what work the employee will need to do while travelling: will they need access to sensitive data, and is that data stored on their device? How regularly will they need to email and communicate with their team? In general, organizations should not travel with devices that hold sensitive information, as loss or theft of these devices could have an outsized impact on an organization. If an employee has limited needs while traveling, like basic access to email, organizations can minimize risk by limiting the number of devices an employees can takes with them (for example, allowing them to take only a phone, as opposed to a phone and a laptop).
+Some organizations provide staff with special "travel" devices that have limited capabilities. While this can limit an organization's exposure to risk, configuring devices for travel and wiping them after travel can be time consuming. An organization should always consider what work the employee will need to do while travelling: will they need access to sensitive data, and is that data stored on their device? How regularly will they need to email and communicate with their team? In general, organizations should not travel with devices that hold sensitive information, as loss or theft of these devices could have an outsized impact on an organization. If an employee has limited needs while traveling, like basic access to email, organizations can minimize risk by limiting the number of devices an employee can take with them (for example, allowing them to take only a phone, as opposed to a phone and a laptop).
 
 Below is a summary of policies to help employees keep their devices safe while travelling:
 
@@ -134,7 +134,7 @@ It is not always easy to tell if a device is infected, but sometimes it can beco
     *   Norton AntiVirus: [https://support.norton.com/sp/en/us/home/current/solutions/v13139256_ns_retail_en_us](https://support.norton.com/sp/en/us/home/current/solutions/v13139256_ns_retail_en_us) 
     *   McAfee AntiVirus: [https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS101105](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS101105) 
 3.  If the device cannot be recovered or contains sensitive information, document the information as described above as if the device had been lost or stolen, and contact your General Counsel.
-4.  If the device is not working properly, or you are unable to run AntiVirus software (as would be the case with Ransomware), attempt to turn off the computer. At this stage, you may need the consult a professional to restore, or refresh your operating system. 
+4.  If the device is not working properly, or you are unable to run AntiVirus software (as would be the case with Ransomware), attempt to turn off the computer. At this stage, you may need to consult a professional to restore, or refresh your operating system. 
 5.  If the malware is removed, update all software. Consider changing all important passwords that may have been saved on that computer and enable MFA on any accounts that may have been compromised.
 
 _In the event of a data breach:_
@@ -162,4 +162,4 @@ Every organization has a different level of comfort with social media. By and la
 
 LROs may take donations via credit cards online. There are many legal requirements for processing payment cards, and the general counsel should be an organization's first stop for understanding the specific regulatory expectations applicable to their context. In general, organizations should avoid processing payments on their own. Many web services make this process easy – including PayPal, Square, and Venmo – by providing plugins or other website add-ons that give visitors a simple way to send donations or other payments to an organization.
 
-**_Low-risk organization should avoid collecting and storing payment card information. Organizations may be required to maintain a record of donations or other transactions, but should always consult legal counsel about the level of detail required. _**
+**_Low-risk organizations should avoid collecting and storing payment card information. Organizations may be required to maintain a record of donations or other transactions, but should always consult legal counsel about the level of detail required. _**

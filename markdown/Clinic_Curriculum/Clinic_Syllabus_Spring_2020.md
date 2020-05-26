@@ -61,7 +61,7 @@ Introduction to Public Interest Cybersecurity: _We will introduce the content an
 **Monday 1/27:**
 
 
-Ethics and “Rules of the Road” - Steve
+Ethics and “Rules of the Road”
 
 * Citizen Clinic Code of Conduct. 
 
@@ -73,7 +73,7 @@ Ethics and “Rules of the Road” - Steve
 
 **Wednesday 1/29:**
 
-Old School INFOSEC: Basic (& Some Outdated) Controls - Steve & Sean
+Old School INFOSEC: Basic (& Some Outdated) Controls
 
 
 Clinic Communications Setup - Steve
@@ -112,13 +112,13 @@ Partner Overview - Sean
 **Monday 2/3:**
 
 
- Threat Modeling & Bounding Risk Assessments - Sean 
+ Threat Modeling & Bounding Risk Assessments
 
 
 **Wednesday 2/5:**
 
 
-Contextual & Capacity Research - Steve
+Contextual & Capacity Research
 
 * SAFETAG
 
@@ -161,10 +161,10 @@ Digital Surveillance of PVOs: The Threat Landscape - Bill Marczak, Citizen Lab, 
 
 **Wednesday 2/12:**
 
-Contextual Research Recap & Information Gathering - Steve
+Contextual Research Recap & Information Gathering
 
 
-Problem Diagnosis and Reframing - Sean
+Problem Diagnosis and Reframing
 
 
 **Assignments:**
@@ -203,7 +203,7 @@ Problem Diagnosis and Reframing - Sean
 **Wednesday 2/19:**
 
 
-Open Source Research Methods, Safety, and Tools - Steve
+Open Source Research Methods, Safety, and Tools
 
 * Virtual Networks: VPNs vs TOR
 
@@ -239,10 +239,10 @@ Open Source Research Methods, Safety, and Tools - Steve
 **Monday 2/24:**
 
 
-Adversary Persona Development - Steve & Sean (_Adversary Cards_)
+Adversary Persona Development (_Adversary Cards_)
 
 
-Threat Scenario Development - Sean & Steve (_Resource Game_)
+Threat Scenario Development (_Resource Game_)
 
 
 **Wednesday 2/26:**
@@ -269,7 +269,7 @@ Changing Behaviors within PVOs - Steve Weber, Professor, School of Information &
 **Monday 3/2:**
 
 
-Social Engineering (Phishing Sim Demonstration) - Steve
+Social Engineering (Phishing Sim Demonstration)
 
 
 **Wednesday 3/4:**
@@ -367,13 +367,13 @@ Psychosocial Resilience, Andrea Lampros & Gisela Perez de Acha, Human Rights Cen
 **Monday, 3/30:**
 
 
-Organizational Risks of Harmful Information - Steve
+Organizational Risks of Harmful Information
 
 
 **Wednesday, 4/1:**
 
 
-Mitigations for the Risks of Harmful Information - Steve
+Mitigations for the Risks of Harmful Information
 
 
 ### **Week 11: Clinic Work**

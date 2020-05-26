@@ -27,7 +27,7 @@ Person(s) responsible for implementing this policy:
 (*Name*)
 ***
 
-This individual is responsible for ensuring multifactor authentication is enabled on all critical accounts, and will serve as a resource for other staff who need assistance with MFA set up or recovery. This individual is also responsible for ensuring that back up MFA codes for organization-owned accounts are stored in a safe, secure place - such as an external USB drive in a locked cabinet. 
+This individual is responsible for ensuring multifactor authentication is enabled on all critical accounts, and will serve as a resource for other staff who need assistance with MFA set up or recovery. This individual is also responsible for ensuring that backup MFA codes for organization-owned accounts are stored in a safe, secure place - such as an external USB drive in a locked cabinet. 
 
 What accounts are considered critical?
 
