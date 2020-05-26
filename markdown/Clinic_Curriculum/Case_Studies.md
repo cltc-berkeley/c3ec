@@ -6,32 +6,33 @@ ___
 
 ## A Voting Rights Organization
 
-!!! tip "**The Challenge**"
+!!! danger "**The Challenge**"
 	In the run up to the 2020 primary election, a volunteer-led, U.S.-based voting rights organization had increasing concerns about the digital safety of their team members and the integrity of their data. In particular, the organization was concerned that online disinformation campaigns could hamper its efforts to ensure a fair and open democracy. 
 
-!!! tip "**What Citizen Clinic Did**"
+!!! abstract "**What Citizen Clinic Did**"
 	A team of students from Citizen Clinic, led by mentors from UC Berkeley and partner organizations, reached out to help the organization secure its online systems to be more resistant to cyberattacks.<br><br>
 	They began by conducting a large-scale audit to understand the organization’s cybersecurity challenges and the threats their team members faced. This audit exposed that the organization had no formalized structures in place for securing online accounts and responding to security incidents. More worryingly, many of the organization’s online accounts were accessed by multiple volunteers through shared logins.<br><br>
 	The Citizen Clinic student team identified the shared accounts as the greatest immediate risk, and focused their efforts on moving the organization toward a more robust, secure account system. 
 
-**Outcome:** As a result of Citizen Clinic’s recommendations, the organization has successfully created an account structure through which login credentials do not have to be shared among volunteers, which will make it easier to implement further security measures in the future. With a plan for improving its cybersecurity in place, the organization can more confidently carry out its mission to protect voter rights.
+!!! success "**Outcome**" 
+	As a result of Citizen Clinic’s recommendations, the organization has successfully created an account structure through which login credentials do not have to be shared among volunteers, which will make it easier to implement further security measures in the future. With a plan for improving its cybersecurity in place, the organization can more confidently carry out its mission to protect voter rights.
 
 ___
 
 
 ## A Regional Abortion Fund
 
-**The Challenge:** A regional abortion fund dedicated to supporting the reproductive rights of Americans faced diverse challenges online, including online harassment from bots and trolls, threats of data breaches to reveal patient, provider, and donor information, and fraudulent websites that promote fake clinics or scams to collect donations.
+!!! danger "**The Challenge**"
+	A regional abortion fund dedicated to supporting the reproductive rights of Americans faced diverse challenges online, including online harassment from bots and trolls, threats of data breaches to reveal patient, provider, and donor information, and fraudulent websites that promote fake clinics or scams to collect donations.
 
-**What Citizen Clinic Did:** The Citizen Clinic student team performed an audit of the client’s information storage and communication systems, as well as a comprehensive risk assessment that led to the identification of key organizational assets and likely threat scenarios. As part of this process, the team met with different people in the organization and rigorously documented the organization’s information workflow. 
+!!! abstract "**What Citizen Clinic Did**"
+	The Citizen Clinic student team performed an audit of the client’s information storage and communication systems, as well as a comprehensive risk assessment that led to the identification of key organizational assets and likely threat scenarios. As part of this process, the team met with different people in the organization and rigorously documented the organization’s information workflow. <br><br>
+	The students created a series of spreadsheets to help organize this information, which ultimately helped identify which systems were most vulnerable and contained sensitive information. This risk assessment revealed a major vulnerability in a document storage system that contained both financial information and patient data. In addition, vulnerabilities were found in the organization’s email system, as well as in an online form and data collection tool.<br><br>
+	The Citizen Clinic’s student team also upgraded some of the organization’s key digital business systems, which had previously been too difficult to safely and efficiently use. They also completed a migration of assets to a more secure data storage platform; re-organized a folder structure to better manage access permissions; and enabled multi-factor authentication for the organization’s new accounts.
 
-The students created a series of spreadsheets to help organize this information, which ultimately helped identify which systems were most vulnerable and contained sensitive information. This risk assessment revealed a major vulnerability in a document storage system that contained both financial information and patient data. In addition, vulnerabilities were found in the organization’s email system, as well as in an online form and data collection tool.
-
-The Citizen Clinic’s student team also upgraded some of the organization’s key digital business systems, which had previously been too difficult to safely and efficiently use. They also completed a migration of assets to a more secure data storage platform; re-organized a folder structure to better manage access permissions; and enabled multi-factor authentication for the organization’s new accounts.
-
-**Outcomes:** The team provided the client with a comprehensive report that included a risk assessment, explanation of deliverables, and original context research for the project. They created security policies and information workflows for different roles within the organization — including board members, staff, and volunteers — and drew an outline of each member’s access to the digital storage system and how each member can manage their permissions optimally. Working with the fund’s interim executive director, the team delivered a comprehensive security training that introduced members to the threats they face, the new storage system, and the security policies and general best practices to follow on a daily basis to keep the organization secure. 
-
-“We used our training and policies to present the ideas from our threat model to the staff of the organization and to begin an organizational conversation about information security,” one of the students explained. “Cybersecurity is not all tech. It involves strategic thinking and prioritization of threats, and a strategic search for creative end solutions that are simple and practical enough for clients to implement.”
+!!! success "**Outcome**"
+	The team provided the client with a comprehensive report that included a risk assessment, explanation of deliverables, and original context research for the project. They created security policies and information workflows for different roles within the organization — including board members, staff, and volunteers — and drew an outline of each member’s access to the digital storage system and how each member can manage their permissions optimally. Working with the fund’s interim executive director, the team delivered a comprehensive security training that introduced members to the threats they face, the new storage system, and the security policies and general best practices to follow on a daily basis to keep the organization secure. <br><br>
+	“We used our training and policies to present the ideas from our threat model to the staff of the organization and to begin an organizational conversation about information security,” one of the students explained. “Cybersecurity is not all tech. It involves strategic thinking and prioritization of threats, and a strategic search for creative end solutions that are simple and practical enough for clients to implement.”
 
 ___
 
