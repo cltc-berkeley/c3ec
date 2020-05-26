@@ -114,7 +114,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#setting-up-a-virtual-private-network-vpn-for-your-clinic-or-partner-organization" tabindex="1" class="md-skip">
+      <a href="#setting-up-a-virtual-private-network-vpn" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -788,6 +788,8 @@
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
+      
+    
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
         Virtual Private Network
@@ -801,13 +803,23 @@
 <nav class="md-nav md-nav--secondary">
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">Table of contents</label>
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#setting-up-a-virtual-private-network-vpn-for-your-clinic-or-partner-organization" class="md-nav__link">
-    Setting up a Virtual Private Network (VPN) for Your Clinic or Partner Organization.
+  <a href="#introduction-to-virtual-private-networks-vpns" class="md-nav__link">
+    Introduction to Virtual Private Networks (VPNs)
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#primary-option-algo-vpn" class="md-nav__link">
+    Primary Option: Algo VPN
   </a>
   
     <nav class="md-nav">
@@ -830,6 +842,25 @@
           <li class="md-nav__item">
   <a href="#vpn-user-setup-on-laptops-and-mobile-devices" class="md-nav__link">
     VPN User Setup on Laptops and Mobile devices
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#alternative-option-outline" class="md-nav__link">
+    Alternative Option: Outline
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#wrap-up" class="md-nav__link">
+    Wrap Up
   </a>
   
 </li>
@@ -1001,13 +1032,23 @@
 <nav class="md-nav md-nav--secondary">
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">Table of contents</label>
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#setting-up-a-virtual-private-network-vpn-for-your-clinic-or-partner-organization" class="md-nav__link">
-    Setting up a Virtual Private Network (VPN) for Your Clinic or Partner Organization.
+  <a href="#introduction-to-virtual-private-networks-vpns" class="md-nav__link">
+    Introduction to Virtual Private Networks (VPNs)
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#primary-option-algo-vpn" class="md-nav__link">
+    Primary Option: Algo VPN
   </a>
   
     <nav class="md-nav">
@@ -1038,6 +1079,25 @@
     </nav>
   
 </li>
+        
+          <li class="md-nav__item">
+  <a href="#alternative-option-outline" class="md-nav__link">
+    Alternative Option: Outline
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#wrap-up" class="md-nav__link">
+    Wrap Up
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
       
       
       
@@ -1058,28 +1118,26 @@
                   <a href="https://github.com/cltc-berkeley/resources-beta/tree/master/markdown/Clinic_Infrastructure/VPN.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                  <h1>Virtual Private Network</h1>
-                
-                <p><em>Last Updated: 27 April 2020</em></p>
-<h3 id="setting-up-a-virtual-private-network-vpn-for-your-clinic-or-partner-organization"><strong>Setting up a Virtual Private Network (VPN) for Your Clinic or Partner Organization.</strong></h3>
-<p>We've included a phased approach for students to practice setting up the Algo VPN,  </p>
-<p>The process can be broken into three main phases.</p>
-<p>As students go through the steps, they should keep track of things that went well, things that were difficult/went poorly/pain points, and ideas /opportunities for improving the process. They can use the tables below each section. Also, they can flag any “make sure you do this” thoughts that they have and add them to the short list of instructions in each phase.</p>
+                <h1 id="setting-up-a-virtual-private-network-vpn"><strong>Setting up a Virtual Private Network (VPN)</strong></h1>
+<h2 id="introduction-to-virtual-private-networks-vpns">Introduction to Virtual Private Networks (VPNs)</h2>
+<p>Virtual Private Networks can be an important part to protecting your students' privacy and the security of your client's data. What is a Virtual Private Network or VPN? Read the Center for Democracy &amp; Technology's <a href="https://cdt.org/insights/techsplanations-part-5-virtual-private-networks/">VPN Techplanation</a>.</p>
+<p>Below we describe a phased approach for students to practice setting up a virtual private network. The process can be broken into three main phases that allow students and staff to explore the advantages and disadvantages of its installation and management.</p>
+<p>As students go through the steps, they should keep track of things that went well, things that were difficult or pain points, and ideas/opportunities for improving the process. They can use the tables below each section. Also, they can flag any “make sure you do this” thoughts that they have and add them to the short list of instructions in each phase.</p>
+<h3 id="primary-option-algo-vpn">Primary Option: Algo VPN</h3>
+<p>The first option to explore is Algo, an open source VPN project supported by Trail of Bits (<a href="https://www.trailofbits.com/">https://www.trailofbits.com/</a>).</p>
 <h4 id="installation-and-dependencies">Installation and Dependencies</h4>
 <ul>
-<li>Follow instructions: <a href="https://github.com/trailofbits/algo#deploy-the-algo-server">https://github.com/trailofbits/algo#deploy-the-algo-server</a></li>
-<li>Install VPN Builder on local machine.</li>
-<li>It’s possible another organization or tech expert needs to help you do this.</li>
+<li>Follow these instructions: <a href="https://github.com/trailofbits/algo#deploy-the-algo-server">https://github.com/trailofbits/algo#deploy-the-algo-server</a></li>
+<li>Install the VPN Builder on your local machine.</li>
+<li>This is the most complicated step and it’s possible another organization or tech expert needs to help you do this.</li>
 </ul>
 <table>
   <tr>
-   <td>Name
+   <td>Strengths 
    </td>
-   <td>Good things (Roses)
+   <td>Weaknesses
    </td>
-   <td>Bad things (Thorns)
-   </td>
-   <td>Opportunities (Buds)
+   <td>Opportunities
    </td>
   </tr>
   <tr>
@@ -1089,12 +1147,16 @@
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td>
    </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+    <tr>
    <td>
    </td>
    <td>
@@ -1106,30 +1168,20 @@
 
 <h4 id="access-and-deployment-to-aws">Access and Deployment to AWS</h4>
 <ul>
-<li>Follow instructions: <a href="https://github.com/trailofbits/algo/blob/master/docs/cloud-amazon-ec2.md">https://github.com/trailofbits/algo/blob/master/docs/cloud-amazon-ec2.md</a></li>
-<li>Setup Amazon Web Service account for hosting the VPN on EC2. </li>
-<li>Create an “IAM” user such as “Algo VPN” with appropriate permissions.</li>
+<li>Follow these instructions: <a href="https://github.com/trailofbits/algo/blob/master/docs/cloud-amazon-ec2.md">https://github.com/trailofbits/algo/blob/master/docs/cloud-amazon-ec2.md</a></li>
+<li>Setup an Amazon Web Service account for hosting the VPN on EC2.</li>
+<li>Create an “IAM” user on AWS named something like “Algo VPN” with appropriate permissions. Make sure to use an IAM user with an acceptable policy attached (see <a href="https://github.com/trailofbits/algo/blob/master/docs/deploy-from-ansible.md">https://github.com/trailofbits/algo/blob/master/docs/deploy-from-ansible.md</a>).</li>
 <li>Run the VPN builder, select AWS EC2 and input the public/secret key for the “Algo VPN” account: </li>
+<li>Enter your aws_access_key (<a href="https://docs.aws.amazon.com/general/latest/gr/managing-aws-access-keys.html">https://docs.aws.amazon.com/general/latest/gr/managing-aws-access-keys.html</a>): <em>[AKIA...]:</em></li>
+<li>Enter your aws_secret_key (<a href="https://docs.aws.amazon.com/general/latest/gr/managing-aws-access-keys.html">https://docs.aws.amazon.com/general/latest/gr/managing-aws-access-keys.html</a>): <em>[ABCD...]:</em></li>
 </ul>
-<pre><code>    Enter your aws_access_key (http://docs.aws.amazon.com/general/latest/gr/managing-aws-access-keys.html)
-    Note: Make sure to use an IAM user with an acceptable policy attached (see https://github.com/trailofbits/algo/blob/master/docs/deploy-from-ansible.md).
-    [pasted values will not be displayed]
-    [AKIA...]: 
-
-    Enter your aws_secret_key (http://docs.aws.amazon.com/general/latest/gr/managing-aws-access-keys.html)
-    [pasted values will not be displayed]
-    [ABCD...]:
-</code></pre>
-
 <table>
   <tr>
-   <td>Name
+   <td>Strengths 
    </td>
-   <td>Good things (Roses)
+   <td>Weaknesses
    </td>
-   <td>Bad things (Thorns)
-   </td>
-   <td>Opportunities (Buds)
+   <td>Opportunities
    </td>
   </tr>
   <tr>
@@ -1139,12 +1191,16 @@
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td>
    </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+    <tr>
    <td>
    </td>
    <td>
@@ -1156,21 +1212,19 @@
 
 <h4 id="vpn-user-setup-on-laptops-and-mobile-devices">VPN User Setup on Laptops and Mobile devices</h4>
 <ul>
-<li>Follow instructions: <a href="https://github.com/trailofbits/algo#configure-the-vpn-clients">https://github.com/trailofbits/algo#configure-the-vpn-clients</a></li>
-<li>Users download Wireguard to their phones and laptops.</li>
-<li>Share the setup configurations with users.</li>
+<li>Follow these instructions: <a href="https://github.com/trailofbits/algo#configure-the-vpn-clients">https://github.com/trailofbits/algo#configure-the-vpn-clients</a></li>
+<li>Users will download Wireguard to their phones and laptops.</li>
+<li>Managers will share the setup configurations with users.</li>
 <li>Users finish setting up the VPN by importing config file or scanning the QR code.</li>
-<li>If WireGuard doesn’t work, users can use another setup method, but will need more instructions.</li>
+<li>If WireGuard doesn’t work, users can use another setup method, but they will need more instructions.</li>
 </ul>
 <table>
   <tr>
-   <td>Name
+   <td>Strengths 
    </td>
-   <td>Good things (Roses)
+   <td>Weaknesses
    </td>
-   <td>Bad things (Thorns)
-   </td>
-   <td>Opportunities (Buds)
+   <td>Opportunities
    </td>
   </tr>
   <tr>
@@ -1180,12 +1234,16 @@
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td>
    </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+    <tr>
    <td>
    </td>
    <td>
@@ -1194,6 +1252,17 @@
    </td>
   </tr>
 </table>
+
+<h3 id="alternative-option-outline">Alternative Option: Outline</h3>
+<p>Beyond using Algo, students can also try setting up Outline by Jigsaw (a Alphabet/Google initiative) to provide "a safer way for news organizations and journalists to access the internet." Visit <a href="https://getoutline.org/">https://getoutline.org/</a>.</p>
+<p>Follow a similar phased setup approach. </p>
+<h3 id="wrap-up">Wrap Up</h3>
+<p>Consider the following questions:
+* Including security and usability, what other values should be considered when selecting a VPN?
+* What are the advantages and disadvantages of using Algo versus Outline? Consider your threat model.
+* What are the advantages and disadvantages of using either Algo or Outline versus a commercial VPN provider? Consider your threat model.
+* What contextual factors (PESTLE) may influence selecting one solution over another?</p>
+<p>Document your findings and present your recommendations based on your experiences and the answers to the above questions.</p>
                 
                   
                 

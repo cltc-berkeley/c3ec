@@ -489,7 +489,7 @@ Assignments will largely be evaluated on the following rubric that emphasizes (1
    </td>
    <td>Writing is mostly understandable; minor writing/format errors (typos), mostly appropriate tone / design
    </td>
-   <td>“partner-ready,” clear and concise writing, almost no writing/formatting errors, appropriate tone & design for its audience
+   <td>“Partner-ready,” clear and concise writing, almost no writing/formatting errors, appropriate tone & design for its audience
    </td>
   </tr>
   <tr>
@@ -529,7 +529,7 @@ We want students to be able to discuss and share their experience in the course 
 
 **4. Participation - 10%** 
 
-We consider “participation” in three major components: participating in regular class discussions, participating in weekly mentor meetings, and participating in team & partner meeting outside of class hours.
+We consider “participation” in three major components: participating in regular class discussions, participating in weekly mentor meetings, and participating in team & partner meetings outside of class hours.
 
 
 

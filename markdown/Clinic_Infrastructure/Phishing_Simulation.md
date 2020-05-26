@@ -1,6 +1,4 @@
-_Last Updated: 27 April 2020_
-
-### **How to Setup Phishing Simulations for your Clinic or Lab.**
+### **Setting up a Phishing Simulation**
 
 ## Introduction to Phishing
 
@@ -96,7 +94,7 @@ If our goal is to conduct generalizable research, we should additionally conside
 *   Should I get informed consent ahead of time?
 *   How should I debrief the participants?
 
-Table 1, shown below, is from a 2018 CHI paper provides an overview of previous research design for phishing. Since they were interested in understanding how people who respond to different kinds of training material when shown after they have clicked on the phishing link, they did not get informed consent ahead of time. In this situation the debrief becomes very important as is having an IRB already in place [2].
+Table 1, shown below, is from a 2018 CHI paper that provides an overview of previous research design for phishing. Since they were interested in understanding how people who respond to different kinds of training material when shown after they have clicked on the phishing link, they did not get informed consent ahead of time. In this situation, the debrief becomes very important as is having an IRB already in place [2].
 
 ![alt_text](../images/Phishing1.png "Various Phishing Designs")
 
@@ -270,7 +268,7 @@ Content will utilize social engineering strategies such as urgency and may inclu
   <tr>
    <td><strong>Disclosure</strong>
    </td>
-   <td>Participants are given prior training and are informed that they will be targeted with phishing emails over the course of the next month. They are asked to be on the look out and given the option to opt out.
+   <td>Participants are given prior training and are informed that they will be targeted with phishing emails over the course of the next month. They are asked to be on the lookout and given the option to opt out.
    </td>
   </tr>
   <tr>
