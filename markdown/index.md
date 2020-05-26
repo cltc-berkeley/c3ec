@@ -1,4 +1,3 @@
-# []()
 <p align="center">
 	<img  src="https://cltc.berkeley.edu/wp-content/uploads/2018/10/citizenclinic-logo-large-1.png">
 </p>
@@ -31,7 +30,7 @@ The Citizen Clinic Cybersecurity Education Center is designed to share basic cyb
 
 
 
-Comments or ideas? [Submit an issue.](https://github.com/cltc-berkeley/resources-beta/issues)
+Comments or ideas? [Submit an issue.](https://github.com/cltc-berkeley/c3ec/issues)
 
 ___
 
