@@ -1,5 +1,3 @@
-_Last Updated: 27 April 2020_
-
 ## **Citizen Clinic Student Code of Conduct**
 
 The Citizen Clinic is an inclusive course where students, mentors, and staff should feel comfortable sharing their work, opinions, and perspectives. All of us commit to engaging with each other mindfully to ensure an environment that promotes shared learning and collaboration.

@@ -1,12 +1,12 @@
 ### ** Summary **
 
-Security does not happen in a bubble. Every security policy, setting, and tool needs to be tailored for the specific context of the organization. Particulary with non-profit organizations that work with fewer resources, under different circumstances, and for different motivations than for-profit or government entities, "industry best practice" and boilerplate policies can actually cause more harm than good. Instead, security assistance providers must consider context & capacity of their partner organizations, including the political, economic, social, technological, legal, and environmental factors both within and beyond the organization. 
+Security does not happen in a bubble. Every security policy, setting, and tool needs to be tailored for the specific context of the organization. Particularly with non-profit organizations that work with fewer resources, under different circumstances, and for different motivations than for-profit or government entities, "industry best practice" and boilerplate policies can actually cause more harm than good. Instead, security assistance providers must consider the context and capacity of their partner organizations, including political, economic, social, technological, legal, and environmental factors both within and beyond the organization. 
 
 ### ** Learning Objectives **
 
 * Understand how contextual factors can impact an organization's security
 * Understand methods to identify relevant contextual factors
-* Understand methods to identify and categorize gaps & assumptions in one's analysis
+* Understand methods to identify and categorize gaps and assumptions in one's analysis
 * Understand how to use the PESTLE framework
 
 ### ** Pre-Readings **
@@ -19,21 +19,19 @@ Security does not happen in a bubble. Every security policy, setting, and tool n
 
 * [Contextual Assessment Information Requirements](../Contextual_Assessment_Info_Reqs)
 
-* Contextual Research Source Tracker (Due Diligence Worksheet.xlsx)
-
 ### ** Activities **
 
 ** Assumptions Game (for small class size) **
 
-Each student writes an interesting "hard to guess" fact about themselves (that they feel comfortable revealing to the class) on a sticky note and gives to the instructor (or private messages the instructor). The instructor displays all of the "facts" (without the fact's owner) to the entire class. The class votes to match up each fact to a specific student. After each student is assigned a fact, the instructor asks which students have the correct fact assigned to them. When students are correctly matched with a fact, the class discusses why or why not they made that guess. Conduct multiple rounds until all students are assigned their correct fact.
+Each student writes an interesting "hard to guess" fact about themselves (that they feel comfortable revealing to the class) on a sticky note and gives to the instructor (or private messages the instructor). The instructor displays all the "facts" (without the fact's owner) to the entire class. The class votes to match up each fact to a specific student. After each student is assigned a fact, the instructor asks which students have the correct fact assigned to them. When students are correctly matched with a fact, the class discusses why or why not they made that guess. Conduct multiple rounds until all students are assigned their correct fact.
 
 ** Assumptions Game (for large class size) **
 
-Each student writes three interesting facts about themselves believed to be unique among the rest of the class. Ensure that students feel comfortable revealing this information to the rest of the class. One by one, have students state the 3 facts and then see, by show of hands, whether any facts might also any describe other students. If a student raises their hand, the student that stated the 3 facts must guess which of the facts is shared between the two students. 
+Each student writes three interesting facts about themselves believed to be unique among the rest of the class. Ensure that students feel comfortable revealing this information to the rest of the class. One by one, have students state the three facts and then see, by show of hands, whether any facts might also describe other students. If a student raises their hand, the student that stated the three facts must guess which of the facts is shared between the two students.
 
 ### ** Discussion **
 
-Why were some "secrets" figured out quickly while others took a long time?
+Why were some "secrets" figured out quickly while others took a long time? What assumptions did you make that helped or hurt your guesses?
 
 Consider the following perspectives:
 
@@ -56,7 +54,7 @@ There's an enormous range of factors that can impact and influence the security 
 
 Existing frameworks include:
 
-1) Frontline Defenders' Workbook on Security: Practical Steps for Human Rights Defenders at Risk [CONTEXT ANALYSIS QUESTIONS](https://www.frontlinedefenders.org/en/file/1111/download?token=7aoFdNX3)
+1) Frontline Defenders' Workbook on Security: Practical Steps for Human Rights Defenders at Risk. See [CONTEXT ANALYSIS QUESTIONS.](https://www.frontlinedefenders.org/en/file/1111/download?token=7aoFdNX3)
 
 2) SAFETAG. [https://safetag.org/guide/](https://safetag.org/guide/)
 
@@ -83,7 +81,7 @@ SAFETAG (“Guiding Questions” from Section 2.3 “Capacity”):
 
 3) PMESII-PT Operational Variables may be seen in some INFOSEC circles. 
 
-Considers Political, Military, Economic, Social, Infrastructure, Information, Physical Environment, and Time factors, usually in a "crosswalk" matrix with "ASCOPE civil considerations" (Area, Structures, Capabilities, Organizations, People, Events). However, same as in describing threats, we'll want to avoid adopting miltaristic terminology and methods. See example:
+Considers Political, Military, Economic, Social, Infrastructure, Information, Physical Environment, and Time factors, usually in a "crosswalk" matrix with "ASCOPE civil considerations" (Area, Structures, Capabilities, Organizations, People, Events). However, same as in describing threats, we'll want to avoid adopting militaristic terminology and methods. See example:
 
 ![alt_text](../../../images/ContextResearch1.png "PMESII ASCOPE Crosswalk") [Image source: US Marine Corps Training Command]
 
@@ -130,6 +128,6 @@ Do the members of your client org consider themselves members of an occupational
 
 	* You may need to perform some initial research as a team to understand what important topics may be to consider. Your client’s website or other bits of information about your client organization may be a great place to start to do this planning - what is their mission? What recent work have they promoted? 
 
-* Collection. Seek open source information - this is a broad category that can include books, studies, websites, social media. Again, do not soley focus on collecting information from your client. This is the time to do your homework on the topic but also to figure out the best way for your team to collect / store this information. Remember: we are at one of the premier research universities in the world. There may be a subject matter expert available at UC Berkeley who can help you navigate a complex topic.
+* Collection. Seek open source information - this is a broad category that can include books, studies, websites, social media. Do not solely focus on gathering information from your client. This is the time to do your homework on the topic but also to figure out the best way for your team to collect / store this information. Remember: we are at one of the premier research universities in the world. There may be a subject matter expert available at UC Berkeley who can help you navigate a complex topic.
 
 * Analysis. Perform some meaningful analysis on your topic instead of simply recalling information found online. For example, tell us why the education level or types of employees at the organization matter to their cybersecurity or to the Clinic’s work. Focus on providing the answer to “So what? Why does this matter?” when you provide information for your team. 

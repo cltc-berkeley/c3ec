@@ -31,7 +31,7 @@ _Understand the assets used to achieve the organization’s goals_
 **What equipment do you rely on? _(Will be explored more deeply in Device Inventory)_**
 
 *   Devices (computers, phones, tablets, routers, TVs, any other IoT like thermostat, alexa, etc.)
-    *   Provided to employees? Or employees use their own?
+    *   Provided to employees? Or do employees use their own?
 *   Vehicles
     *   Own, rent?
 
