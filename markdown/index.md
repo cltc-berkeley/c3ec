@@ -5,7 +5,7 @@
 </p>
 
 [<img style="float: right; padding: 10px;" src="https://cltc.berkeley.edu/wp-content/uploads/2018/07/Screen-Shot-2018-07-23-at-12.21.17-PM.png" width=200x>](https://cltc.berkeley.edu/defendingpvos/)
-The Citizen Clinic is a public-interest cybersecurity clinic at the University of California, Berkeley. We support the capacity of politically targeted organizations to defend themselves against online threats. Building off the Center for Long-Term Cybersecurity’s [research](https://cltc.berkeley.edu/defendingpvos/) on the ecosystem of organizations providing technical assistance to civil society, the clinic supports multidisciplinary teams of students to assess threats to targeted organizations, recommend risk-appropriate mitigations, and work collaboratively with clients to implement new policies and technical controls that enhance their cybersecurity. 
+The Citizen Clinic is a public interest cybersecurity clinic at the University of California, Berkeley. We support the capacity of politically targeted organizations to defend themselves against online threats. Building off the Center for Long-Term Cybersecurity’s [research](https://cltc.berkeley.edu/defendingpvos/) on the ecosystem of organizations providing technical assistance to civil society, the clinic supports multidisciplinary teams of students to assess threats to targeted organizations, recommend risk-appropriate mitigations, and work collaboratively with clients to implement new policies and technical controls that enhance their cybersecurity. 
 
 For organizations seeking more information about Citizen Clinic, please visit https://cltc.berkeley.edu/about-us/citizen-clinic/.
 
