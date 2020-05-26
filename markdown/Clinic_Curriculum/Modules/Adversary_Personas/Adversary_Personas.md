@@ -21,7 +21,7 @@
 
 ### ** Activities **
 
-**Create Initial Adversary Personas:** Create groups of 3-5 students based on their client or project. Tell each group to decided upon their top 3 adversaries. Each group will present to the class the adversaries identity, their motivation for attacking the client's assets, the resources they have at their disposal including any particular capabilities or tactics used.
+**Create Initial Adversary Personas:** Create groups of 3-5 students based on their client or project. Tell each group to decided upon their top 3 adversaries. Each group will present the adversaries' identity, their motivation for attacking the client's assets, the resources they have at their disposal including any particular capabilities or tactics used.
 
 ### ** Discussion **
 
@@ -88,7 +88,7 @@ Adversary Personas (https://daylight.berkeley.edu/adversary-personas/) is an imp
 
 Follow the instructions listed [here](https://daylight.berkeley.edu/adversary-personas/) under "How to Play." The game could be played in groups by student team and their assigned client so that students can brainstorm about the adversaries for their current project. Alternatively, you can mix teams and get new perspectives on various security problems. 
 
-Have each group present their answers to "Step 4. Who are you most concerned about?." Reflect on how the discussion and the card game caused any changes from their initial personas from the Activity section. When they were role-playing or talking through motivations or tactics, did the adversaries seem like realistic threats or did those attacks require stretches of imagination?
+Have each group present their answers to "Step 4. Who are you most concerned about?." Reflect on how the discussion and the card game caused any changes from their initial personas from the Activity section. When they were role-playing or talking through motivations or tactics, did the adversaries seem like realistic threats or did their attacks require stretches of imagination?
 
 ### ** Synthesis **
 

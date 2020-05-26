@@ -156,7 +156,7 @@ Consider the following questions:
 * Including security and usability, what other values should be considered when selecting a VPN?
 * What are the advantages and disadvantages of using Algo versus Outline? Consider your threat model.
 * What are the advantages and disadvantages of using either Algo or Outline versus a commercial VPN provider? Consider your threat model.
-* What contextual factors (PESTLE) may influence selecting one solution over another?
+* Which contextual factors (PESTLE) may influence selecting one solution over another?
 
 Document your findings and present your recommendations based on your experiences and the answers to the above questions.
 
