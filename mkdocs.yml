@@ -19,6 +19,7 @@ google_analytics:
 nav:
     - Home: index.md
     - Curriculum:
+        - Case Studies: Clinic_Curriculum/Case_Studies.md
         - Lesson Modules: 
           - Index: Clinic_Curriculum/Lesson_Modules.md
           - Code of Conduct & Ethics: 

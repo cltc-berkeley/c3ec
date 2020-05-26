@@ -2,8 +2,6 @@
 
 **What are adversary personas and why do we use them?**
 
-
-
 ### ** Learning Objectives **
 
 * Enable students to think broadly and creatively about potential cybersecurity threats.
@@ -29,7 +27,7 @@ The game can be played by teams of employees in any organization. It is recommen
 
 Download the game [here](https://daylight.berkeley.edu/assets/adversary-personas-cards.pdf).
 
-Follow the intructions listed [here](https://daylight.berkeley.edu/adversary-personas/)
+Follow the instructions listed [here](https://daylight.berkeley.edu/adversary-personas/)
 
 ### ** Discussion **
 
