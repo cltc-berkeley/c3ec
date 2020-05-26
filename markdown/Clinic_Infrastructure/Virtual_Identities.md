@@ -107,7 +107,7 @@ Here are some guidelines for account creation that we have consolidated from pre
 Your intent should be to make your profiles look real upon first glance and a longer second look. Secondly, you should try to keep your profiles alive, especially as realistic profiles take some effort and should look like they've existed for some time.
 
 * Create a regular schedule for logging in, posting content, or changing profile information. 
-* Check email accounts for notifications for the social media platfroms. This may be concerning suspicious login activity, requests to change passwords, authentication requests via email or phone, requests for official ID cards.
+* Check email accounts for notifications from the social media platforms. These may concern suspicious login activity, requests to change passwords, authentication requests via email or phone, or requests for official ID cards.
 * Recheck your privacy settings regularly. 
 * Reassess the needs and risks associated with the virtual identity. If there's no longer a need for an account which has already beeen used, you might delete the identity and its accounts and profiles for the sake of safety and efficiency.
 

@@ -13,7 +13,9 @@ ___
 
 ## **The Citizen Clinic Cybersecurity Education Center**
 
-The Citizen Clinic Cybersecurity Education Center is designed to share basic cybersecurity resources for civil society organizations, and to inform other academic institutions that may be interested in adopting the clinic model. Visit this [page](Clinic_Curriculum/Case_Studies/) to read case studies about our recent work.
+The Citizen Clinic Cybersecurity Education Center is designed to share basic cybersecurity resources for civil society organizations, and to inform other academic institutions that may be interested in adopting the clinic model. 
+
+Visit this [page](Clinic_Curriculum/Case_Studies/) to read case studies about our recent work.
 
 
 ### **[Curriculum](Clinic_Curriculum/Lesson_Modules/)**
