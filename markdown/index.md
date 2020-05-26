@@ -1,3 +1,5 @@
+# ** **
+
 <p align="center">
 	<img  src="https://cltc.berkeley.edu/wp-content/uploads/2018/10/citizenclinic-logo-large-1.png">
 </p>
@@ -16,21 +18,23 @@ ___
 The Citizen Clinic Cybersecurity Education Center is designed to share basic cybersecurity resources for civil society organizations, and to inform other academic institutions that may be interested in adopting the clinic model. Visit this [page](Clinic_Curriculum/Case_Studies/) to read case studies about our recent work.
 
 
-## **[Curriculum](Clinic_Curriculum/Lesson_Modules/)**
+### **[Curriculum](Clinic_Curriculum/Lesson_Modules/)**
 
 **Interested in setting up a cybersecurity clinic?** View current and past Citizen Clinic syllabi and reading lists, case studies, in-class activities, and work assignments.
 
-## **[Infrastructure](Clinic_Infrastructure/VPN/)**
+### **[Infrastructure](Clinic_Infrastructure/VPN/)**
 
 **Setting up the technology infrastructure for your own program?** Check out our primers and policies for setting up virtual profiles, virtual private networks, and phishing simulators.
 
-## **[Baseline Organizational Security Guide](LRO/0-Introduction_and_TOC_(README)/)**
+### **[Baseline Organizational Security Guide](LRO/0-Introduction_and_TOC_(README)/)**
 
 **All organizations need a basic level of cybersecurity**, so whether or not you think you are at risk of a cyberattack, we encourage you to read our Baseline Organizational Security Guide.
 
+### Comments or Ideas? 
+
+[Submit an issue.](https://github.com/cltc-berkeley/c3ec/issues)
 
 
-Comments or ideas? [Submit an issue.](https://github.com/cltc-berkeley/c3ec/issues)
 
 ___
 
