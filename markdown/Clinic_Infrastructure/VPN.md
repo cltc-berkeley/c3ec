@@ -152,6 +152,7 @@ Follow a similar phased setup approach.
 ### Wrap Up
 
 Consider the following questions:
+
 * Including security and usability, what other values should be considered when selecting a VPN?
 * What are the advantages and disadvantages of using Algo versus Outline? Consider your threat model.
 * What are the advantages and disadvantages of using either Algo or Outline versus a commercial VPN provider? Consider your threat model.

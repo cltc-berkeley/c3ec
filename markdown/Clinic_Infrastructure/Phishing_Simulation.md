@@ -1,4 +1,4 @@
-### **Setting up a Phishing Simulation**
+# **Setting up a Phishing Simulation**
 
 ## Introduction to Phishing
 

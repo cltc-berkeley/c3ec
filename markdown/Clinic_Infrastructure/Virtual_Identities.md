@@ -1,10 +1,15 @@
-_Last Updated: 27 April 2020_
 
-### **How to Create Virtual Identities for your Clinic or Partner Organization.**
+### **Creating Virtual Identities**
 
 Work in progress. Check back soon.
 
 #### VIRTUAL IDENTITY WORKSHEET
+
+<object data="../Virtual%20Identity%20Worksheet.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="../Virtual%20Identity%20Worksheet.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../Virtual%20Identity%20Worksheet.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 <table>
   <tr>
