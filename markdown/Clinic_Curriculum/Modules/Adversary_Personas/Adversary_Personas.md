@@ -21,13 +21,13 @@
 
 ### ** Activities **
 
-Create Adversary Initial Personas: Create groups of 3-5 students based on their client or project. Tell each group to decided upon their top 3 adversaries. Each group will present to the class the adversaries identity, their motivation for attacking the client's assets, the resources they have at their disposal including any particular capabilities or tactics used.
+**Create Initial Adversary Personas:** Create groups of 3-5 students based on their client or project. Tell each group to decided upon their top 3 adversaries. Each group will present to the class the adversaries identity, their motivation for attacking the client's assets, the resources they have at their disposal including any particular capabilities or tactics used.
 
 ### ** Discussion **
 
-* How do these personas incorporate the perspectives from the readings? 
+* How do these inital personas incorporate the perspectives from the readings? 
 * Do any of these adversaries fall into Julian Cohen's categories of attacker fallacies (Resourced Attackers, Motivated Attackers, Intelligent Attackers, Inadequate Attackers)?
-* What would your adversary be doing when off from work or during their downtime? 
+* What does your adversary's typical day look like? What would your adversary be doing when off from work or during their downtime? 
 
 ### ** Input **
 
@@ -45,12 +45,12 @@ Not only are adversaries impacted by context, they are also people. Each of the 
 
 #### Attacker Fallacies
 
-Realistic concepts of attackers have been a focus of Julian Cohen's work (https://medium.com/@HockeyInJune/).
+Realistic concepts of attackers have been a focus of Julian Cohen's work (see https://medium.com/@HockeyInJune/).
 
 !!! quote "Julian Cohen on *Playbook-based Testing*"
-	To achieve low-overhead and scalability, attackers create playbooks.
-	Attackers that have multiple targets care about repeatability and scalability.
-	Repeatability — The capability to change the target and have the attack still work with the same success rate.
+	To achieve low-overhead and scalability, attackers create playbooks.<br>
+	Attackers that have multiple targets care about repeatability and scalability.<br>
+	Repeatability — The capability to change the target and have the attack still work with the same success rate.<br>
 	Scalability — The capability to launch the attack against multiple targets with minimal cost per additional target.
 
 Resourced attackers (whether by size, amount of money, or skill) may still prefer low-sophistication but effective attacks such as phishing. This does not mean they are inadequate or unmotivated. See APT1. 
@@ -71,7 +71,7 @@ Consider adversaries such as intimate partners or lazy employees. Do they also h
 
 #### Creating Adversary Personas.
 
-Traditional "Threat Actor Profiles" may be found across the web for various threat groups. See https://oasis-open.github.io/cti-documentation/stix/intro. In accordance with standardized formats, these profiles include name, description, aliases, roles, goals, sophistication, resource level, and motivations (primary, secondary, and personal).
+Traditional "Threat Actor Profiles" may be found across the web for various threat groups (See https://oasis-open.github.io/cti-documentation/stix/intro). In accordance with standardized formats, these profiles include name, description, aliases, roles, goals, sophistication, resource level, and motivations (primary, secondary, and personal).
 
 How might we avoid fallacies? Ground these profiles in reality (https://methods.18f.gov/decide/personas/).
 
@@ -88,7 +88,7 @@ Adversary Personas (https://daylight.berkeley.edu/adversary-personas/) is an imp
 
 Follow the instructions listed [here](https://daylight.berkeley.edu/adversary-personas/) under "How to Play." The game could be played in groups by student team and their assigned client so that students can brainstorm about the adversaries for their current project. Alternatively, you can mix teams and get new perspectives on various security problems. 
 
-Have each group present their answers to "Step 4. Who are you most concerned about?." Have them reflect on how the game and discussion has caused any changes from their initial personas from the Activity section. When they were role-playing or talking through motivations or tactics, did the adversaries seem like realistic threats or did those attacks require stretches of imagination?
+Have each group present their answers to "Step 4. Who are you most concerned about?." Reflect on how the discussion and the card game caused any changes from their initial personas from the Activity section. When they were role-playing or talking through motivations or tactics, did the adversaries seem like realistic threats or did those attacks require stretches of imagination?
 
 ### ** Synthesis **
 
