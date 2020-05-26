@@ -3,7 +3,7 @@ site_url: 'https://www.citizenclinic.io'
 docs_dir: markdown/
 site_dir: docs/
 
-repo_name: 'cltc-berkeley/resources-beta'
+repo_name: 'cltc-berkeley/c3ec'
 repo_url: 'https://github.com/cltc-berkeley/c3ec'
 edit_uri: '/cltc-berkeley/c3ec/tree/master/markdown'
 
