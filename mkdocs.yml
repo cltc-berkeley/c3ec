@@ -11,6 +11,10 @@ plugins:
     - search
     - git-revision-date-localized
 
+google_analytics:
+  - UA-128592499-2
+  - auto
+
 
 nav:
     - Home: index.md
