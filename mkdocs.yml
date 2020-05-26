@@ -1,5 +1,5 @@
 site_name: The Citizen Clinic Cybersecurity Education Center
-site_url: 'https://cltc-berkeley.github.io/resources-beta'
+site_url: 'https://www.citizenclinic.io'
 docs_dir: markdown/
 site_dir: docs/
 
@@ -19,7 +19,6 @@ google_analytics:
 nav:
     - Home: index.md
     - Curriculum:
-        - Case Studies: Clinic_Curriculum/Case_Studies.md
         - Lesson Modules: 
           - Index: Clinic_Curriculum/Lesson_Modules.md
           - Code of Conduct & Ethics: 
@@ -31,11 +30,8 @@ nav:
             - Contextual Assessment Requirements: Clinic_Curriculum/Modules/Contextual_Research/Contextual_Assessment_Info_Reqs.md
           - Adversary Persona Development:
             - Adversary Personas Overview: Clinic_Curriculum/Modules/Adversary_Personas/Adversary_Personas.md
-#            - Advesary Persona Cards: Clinic_Curriculum/Modules/Contextual_Research/PESTLE-M_Worksheet.md
-#          - Harmful Information (Misinformation and Harassment): 
-#            - Harmful Information Overview: Clinic_Curriculum/Modules/Harmful_Information/Harmful_Information.md
-#            - Mitigation Framework: Clinic_Curriculum/Modules/Harmful_Information/Mitigation_Framework.md
-        - Past Syllabi: 
+        - Case Studies: Clinic_Curriculum/Case_Studies.md
+        - Syllabus: 
           - Spring 2020: Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
           - Fall 2019: Clinic_Curriculum/Clinic_Syllabus_Fall_2019.md
           - Spring 2019: Clinic_Curriculum/Clinic_Syllabus_Spring_2019.md

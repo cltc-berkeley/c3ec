@@ -1,13 +1,10 @@
 
-# Citizen Clinic Case Studies
-
-
 [TOC]
 
 ___
 
 
-## A Voting Rights Organization {#a-voting-rights-organization}
+## A Voting Rights Organization
 
 **The Challenge:** In the run up to the 2020 primary election, a volunteer-led, U.S.-based voting rights organization had increasing concerns about the digital safety of their team members and the integrity of their data. In particular, the organization was concerned that online disinformation campaigns could hamper its efforts to ensure a fair and open democracy. 
 
@@ -22,7 +19,7 @@ The Citizen Clinic student team identified the shared accounts as the greatest i
 ___
 
 
-## A Regional Abortion Fund {#a-regional-abortion-fund}
+## A Regional Abortion Fund
 
 **The Challenge:** A regional abortion fund dedicated to supporting the reproductive rights of Americans faced diverse challenges online, including online harassment from bots and trolls, threats of data breaches to reveal patient, provider, and donor information, and fraudulent websites that promote fake clinics or scams to collect donations.
 
@@ -39,7 +36,7 @@ The Citizen Clinic’s student team also upgraded some of the organization’s k
 ___
 
 
-## A Domestic LGBTQ Support Organization {#a-domestic-lgbtq-support-organization}
+## A Domestic LGBTQ Support Organization
 
 **The Challenge:** A U.S.-based LGBTQ nonprofit organization was subjected to hate campaigns from extremist groups and violent online communities. Beyond harassment on social media and denial of service attacks on their web applications, the organization has had its member’s personal information - home addresses, dead names, phone numbers, and photographs - collected and published on the web (also known as _doxxing_). This has led to staff members’ facing in-person harassment and death threats. 
 
@@ -54,7 +51,7 @@ After implementing cybersecurity practices, the students developed short securit
 ___
 
 
-## Land Is Life, an Indigenous Community Support Network {#land-is-life-an-indigenous-community-support-network}
+## Land Is Life, an Indigenous Community Support Network
 
 **The Challenge:** Land is Life is a non-profit civil society organization that supports local communities around the world that are adversely affected by development projects, particularly those that relate to environmental and human rights. Land Is Life and its partner network are frequently subjected to online disinformation campaigns, data breaches, and other online threats from a variety of threat actors, including governments, corporations, cartels, and paramilitary groups.
 
