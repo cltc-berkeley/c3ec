@@ -11,6 +11,8 @@ Citizen Lab’s Security Planner. [[https://securityplanner.org/](https://securi
 
 Sandro Contenta, Toronto Star. “How these Toronto sleuths are exposing the world’s digital spies while risking their own lives” [[https://www.thestar.com/news/canada/2019/12/13/from-a-tower-in-toronto-they-watch-the-watchers-how-citizen-lab-sleuths-are-exposing-the-worlds-digital-spies-while-risking-their-own-lives.html](https://www.thestar.com/news/canada/2019/12/13/from-a-tower-in-toronto-they-watch-the-watchers-how-citizen-lab-sleuths-are-exposing-the-worlds-digital-spies-while-risking-their-own-lives.html)] 
 
+Havron et al. "Clinical computer security for victims of intimate partner violence." In Proceedings of the 28th USENIX Security Symposium (pp. 105-122).[[https://www.nixdell.com/papers/2019-usenix_clinical_security_FULL.pdf](https://www.nixdell.com/papers/2019-usenix_clinical_security_FULL.pdf)]
+
 Deji Olukotun, Access Now. “Spyware in Mexico: an interview with Luis Fernando García of R3D Mexico” [[https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/](https://www.accessnow.org/spyware-mexico-interview-luis-fernando-garcia-r3d-mexico/)]
 
 Tactical Tech's Annual Report [[https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf](https://cdn.ttc.io/s/tacticaltech.org/Tactical-Tech-2018-Annual-Report.pdf)] 
