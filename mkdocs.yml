@@ -30,13 +30,13 @@ nav:
             - Contextual Assessment Requirements: Clinic_Curriculum/Modules/Contextual_Research/Contextual_Assessment_Info_Reqs.md
           - Adversary Persona Development:
             - Adversary Personas Overview: Clinic_Curriculum/Modules/Adversary_Personas/Adversary_Personas.md
-        - Case Studies: Clinic_Curriculum/Case_Studies.md
         - Syllabus: 
           - Spring 2020: Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
           - Fall 2019: Clinic_Curriculum/Clinic_Syllabus_Fall_2019.md
           - Spring 2019: Clinic_Curriculum/Clinic_Syllabus_Spring_2019.md
           - Fall 2018: Clinic_Curriculum/Clinic_Syllabus_Fall_2018.md
         - Course Readings: Clinic_Curriculum/Consolidated_Bibliography.md
+    - Case Studies: Case_Studies.md
     - Infrastructure:
         - Virtual Private Network: Clinic_Infrastructure/VPN.md
         - Virtual Identities: Clinic_Infrastructure/Virtual_Identities.md
