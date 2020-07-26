@@ -36,7 +36,8 @@ nav:
           - Spring 2019: Clinic_Curriculum/Clinic_Syllabus_Spring_2019.md
           - Fall 2018: Clinic_Curriculum/Clinic_Syllabus_Fall_2018.md
         - Course Readings: Clinic_Curriculum/Consolidated_Bibliography.md
-    - Case Studies: Case_Studies.md
+    - Case Studies: 
+        - Case Studies: Case_Studies.md
     - Infrastructure:
         - Virtual Private Network: Clinic_Infrastructure/VPN.md
         - Virtual Identities: Clinic_Infrastructure/Virtual_Identities.md
