@@ -21,9 +21,15 @@ nav:
     - Curriculum:
         - Lesson Modules: 
           - Index: Clinic_Curriculum/Lesson_Modules.md
+          - Introduction to Public Interest Cybersecurity:
+            - Intro Overview: Clinic_Curriculum/Modules/Intro/Intro.md
           - Code of Conduct & Ethics: 
             - Ethics Overview: Clinic_Curriculum/Modules/Ethics/Ethics.md
             - Code of Conduct: Clinic_Curriculum/Modules/Ethics/Student_Code_of_Conduct.md
+          - Old School INFOSEC - Basic Controls:
+            - Old School INFOSEC Overview: Clinic_Curriculum/Modules/Basics/Basics.md
+          - Digital Surveillance Threat Landscape:
+            - Threat Landscape Overview: Clinic_Curriculum/Modules/Threat_Landscape/Threat_Landscape.md
           - Contextual and Capacity Research:
             - Contextual Research Overview: Clinic_Curriculum/Modules/Contextual_Research/Contextual_Research.md
             - PESTLE-M Worksheet: Clinic_Curriculum/Modules/Contextual_Research/PESTLE-M_Worksheet.md

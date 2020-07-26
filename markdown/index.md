@@ -30,7 +30,7 @@ Visit this [page](Clinic_Curriculum/Case_Studies/) to read case studies about ou
 
 **All organizations need a basic level of cybersecurity**, so whether or not you think you are at risk of a cyberattack, we encourage you to read our Baseline Organizational Security Guide.
 
-**Comments or Ideas?** [Submit an issue.](https://github.com/cltc-berkeley/c3ec/issues)
+**Comments or Ideas?** [Submit an issue](https://github.com/cltc-berkeley/c3ec/issues) or email us at citizenclinic@berkeley.edu.
 
 
 

@@ -11,12 +11,27 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/Intro/Intro/</loc>
+     <lastmod>2020-07-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/Ethics/Ethics/</loc>
      <lastmod>2020-07-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/Ethics/Student_Code_of_Conduct/</loc>
+     <lastmod>2020-07-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/Basics/Basics/</loc>
+     <lastmod>2020-07-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/Threat_Landscape/Threat_Landscape/</loc>
      <lastmod>2020-07-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
