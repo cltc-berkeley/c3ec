@@ -9,7 +9,7 @@ Rachael Cornejo and Thyne Bookmark
 
 ____________________________________________________________________________
 
-Skip to [current prototype.]("https://www.citizenclinic.io/Clinic_Infrastructure/OSINT_Evaluation/#prototype")
+Skip to [current prototype.](https://www.citizenclinic.io/Clinic_Infrastructure/OSINT_Evaluation/#prototype)
 
 Want to get involved? Fill out this form: https://forms.gle/8pKCoVpkKKEzrjU6A
 
