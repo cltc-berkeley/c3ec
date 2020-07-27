@@ -10,7 +10,7 @@ Module 4, Digital Surveillance of Politically Vulnerable Organizations: The Thre
 
 ### ** Pre-Readings **
 
-See readings for [Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape](../../../Clinic_Curriculum/Consolidated_Bibliography/#threats)
+See readings for [Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape](../../../Consolidated_Bibliography/#threats)
 
 
 ### ** Activity **
@@ -36,7 +36,7 @@ Using a recent breach or cyberattack in recent news or current events, have stud
     *   Phone calls and SMS are really bad for confidentiality!
     *   Weaknesses in SS7 protocol: See Circles and Hacking Team [https://www.adaptivemobile.com/blog/can-they-hear-you-now-hacking-team-ss7](https://www.adaptivemobile.com/blog/can-they-hear-you-now-hacking-team-ss7) 
     *   Telecommunication provider cooperation with governments: See case of Nokia Siemens
-    *   Also, Call detail records, tower dumps, and cell site simulators
+    *   Also, call detail records, tower dumps, and cell site simulators
 *   Risks of Encrypted communications
     *   Deanonymizing targets
         *   Identifying IP address via IP loggers sites, server logs, and tracking images 
@@ -55,7 +55,7 @@ Using a recent breach or cyberattack in recent news or current events, have stud
 
 ### ** Deepening **
 
-*   How should we think of these threats?
+How should we think of these threats?
     *   Wiretapping
     *   Phone tracking
     *   Targeted deanonymization
@@ -67,21 +67,24 @@ Using a recent breach or cyberattack in recent news or current events, have stud
     *   Non-targeted surveillance
     *   Accidental ransomware download
     *   Bitcoin scam
-*   In small groups, have students categorize those attacks into 4 to 5 groups according to... 
+
+In small groups, have students categorize those attacks into 4 to 5 groups according to... 
     *   the relative cost for adversaries to deploy them against an individual NGO.
     *   the relative frequency that adversaries deploy them against an individual NGO.
-*   As groups share their suggested categories & rankings, discuss how fiscal incentives may or may not have a bearing on how common an attack is likely to occur.
-*   Ask and discuss how controls from the communications setup in Module 3 might help protect the Clinic from the described attacks. 
+
+As groups share their suggested categories & rankings, discuss how fiscal incentives may or may not have a bearing on how common an attack is likely to occur. Ask and discuss how controls from the communications setup in Module 3 might help protect the Clinic from the described attacks. 
 
 
 ### ** Synthesis **
 
-*   Given all of these threats, how can an organization raise the bar and the resources an adversary needs to dedicate against the targeted NGO?
-    *   Securing accounts is something we’ve discussed but now we see the need to understand these attacks, think critically, and rely upon others in an organization.
-        *   Use an alternative communication channel to contact the sender of a suspicious message
-        *   Don’t click immediately or at all (eg, expand shortened URLs, go to website directly)
-        *   Ask yourself: would the government actually call me if there was a problem with my taxes?
-        *   See something, say something: others in an organization are likely to be targeted as well.
-*   Social engineering is an important component of targeted attacks. Why? 
-*   We see the need for not just technical controls, but organizations require awareness, training, policies, cohesion, and well-being in its staff. Why?
+Given all of these threats, how can an organization raise the bar and the resources an adversary needs to dedicate against the targeted NGO?
+*   Securing accounts is something we’ve discussed but now we see the need to understand these attacks, think critically, and rely upon others in an organization.
+   	*   Use an alternative communication channel to contact the sender of a suspicious message
+    *   Don’t click immediately or at all (eg, expand shortened URLs, go to website directly)
+    *   Ask yourself: would the government actually call me if there was a problem with my taxes?
+    *   See something, say something: others in an organization are likely to be targeted as well.
+
+Social engineering is an important component of targeted attacks. Why? 
+
+We see the need for not just technical controls, but organizations require awareness, training, policies, cohesion, and well-being in its staff. Why?
 

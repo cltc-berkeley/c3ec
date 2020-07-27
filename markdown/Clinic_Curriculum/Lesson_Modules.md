@@ -4,13 +4,13 @@ Citizen Clinic modules consist of lectures, in-class activities, and homework as
 
 ### Published Modules. 
 
-#### ** New! ** Module 1. [Introduction to Public Interest Cybersecurity](../Modules/Intro/Intro/) 
+#### _New!_ Module 1. [Introduction to Public Interest Cybersecurity](../Modules/Intro/Intro/) 
 
 #### Module 2. [Ethics and the Citizen Clinic Code of Conduct](../Modules/Ethics/Ethics/) 
 
-#### ** New! ** Module 3. [Old School INFOSEC: Basic Controls](../Modules/Basics/Basics/)
+#### _New!_ Module 3. [Old School INFOSEC: Basic Controls](../Modules/Basics/Basics/)
 
-#### ** New! ** Module 4. [Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape](../Modules/Threat_Landscape/Threat_Landscape/)
+#### _New!_ Module 4. [Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape](../Modules/Threat_Landscape/Threat_Landscape/)
 
 #### Module 7. [Contextual & Capacity Research](../Modules/Contextual_Research/Contextual_Research/)
 
