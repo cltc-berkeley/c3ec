@@ -9,7 +9,7 @@ Rachael Cornejo and Thyne Bookmark
 
 ____________________________________________________________________________
 
-Skip to [current prototype.]("#prototype")
+Skip to [current prototype.]("https://www.citizenclinic.io/Clinic_Infrastructure/OSINT_Evaluation/#current-prototype")
 
 Want to get involved? Fill out this form: https://forms.gle/8pKCoVpkKKEzrjU6A
 
@@ -202,8 +202,6 @@ We extend our utmost thanks to the following people for providing invaluable inp
 
 
 ## Current Prototype
-
-<div id="prototype"></div>
 
 <table>
   <tr>
