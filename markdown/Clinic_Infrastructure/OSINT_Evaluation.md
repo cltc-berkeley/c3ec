@@ -1,5 +1,5 @@
 
-# Security Evaluation Framework for OSINT Tools:
+# Security Evaluation Framework for OSINT Tools
 
 Research Process, Prototype, and Justifications
 
@@ -33,17 +33,15 @@ To envision our target audience and design our framework accordingly, we crafted
 
 To inform our design and prototyping, we conducted research on approaches for helping users to understand their digital security and on previous attempts to create frameworks for evaluating digital tools.
 
-** Helping Users Understand Digital Security **
-
+#### ** Helping Users Understand Digital Security **
 
 
 1. The paper “Obstacles to the Adoption of Secure Communication Tools”[^8] explores how different users understand the security of communication tools, and explains what motivates their messaging app choices.The researchers found that many participants have misconceptions about different communication tools’ security, and are mistaken in their reasoning behind which tools to use.The paper’s findings showed us that average users are not familiar with security concepts and thus need more detailed guidance on risks associated with using certain applications.
 
 
 2. The paper “Why Johnny Can’t Encrypt”[^9] explains that security mechanisms are only effective when used correctly, and that more than 90% of all computer security failures occur because users have not configured their technologies properly. This paper showed us that in order to help keep investigators secure, we should not only help them choose tools which are appropriately secure for their purposes, but also help them understand how to configure any tool they choose to use in the most secure way possible.
-**Previous Frameworks for Evaluating Digital Tools**
 
-
+#### **Previous Frameworks for Evaluating Digital Tools**
 
 1. The primary case study we considered was Version 1 of the Electronic Frontier Foundation (EFF’s) Secure Messaging Scorecard. While outdated and considered by the EFF to be insufficient as a recommendation tool, the secure messaging scorecard provided a good starting point for creating a tool evaluation system. The scorecard is presented as a graph with checkmarks notating whether or not a variety of messaging platforms satisfy certain security considerations, such as providing encryption in transit and keeping past communications secure if one’s encryption keys are stolen. Although it has been left online for historical reasons, EFF’s website states that this scorecard does not reflect the most recent developments for all of these messaging platforms.[^10] As an alternative, EFF offers _Surveillance Self-Defense_, a more complex set of tools and how-tos for safer online communications which includes “how-to” guides for certain security tools but does not offer an overarching security matrix of tools in the field for easy comparison.[^11] In a separate article entitled “Why We Can’t Give You a Recommendation,”[^12] EFF explains why the org has steered away from making recommendations on which messaging tool users should implement to be most secure. Tool developers can make sudden changes to their tools which change the tools’ pros and cons with regard to security, security features are only one of multiple variables that matter when choosing a secure messenger (including usability, cost, countries a tool is used in, whether it works on iPHone or Android), and the specific threats someone is worried about influence which messenger is right for their purposes. Another EFF article called “What Is a Good Secure Messaging Tool?” points out that by including checkboxes, Version 1 of EFF’s scorecard can accidentally suggest that there is a single standard for security and that a tool can be 100% “secure” if it checks all the boxes, when in reality security is context-specific and never guaranteed.[^13] These observations from EFF suggested to our team that if we were to create an effective framework to evaluate the security of OSINT tools, we should do three things: include categories beyond traditional “security” features, avoid the checkbox format, and create a clear process for the continued maintenance of our tool.
 
@@ -197,12 +195,11 @@ We learned that rather than subjectively evaluating whether a certain tool is �
 We extend our utmost thanks to the following people for providing invaluable input and advice on this project: Steve Trush, Citizen Clinic; Kristin Berdan, Citizen Clinic; Bill Marczak, Citizen Clinic & Citizen Lab; Justin Seitz, Hunch.ly; Michael Elsanadi, Syrian Archive; John Ortilla, Human Rights Investigations Lab at UC Berkeley Law.
 
 
-## Prototype
-
+# Current Prototype
 
 <table>
   <tr>
-   <td colspan="5" ><strong>Security Framework for OSINT Tools</strong>
+   <td colspan="4" ><strong>Security Framework for OSINT Tools</strong>
    </td>
   </tr>
   <tr>
@@ -214,15 +211,11 @@ We extend our utmost thanks to the following people for providing invaluable inp
    </td>
    <td><strong>Why choose this attribute?</strong>
    </td>
-   <td><strong>Test: Hunch.ly</strong>
-   </td>
   </tr>
   <tr>
    <td colspan="2" >Basic Functionality
    </td>
    <td colspan="2" >How can the tool be useful for an investigation?
-   </td>
-   <td>Helps automatically preserve information during an investigation. Automatically collects, documents, and annotates every web page a user visits.
    </td>
   </tr>
   <tr>
@@ -234,8 +227,6 @@ We extend our utmost thanks to the following people for providing invaluable inp
    </td>
    <td>Outlines the information companies/government(s)/cyber criminals could potentially have access to – how sensitive is this information?
    </td>
-   <td>Hunch.ly does not collect information about users’ investigations. 
-   </td>
   </tr>
   <tr>
    <td>Provider Retention
@@ -243,8 +234,6 @@ We extend our utmost thanks to the following people for providing invaluable inp
    <td>Does the tool retain this info more permanently and if so, how/where is it stored?
    </td>
    <td>Outlines the information companies/government(s)/cyber criminals could potentially have access to
-   </td>
-   <td>Retains customer order information unless requested to remove. 
    </td>
   </tr>
   <tr>
@@ -254,8 +243,6 @@ We extend our utmost thanks to the following people for providing invaluable inp
    </td>
    <td>Gives a tentative idea of what the owner may do with the information stored in the tool. (Targeted advertising, used to improve the service, etc.)
    </td>
-   <td>Dark River Systems Inc was created by an investigator who grew tired of losing his web history when working on projects. It provides OSINT training, consulting and software to organizations worldwide.
-   </td>
   </tr>
   <tr>
    <td>Provider Location
@@ -263,8 +250,6 @@ We extend our utmost thanks to the following people for providing invaluable inp
    <td>Where is the provider located or headquartered? 
    </td>
    <td>Gives an idea of which government(s) could potentially gain access to above information which goes through a tool.
-   </td>
-   <td>Canada.
    </td>
   </tr>
   <tr>
@@ -278,8 +263,6 @@ Bans
    </td>
    <td>Ex. if investigating China, using Facebook will not be useful because Facebook is disabled in China.
    </td>
-   <td>None known.
-   </td>
   </tr>
   <tr>
    <td rowspan="3" >Provider Transparency
@@ -292,8 +275,6 @@ Bans
 <p>
 Notification of security issues helps users understand when a product’s security has been compromised. 
    </td>
-   <td>Notifies users via email about any new security issues, and provides a timeline for fixing the issue. 
-   </td>
   </tr>
   <tr>
    <td>Government / Law Enforcement Interaction Transparency
@@ -302,13 +283,11 @@ Notification of security issues helps users understand when a product’s securi
    </td>
    <td>Organizations which care about notifying their consumers of possible legal requests may publish transparency reports and/or utilize warrant canaries to alert the public to both the existence and the fulfillment of such requests.
    </td>
-   <td>May share personal information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights. 
-   </td>
   </tr>
   <tr>
    <td>Legal Obligations
    </td>
-   <td colspan="3" >All providers can be obligated to turn content over to law enforcement when legally requested. 
+   <td colspan="2" >All providers can be obligated to turn content over to law enforcement when legally requested. 
    </td>
   </tr>
   <tr>
@@ -320,8 +299,6 @@ Notification of security issues helps users understand when a product’s securi
    </td>
    <td>Having an alias can safeguard against leaking personal identifiers (such as phone numbers) to onlookers. 
    </td>
-   <td>Not applicable.
-   </td>
   </tr>
   <tr>
    <td>Data required to use
@@ -329,8 +306,6 @@ Notification of security issues helps users understand when a product’s securi
    <td>How much information do you have to hand over to the provider in order to sign up?
    </td>
    <td>While performing research on certain online communities, investigators should take care to protect their anonymity and reduce the amount of information that may point to their true identity, else open themselves to greater risks.For example, if a tool user is forced to enter their personal phone number as their username and police track their phone number, police could arrest them. Accounts and services that require personal identifiers to sign up (such as phone number, full name, etc) may then necessitate the use of burner profiles/devices by an investigator. Some information, such as a linked phone number, are more resource intensive to set up and should be taken into account before an investigation. 
-   </td>
-   <td>Email required to receive activation key.
    </td>
   </tr>
   <tr>
@@ -340,12 +315,6 @@ Notification of security issues helps users understand when a product’s securi
    </td>
    <td>If an investigator is performing sensitive work on a platform or service, it is important to know if any of this will be stored by the host. If so, this information could be requested and accessed by other entities such as law enforcement.
    </td>
-   <td>Does not collect usage information about where you are browsing or what cases you are working on.
-<p>
-Information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Collects information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. 
-<p>
-When you make a purchase or attempt to make a purchase through the Site, they collect certain information from you, including name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. 
-   </td>
   </tr>
   <tr>
    <td>Login Authentication
@@ -354,8 +323,6 @@ When you make a purchase or attempt to make a purchase through the Site, they co
    </td>
    <td>Multi-factor authentication (use of a second method of verifying your identity when you  log into an account, in addition to a password) adds an extra layer of protection. If an attacker got their hands on your login credentials and you use MFA, they will have much more trouble accessing the user’s account without access to the user’s secondary authentication method than if you do not use MFA.
    </td>
-   <td>Not applicable.
-   </td>
   </tr>
   <tr>
    <td>Contact Authentication
@@ -363,8 +330,6 @@ When you make a purchase or attempt to make a purchase through the Site, they co
    <td>Can you be certain that the person being contacted is the intended recipient?
    </td>
    <td>Apps that let you verify the identity of your contacts helps protect against man in the middle attacks. Verifying who you are communicating with can help prevent you from sending information to an unintended audience – for example, an enemy pretending to be someone you trust.
-   </td>
-   <td>Not applicable.
    </td>
   </tr>
   <tr>
@@ -375,8 +340,6 @@ When you make a purchase or attempt to make a purchase through the Site, they co
    <td>Does the company retain data surrounding the content you create/upload?
    </td>
    <td>Metadata relation to an individual’s use or interactions with a tool/platform could possibly reveal personally identifying information. For example, if an investigator is working on a collaborative platform with individuals of a vulnerable population, metadata related to who accessed/made changes on the platform could linke the individuals to the investigator.
-   </td>
-   <td>Hunch.ly does not receive any usage information about users’ investigations. All case data is stored locally. 
    </td>
   </tr>
   <tr>
@@ -390,8 +353,6 @@ Failure of a cloud service may also lead to irreversible loss of users’ data.
 <p>
 If data is kept unencrypted in the cloud, the data may be shared if the company is compelled by  law enforcement or other government entities.
    </td>
-   <td>All users’ case data is stored locally and not stored in the cloud. 
-   </td>
   </tr>
   <tr>
    <td>Transport encryption
@@ -399,8 +360,6 @@ If data is kept unencrypted in the cloud, the data may be shared if the company 
    <td>Does the tool protect messages from being listened in on by outsiders?
    </td>
    <td>Transport encryption protects data when it is being transported between two communicating parties. This helps protect against adversaries trying to spy on the data. However, transport encryption does not hide data from the company hosting the communication.
-   </td>
-   <td>Not applicable.
    </td>
   </tr>
   <tr>
@@ -410,8 +369,6 @@ If data is kept unencrypted in the cloud, the data may be shared if the company 
    </td>
    <td>E2E encryption, like transport encryption, protects data while it is being transported. In addition, E2E also protects data from anyone besides the communicating parties. This means that the company behind the communication would not be able to access the data or share it with other entities. One might use end-to-end encryption so that instead of $5 to get your conversations, attackers have to pay $1 million to get these conversations – these attackers often practice “targeted interception” where they only attempt to compromise their top 1000 targets.
    </td>
-   <td>Not applicable.
-   </td>
   </tr>
   <tr>
    <td>App vs browser
@@ -419,8 +376,6 @@ If data is kept unencrypted in the cloud, the data may be shared if the company 
    <td>Do you have to download an app, or can you use this tool in your browser?
    </td>
    <td>Downloading a tool’s application may give it greater access to your device compared to using the tool as a browser extension or web-page.
-   </td>
-   <td>Hunchly is an app downloaded to a user’s computer and operates as an extension of the Google Chrome browser. 
    </td>
   </tr>
   <tr>
@@ -430,8 +385,6 @@ If data is kept unencrypted in the cloud, the data may be shared if the company 
    </td>
    <td>If an investigator is planning on sharing private documents or performing sensitive work through a tool, it is important that they be able to control who can access this information. If a tool defaults to making documents/information public, it is important that an investigator adjust settings.
    </td>
-   <td>Not applicable.
-   </td>
   </tr>
   <tr>
    <td>Open-Source Code
@@ -440,8 +393,6 @@ If data is kept unencrypted in the cloud, the data may be shared if the company 
    </td>
    <td><strong>If you are an activist, what is actionable about this for you?</strong>
    </td>
-   <td>No.
-   </td>
   </tr>
   <tr>
    <td>Independently audited
@@ -449,8 +400,6 @@ If data is kept unencrypted in the cloud, the data may be shared if the company 
    <td>Have independent auditors checked the tool for security vulnerabilities? What have they found?
    </td>
    <td>If a tool has been independently audited by a third party and has a security report available, this could provide valuable information regarding the security of the application. If an audit has not found any significant security/privacy issues, then the tool may be less open to attacks from more technical adversaries and hackers.
-   </td>
-   <td>Has not had an independent security audit. 
    </td>
   </tr>
   <tr>
@@ -462,8 +411,6 @@ If data is kept unencrypted in the cloud, the data may be shared if the company 
    </td>
    <td>Free to use tools are more accessible, especially to non-profit or resource constrained organizations.
    </td>
-   <td>$129.99/year for an individual license. Save 10% with 3 licenses, 20% with 4 or more.
-   </td>
   </tr>
   <tr>
    <td>Ease of use
@@ -474,8 +421,6 @@ If data is kept unencrypted in the cloud, the data may be shared if the company 
 <p>
 If the tool is complicated enough to require training to use it properly, it would be more difficult to initially incorporate it into investigations.
    </td>
-   <td>Not yet researched.
-   </td>
   </tr>
   <tr>
    <td>Cross-user collaboration
@@ -483,8 +428,6 @@ If the tool is complicated enough to require training to use it properly, it wou
    <td>Does this tool allow for multiple collaborators/contributors in real time?
    </td>
    <td>If multiple investigators will be working together on a project, cross-user support may facilitate easier and more convenient collaboration.
-   </td>
-   <td>Not applicable.
    </td>
   </tr>
   <tr>
@@ -496,8 +439,6 @@ If the tool is complicated enough to require training to use it properly, it wou
 <p>
 Support FAQs and training guides provide by a company can also be helpful in making the most out of a tool.
    </td>
-   <td>Hunch.ly website has a support page with articles on installing/using the tool. Also a contact page where users can contact Hunch.ly or report issues.
-   </td>
   </tr>
   <tr>
    <td>Consistent Maintenance & Updates
@@ -507,8 +448,6 @@ Support FAQs and training guides provide by a company can also be helpful in mak
    <td>If an application is not currently being maintained, then any security flaws already existing in the tool will not be addressed. For long-term investigations, investigators may want to avoid out-dated tools in favor of tools that will continue to be updated to reduce the risk of technical vulnerabilities.
 <p>
 Frequency of updates can be helpful in determining how well a tool is maintained, but may not always be a good indicator of a tool’s security. 
-   </td>
-   <td>Is maintained. Updates every few months.
    </td>
   </tr>
 </table>
