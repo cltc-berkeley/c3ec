@@ -40,7 +40,7 @@ Ask your students:
 
 *   What is the “public interest”?
     *   Describe types of work or professions associated as public interest work.
-    *   Describe how work that is distinct may be distinct from private sector or government work. 
+    *   Describe how that work may be distinct from private sector or government work. 
     *   Define civil society.
     *   Describe the history of public interest clinics in law and medicine, and the impact they’ve had on the field long term.
 *   Who has access to cybersecurity?
@@ -97,5 +97,4 @@ Ask your students:
 
 ### ** Assignments **
 
-*   Students submit a brief explanation [no more than 1 page;] of (1) why they want to learn about public interest cybersecurity and (2) how they might apply their prior experience, skills, or past coursework to protect politically vulnerable organizations as defined in this report [https://cltc.berkeley.edu/defendingpvos/](https://cltc.berkeley.edu/defendingpvos/)  
-*   Note: Students do not learn about the identities of partner organization until they have agreed to the Clinic Code of Conduct (see Module 2)
+*   Students submit a brief explanation [no more than 1 page;] of (1) why they want to learn about public interest cybersecurity and (2) how they might apply their prior experience, skills, or past coursework to protect politically vulnerable organizations as defined in this report [https://cltc.berkeley.edu/defendingpvos/](https://cltc.berkeley.edu/defendingpvos/) _(Note: Our students do not learn about the identity of their partner organization until they have agreed to the Clinic Code of Conduct (see Module 2))_

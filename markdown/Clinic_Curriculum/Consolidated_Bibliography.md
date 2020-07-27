@@ -27,6 +27,7 @@ Citizen Clinic. "Student Code of Conduct" [[https://www.citizenclinic.io/Clinic_
 
 Shannon Vallor, The Markkula Center for Applied Ethics. “An Introduction to Cybersecurity Ethics” [[https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf)]
 
+<div id="basics"></div>
 
 ### **Old School INFOSEC: Basic (& Some Outdated) Controls**
 
