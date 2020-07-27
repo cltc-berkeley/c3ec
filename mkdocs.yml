@@ -45,6 +45,7 @@ nav:
     - Case Studies: 
         - Case Studies: Case_Studies.md
     - Infrastructure:
+        - OSINT Tool Evaluation: Clinic_Infrastructure/OSINT_Evaluation.md
         - Virtual Private Network: Clinic_Infrastructure/VPN.md
         - Virtual Identities: Clinic_Infrastructure/Virtual_Identities.md
         - Phishing Simulation: Clinic_Infrastructure/Phishing_Simulation.md
