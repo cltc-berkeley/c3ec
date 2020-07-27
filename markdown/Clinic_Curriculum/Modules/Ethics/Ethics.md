@@ -1,6 +1,6 @@
 ### ** Summary **
 
-This module introduces ethical considerations for clinical security work. Our look at ethics builds on the work of the Markulla Center for Applied Ethics, at Santa Clara University, and introduces a set of  ethical considerations and norms specific to the work of Citizen Clinic. (For more information, see [Citizen Clinic Code of Conduct](Student_Code_of_Conduct.md).)
+Module 2 introduces ethical considerations for clinical security work. Our look at ethics builds on the work of the Markulla Center for Applied Ethics, at Santa Clara University, and introduces a set of  ethical considerations and norms specific to the work of Citizen Clinic. (For more information, see [Citizen Clinic Code of Conduct](Student_Code_of_Conduct.md).)
 
 ### ** Learning Objectives **
 

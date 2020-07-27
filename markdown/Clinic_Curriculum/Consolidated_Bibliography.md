@@ -1,6 +1,8 @@
 
 All Citizen Clinic currently or previously assigned readings in one place. 
 
+<div id="intro"></div>
+
 ### **Introduction to Public Interest Cybersecurity**
 
 Sean Brooks, Center for Long-Term Cybersecurity. “Defending Politically Vulnerable Organizations Online” [[https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf](https://cltc.berkeley.edu/wp-content/uploads/2018/07/CLTC_Defending_PVOs.pdf)]
