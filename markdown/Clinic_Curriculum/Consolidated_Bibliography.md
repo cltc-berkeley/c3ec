@@ -29,11 +29,13 @@ Shannon Vallor, The Markkula Center for Applied Ethics. “An Introduction to Cy
 
 <div id="basics"></div>
 
-### **Old School INFOSEC: Basic (& Some Outdated) Controls**
+### **Old School INFOSEC: Basic Controls**
 
 Le Blond et al. “A look at targeted attacks through the lense of an NGO”  [[www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-blond.pdf)]
 
 Sean Brooks, CLTC, TechSoup Webinar. “Cybersecurity in Low-Risk Organizations: Understanding Your Risk and Making Practical Improvements.”: [[https://cltc.berkeley.edu/2019/02/25/cltc-and-citizen-clinic-present-cybersecurity-in-low-risk-organizations-webinar/](https://cltc.berkeley.edu/2019/02/25/cltc-and-citizen-clinic-present-cybersecurity-in-low-risk-organizations-webinar/)]
+
+Citizen Lab’s Security Planner. [[https://securityplanner.org/](https://securityplanner.org/)]
 
 Electronic Frontier Foundation’s Surveillance Self-Defense guide. [[https://ssd.eff.org/](https://ssd.eff.org/)]
 
@@ -41,6 +43,8 @@ Alex Gaynor. “What happens when you type google.com into your browser's addres
 [[https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)]
 
 Rus Shuler. “How Does the Internet Work?” [[web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)]
+
+<div id="threats"></div>
 
 ### **Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape**
 

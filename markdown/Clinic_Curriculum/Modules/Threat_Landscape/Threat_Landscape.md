@@ -1,78 +1,87 @@
 ### ** Summary **
 
-This module introduces ethical considerations for clinical security work. Our look at ethics builds on the work of the Markulla Center for Applied Ethics, at Santa Clara University, and introduces a set of  ethical considerations and norms specific to the work of Citizen Clinic. (For more information, see [Citizen Clinic Code of Conduct](Student_Code_of_Conduct.md).)
+Module 4, Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape, immerses students in most salient threats to vulnerable civil society organizations and their use of both encrypted and unencrypted systems. This module explores common surveillance threats such as intercepting communication, deanonymizing targets, accessing targets’ online accounts, malware, and zero day exploits. Credit to Bill Marczak for developing the majority of this module and our specific implementation for Citizen Clinic.
 
 ### ** Learning Objectives **
 
-* Identify ethically significant harms in cybersecurity (and the Clinic)
-* Identify ethical challenges in cybersecurity (and the Clinic)
-* Understand best practices for cybersecurity ethics including the three components of informed consent
-* Understand one's mandate to regularly consider the ethics of their position and work
+*   Be able to define and identify common threats
+*   Compare surveillance threats across encrypted and unencrypted systems
+*   Understand the fiscal incentives involved in the likelihood of attacks
 
 ### ** Pre-Readings **
 
-* See Course Readings for ["Ethics and the Citizen Clinic Code of Conduct"](../../../Consolidated_Bibliography#ethics)
+See readings for [Digital Surveillance of Politically Vulnerable Organizations: The Threat Landscape](../../../Clinic_Curriculum/Consolidated_Bibliography/#threats)
 
-### ** Resources **
 
-* [Citizen Clinic Code of Conduct](Student_Code_of_Conduct.md)
+### ** Activity **
 
-### ** Activities **
+Using a recent breach or cyberattack in recent news or current events, have students discuss how they believe the attack happened, how the attack might have been worse, and what other techniques the adversary could have tried. 
 
-Read pages 7-21 & 48-52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf] Prepare answers to questions on pages 13-15 and page 53 for discussion.
+*   The goal of this activity is to start building the foundations of applying theory from the literature to current scenarios in advance of breaking down individual steps in the attack.
+*   Students should begin highlighting where and when the attack could have been prevented, according to the scenarios that they suggest (it’s ok if they do not have the facts on how the event actually happened). Introduce concepts such as ‘cyber kill chain’ if you feel it is appropriate. 
 
-Question 1.1: What risks of ethically significant harm, as defined in Part One, are involved in this case? Who could be harmed if Leslie makes poor choices in this situation, and how? What potential benefits to others should she consider in thinking about BioHack’s proposal?
-
-Question 1.2: Beyond the specific harms noted in your answer to 1.1, what are some ethical concerns that Leslie should have about the proposed arrangement with BioHack? Are there any ethical ‘red flags’ she should notice?
-
-Question 5.1: Of these 12 best practices for cybersecurity ethics, which two do you think are the most challenging to carry out? What do you think could be done (by an individual, team, or organization) to make those practices easier?
 
 ### ** Discussion **
 
-What ethically significant harms should we consider?
-
-What ethical challenges (Vallor pg 15-20) might we encounter?
+1. Are we concerned about a similar situation happening to us? Why or why not?
+2. What activities, tools, or other measures do we individually take that could prevent a similar situation from happening to us? What about the measures we take as a Clinic?
+3. Which of those things should be done regardless of the likelihood of the same attack happening to us? Which things might be burdensome for us to keep doing?
 
 
 ### ** Input **
 
-Consider “First, do no harm”... 
-
-...but discuss the limitations of that guiding principle.
-
-We should be intentional about the decisions we make and intervene in ways that will not make the situation worse. 
-Ultimately, the organization and its well-being should be your primary concern. However, you also have a duty to yourself, your family, and your team members. Sometimes it may seem like there are no good answers (for instance, doing nothing because there might be risk is not a resolution).
-If we view our interventions as already raising the risks for our partners and ourselves, what can we actively do to mitigate that? 
-
-Informed Consent
-
-* Discuss and define disclosure, comprehension, and voluntary participation.
-* Understand the effect of your institutional affiliation and positioning.
-
-Tools and methods for good (ethical) can be used for bad (unethical).
-
-Important questions to regularly ask:
-
-* Are you, your team, or your partner able to do this?
-* Are you, your team, or your partner willing to do this?
-* Do you, your team, or your partner have any conflicts of interest?
+*   (_Reference to the Le Blond reading_) Define “targeted attacks” and “APTs” or “advanced persistent threats.”
+*   Reminder of ethical use of the discussed information
+*   Risks of unencrypted communications
+    *   Phone calls and SMS are really bad for confidentiality!
+    *   Weaknesses in SS7 protocol: See Circles and Hacking Team [https://www.adaptivemobile.com/blog/can-they-hear-you-now-hacking-team-ss7](https://www.adaptivemobile.com/blog/can-they-hear-you-now-hacking-team-ss7) 
+    *   Telecommunication provider cooperation with governments: See case of Nokia Siemens
+    *   Also, Call detail records, tower dumps, and cell site simulators
+*   Risks of Encrypted communications
+    *   Deanonymizing targets
+        *   Identifying IP address via IP loggers sites, server logs, and tracking images 
+        *   Governments take IP address to ISP via court order 
+    *   Accessing targets’ online accounts and communications
+        *   Frontdoor: Social engineering
+            *   Phishing
+            *   Account Recovery Process
+            *   Asking recovery code sent to their own phone
+        *   Backdoor: Government requests to platforms
+            *   See Transparency Reports to get an idea of which countries are more likely to get responses from platforms
+    *   Malware and zero-day exploits
+        *   Malicious attachments & macros: See Finfisher and Project Raven 
+        *   MITM & Deep Packet Inspection to replacing (unencrypted) downloads with spyware: See PacketLogic and spyware injection in Turkey
+        *   NSO Group: Pegasus and 1-click / 0-click deployment on phones
 
 ### ** Deepening **
 
-What should our Code of Ethics look like? (Vallor pg 48)
+*   How should we think of these threats?
+    *   Wiretapping
+    *   Phone tracking
+    *   Targeted deanonymization
+    *   Intel gathering
+    *   Phishing
+    *   Targeted malware
+    *   Zero-day
+    *   Packet injection
+    *   Non-targeted surveillance
+    *   Accidental ransomware download
+    *   Bitcoin scam
+*   In small groups, have students categorize those attacks into 4 to 5 groups according to... 
+    *   the relative cost for adversaries to deploy them against an individual NGO.
+    *   the relative frequency that adversaries deploy them against an individual NGO.
+*   As groups share their suggested categories & rankings, discuss how fiscal incentives may or may not have a bearing on how common an attack is likely to occur.
+*   Ask and discuss how controls from the communications setup in Module 3 might help protect the Clinic from the described attacks. 
+
 
 ### ** Synthesis **
 
-Review the Citizen Clinic Code of Conduct.
-Highlights:
+*   Given all of these threats, how can an organization raise the bar and the resources an adversary needs to dedicate against the targeted NGO?
+    *   Securing accounts is something we’ve discussed but now we see the need to understand these attacks, think critically, and rely upon others in an organization.
+        *   Use an alternative communication channel to contact the sender of a suspicious message
+        *   Don’t click immediately or at all (eg, expand shortened URLs, go to website directly)
+        *   Ask yourself: would the government actually call me if there was a problem with my taxes?
+        *   See something, say something: others in an organization are likely to be targeted as well.
+*   Social engineering is an important component of targeted attacks. Why? 
+*   We see the need for not just technical controls, but organizations require awareness, training, policies, cohesion, and well-being in its staff. Why?
 
-* Harassment and Discrimination
-* Operational Security
-* Confidentiality
-* Professionalism
-* Reporting
-
-
-### ** Assignments **
-
-Review and submit signed Code of Conduct.

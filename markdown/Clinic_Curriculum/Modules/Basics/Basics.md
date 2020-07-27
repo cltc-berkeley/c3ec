@@ -68,8 +68,7 @@ Other options:
 [30 mins in-class, continue as homework] Have students set up their personal devices or assigned devices according to a default, prescribed organizational “secure” configuration or policy that you create. 
 
 *   The purpose of this activity is to setup the basic security to conduct clinic work. Second, students will empathize with an onboarding process that they may propose for their future client organizations. Finally, they may gain further appreciation of the operational burdens of working in a “high security” environment.
-*   When possible, check on student learning by having them perform a task that demonstrates that they have completed the proper setup. For instance, students can send you an encrypted message or a secure note via a password manager.
-*   Alternatively, use admin tools from managed service providers to report whether students have enrolled in 2FA or changed passwords.
+*   When possible, check on student learning by having them perform a task that demonstrates that they have completed the proper setup. For instance, students can send you an encrypted message or a secure note via a password manager. Alternatively, use admin tools from managed service providers to report whether students have enrolled in 2FA or changed passwords.
 *   Use the Baseline Organizational Security Guide to help you create this policy in advance of your course creation.  Elements to consider:
     *   How might students use their personal devices or clinic-assigned devices? What device policies are required? Automatic updates?  
     *   Will you use virtual machines? If a student’s device does not meet your minimum system requirements, how will you provide a device? 
@@ -94,7 +93,9 @@ Discuss the advantages and disadvantages of prescribed security policy. Receivin
 
 ### ** Assignments **
 
-####   Complete communications setup (see Deepening activity) according to Clinic protocol. Encourage students to help one another to complete or to use office hours.
+####   Complete communications setup. 
+
+Complete the communications setup (see Deepening activity) according to your Clinic protocol. Encourage students to help one another to complete or to use office hours.
 
 ####   Optional reflection assignment.
 
