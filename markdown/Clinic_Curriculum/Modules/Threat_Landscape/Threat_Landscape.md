@@ -56,21 +56,21 @@ Using a recent breach or cyberattack in recent news or current events, have stud
 ### ** Deepening **
 
 How should we think of these threats?
-    *   Wiretapping
-    *   Phone tracking
-    *   Targeted deanonymization
-    *   Intel gathering
-    *   Phishing
-    *   Targeted malware
-    *   Zero-day
-    *   Packet injection
-    *   Non-targeted surveillance
-    *   Accidental ransomware download
-    *   Bitcoin scam
+*   Wiretapping
+*   Phone tracking
+*   Targeted deanonymization
+*   Intel gathering
+*   Phishing
+*   Targeted malware
+*   Zero-day
+*   Packet injection
+*   Non-targeted surveillance
+*   Accidental ransomware download
+*   Bitcoin scam
 
 In small groups, have students categorize those attacks into 4 to 5 groups according to... 
-    *   the relative cost for adversaries to deploy them against an individual NGO.
-    *   the relative frequency that adversaries deploy them against an individual NGO.
+*   the relative cost for adversaries to deploy them against an individual NGO.
+*   the relative frequency that adversaries deploy them against an individual NGO.
 
 As groups share their suggested categories & rankings, discuss how fiscal incentives may or may not have a bearing on how common an attack is likely to occur. Ask and discuss how controls from the communications setup in Module 3 might help protect the Clinic from the described attacks. 
 
