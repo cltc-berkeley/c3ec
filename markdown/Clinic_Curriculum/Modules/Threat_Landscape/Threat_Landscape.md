@@ -56,6 +56,7 @@ Using a recent breach or cyberattack in recent news or current events, have stud
 ### ** Deepening **
 
 How should we think of these threats?
+
 *   Wiretapping
 *   Phone tracking
 *   Targeted deanonymization
@@ -69,6 +70,7 @@ How should we think of these threats?
 *   Bitcoin scam
 
 In small groups, have students categorize those attacks into 4 to 5 groups according to... 
+
 *   the relative cost for adversaries to deploy them against an individual NGO.
 *   the relative frequency that adversaries deploy them against an individual NGO.
 
@@ -78,6 +80,7 @@ As groups share their suggested categories & rankings, discuss how fiscal incent
 ### ** Synthesis **
 
 Given all of these threats, how can an organization raise the bar and the resources an adversary needs to dedicate against the targeted NGO?
+
 *   Securing accounts is something we’ve discussed but now we see the need to understand these attacks, think critically, and rely upon others in an organization.
    	*   Use an alternative communication channel to contact the sender of a suspicious message
     *   Don’t click immediately or at all (eg, expand shortened URLs, go to website directly)
