@@ -5,7 +5,7 @@ Research Process, Prototype, and Justifications
 
 Citizen Clinic, Spring 2020
 
-Rachael Cornejo and Thyne Bookmark
+Rachael Cornejo and Thyne Boonmark
 
 ____________________________________________________________________________
 
@@ -199,7 +199,7 @@ We learned that rather than subjectively evaluating whether a certain tool is â€
 
 We extend our utmost thanks to the following people for providing invaluable input and advice on this project: Steve Trush, Citizen Clinic; Kristin Berdan, Citizen Clinic; Bill Marczak, Citizen Clinic & Citizen Lab; Justin Seitz, Hunch.ly; Michael Elsanadi, Syrian Archive; John Ortilla, Human Rights Investigations Lab at UC Berkeley Law.
 
-<<div id="prototype"></div>
+<div id="prototype"></div>
 
 ## Current Prototype
 
