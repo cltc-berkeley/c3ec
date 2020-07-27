@@ -190,12 +190,13 @@ Our research team has completed the first steps towards creating a framework whi
 We learned that rather than subjectively evaluating whether a certain tool is “safe,” we should teach investigators to evaluate tools based upon the investigators’ specific project and situation. Our framework should bring investigators attention to security features that are important, but which these investigators may never have considered. Thus, our tool should provide a learning experience to investigators as to which security considerations should be taken into account and why. Our team is still grappling with the best way to encourage such learning in a usable, simple format, but further testing and refinement should help achieve this goal.
 
 
-## Acknowledgments
+### Acknowledgments
 
 We extend our utmost thanks to the following people for providing invaluable input and advice on this project: Steve Trush, Citizen Clinic; Kristin Berdan, Citizen Clinic; Bill Marczak, Citizen Clinic & Citizen Lab; Justin Seitz, Hunch.ly; Michael Elsanadi, Syrian Archive; John Ortilla, Human Rights Investigations Lab at UC Berkeley Law.
 
 
-# Current Prototype
+
+## Current Prototype
 
 <table>
   <tr>
