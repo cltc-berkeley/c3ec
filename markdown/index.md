@@ -19,7 +19,7 @@ Visit this [page](Case_Studies/) to read case studies about our recent work.
 
 ___
 
-[<img style="float: left; padding: 10px;" src="../../../images/rightscon.png" width=200x>](https://rightscon.course.tc/2020/events/risky-osint-evaluating-tool-security-during-your-human-rights-investigation-2xc9TMa5Q7gseDkHKCnoWu) ** Our materials from our RightsCon 2020 session "Risky OSINT? Evaluating Tool Security during your Human Rights Investigation": ** [Our Paper and Proposed Evaluation Matrix Design.](Clinic_Infrastructure/OSINT_Evaluation)
+[<img style="float: left; padding: 10px;" src="../../../images/rightscon.png" width=200x>](https://www.citizenclinic.io/Clinic_Infrastructure/OSINT_Evaluation/) ** Our materials from our RightsCon 2020 session "Risky OSINT? Evaluating Tool Security during your Human Rights Investigation": ** [Our Paper and Proposed Evaluation Matrix Design.](Clinic_Infrastructure/OSINT_Evaluation)
 Add [our RightsCon session](https://rightscon.course.tc/2020/events/risky-osint-evaluating-tool-security-during-your-human-rights-investigation-2xc9TMa5Q7gseDkHKCnoWu) at Monday, July 27 from 1:15-2:15 PM PDT to your schedule.
 
 ___
