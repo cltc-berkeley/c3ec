@@ -9,6 +9,11 @@ Rachael Cornejo and Thyne Bookmark
 
 ____________________________________________________________________________
 
+Skip to [current prototype.]("#prototype")
+
+Want to get involved? Fill out this form: https://forms.gle/8pKCoVpkKKEzrjU6A
+
+__________
 
 ## Motivation
 
@@ -197,6 +202,8 @@ We extend our utmost thanks to the following people for providing invaluable inp
 
 
 ## Current Prototype
+
+<div id="prototype"></div>
 
 <table>
   <tr>
@@ -498,10 +505,10 @@ Frequency of updates can be helpful in determining how well a tool is maintained
      [https://www.eff.org/deeplinks/2018/03/why-we-cant-give-you-recommendation](https://www.eff.org/deeplinks/2018/03/why-we-cant-give-you-recommendation)
 
 [^13]:
-     Musiani, F. and Ermoshina, K. (2017). What is a Good Secure Messaging 
+     [Musiani, F. and Ermoshina, K. (2017). What is a Good Secure Messaging 
     Tool? The EFF Secure Messaging Scorecard and the Shaping of Digital
     (Usable) Security. Westminster Papers in Communication and Culture,
-    12(3), 51–71.  doi:10.16997/wpcc.265
+    12(3), 51–71.  doi:10.16997/wpcc.265](https://www.westminsterpapers.org/articles/10.16997/wpcc.265/)
 
 [^14]:
 
