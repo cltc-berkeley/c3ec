@@ -13,9 +13,12 @@ ___
 
 ## **The Citizen Clinic Cybersecurity Education Center**
 
-The Citizen Clinic Cybersecurity Education Center is designed to share basic cybersecurity resources for civil society organizations, and to inform other academic institutions that may be interested in adopting the clinic model. Visit this [page](Case_Studies/) to read case studies about our recent work.
+The Citizen Clinic Cybersecurity Education Center is designed to share basic cybersecurity resources for civil society organizations, and to inform other academic institutions that may be interested in adopting the clinic model. 
 
-![alt_text](../../../images/rightscon.png "RightsCon2020 Logo") Our materials from our RightsCon 2020 session "Risky OSINT? Evaluating Tool Security during your Human Rights Investigation": [Our Paper and Proposed Evaluation Matrix Design.](Clinic_Infrastructure/OSINT_Evaluation)
+Visit this [page](Case_Studies/) to read case studies about our recent work.
+
+
+[<img style="float: left; padding: 10px;" src="../../../images/rightscon.png" width=200x>](https://rightscon.course.tc/2020/events/risky-osint-evaluating-tool-security-during-your-human-rights-investigation-2xc9TMa5Q7gseDkHKCnoWu) Our materials from our RightsCon 2020 session "Risky OSINT? Evaluating Tool Security during your Human Rights Investigation": [Our Paper and Proposed Evaluation Matrix Design.](Clinic_Infrastructure/OSINT_Evaluation)
 Add [our RightsCon session](https://rightscon.course.tc/2020/events/risky-osint-evaluating-tool-security-during-your-human-rights-investigation-2xc9TMa5Q7gseDkHKCnoWu) at Monday, July 27 from 1:15-2:15 PM PDT to your schedule.
 
 
