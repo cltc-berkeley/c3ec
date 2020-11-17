@@ -120,6 +120,7 @@ Threats may have greater impact depending on the context, content, audience, mot
 **Identify controls.**
 
 Top 4:
+
 *  Physical Security (‘Get out of Dodge’ plan)
 *  Digital Security (Lock down accounts)
 *  Mental Wellbeing (Preventing psychological harms)
