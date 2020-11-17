@@ -74,6 +74,7 @@ Work product, communications, and other partner-facing materials you may produce
 
 Please report any issues related to the Code of Conduct to:
 
+
 * Faculty or staff member
 * Faculty or staff member  
 
