@@ -14,7 +14,7 @@ This module introduces the concept of psychosocial resilience and how mental wel
 
 ### ** Resources **
 
-* [Rated R for Resilence toolkits]](https://sites.google.com/view/ratedr/basics) 
+* [[Rated R for Resilence toolkits](https://sites.google.com/view/ratedr/basics)] 
 
 ### ** Discussion **
 
@@ -22,7 +22,7 @@ Throughout this module, students will be introduced to four scenarios that stres
 
 **Scenario 1.**
 
-1. Employees of a Clinic partner NGO suffer recurring violent online threats that include the public sharing of their names, telephone numbers, and home addresses. Once phone numbers are shared, the employees receive a storm of threatening text messages and voicemail from multiple people. The NGO asks the student team for best practices on how to handle this case.
+*1.* Employees of a Clinic partner NGO suffer recurring violent online threats that include the public sharing of their names, telephone numbers, and home addresses. Once phone numbers are shared, the employees receive a storm of threatening text messages and voicemail from multiple people. The NGO asks the student team for best practices on how to handle this case.
     1. How might employees’ decision-making be affected during this crisis?
     2. What can an organization do to improve resiliency in advance?
     3. What can an organization offer for their employees’ recovery / repair?
@@ -46,14 +46,14 @@ Key question to self-care is knowing the answer to “what’s normal for you?�
 
 **Discuss Scenario 2.**
 
-2. Students working with a Clinic partner NGO conduct interviews of employees to learn about the nature of threats to the organization. The NGO employees speak frankly about the threats or harms that face their organization or their colleagues, including telling the student teams about NGO colleagues that have been victims of sexual violence and murder.
+*2.* Students working with a Clinic partner NGO conduct interviews of employees to learn about the nature of threats to the organization. The NGO employees speak frankly about the threats or harms that face their organization or their colleagues, including telling the student teams about NGO colleagues that have been victims of sexual violence and murder.
     4. How might students prepare for these types of discussions?
     5. How might students handle possible triggers during a partner interaction, especially when other students seem unaffected?
     6. How might students process (emotionally) and analyze (for work) the collected information?
 
 **Discuss Scenario 3.**
 
-3. Students while researching a far-right wing extremist group may view violent and hateful content on online forums and social media. Some of the threats are very graphic, may include imagery (usually memes) and involve targeting people based on gender, sexuality, race, or ability.
+*3.* Students while researching a far-right wing extremist group may view violent and hateful content on online forums and social media. Some of the threats are very graphic, may include imagery (usually memes) and involve targeting people based on gender, sexuality, race, or ability.
     7. How might students prepare for this type of research?
     8. How might students identify their boundaries for the content that they view?
     9. How might students process (emotionally) and analyze (for work) the collected information?
@@ -62,7 +62,7 @@ Key question to self-care is knowing the answer to “what’s normal for you?�
 
 **Discuss Scenario 4.**
 
-4. Security assistance providers often have a heightened fear of failure or the perception of failure given their position of providing security advice. Undue stress may affect students as they may adopt a protector role, wanting to ensure their recommendations are unrealistically “perfect” so that they don’t feel be responsible for the next attack against the partner NGO.
+*4.* Security assistance providers often have a heightened fear of failure or the perception of failure given their position of providing security advice. Undue stress may affect students as they may adopt a protector role, wanting to ensure their recommendations are unrealistically “perfect” so that they don’t feel be responsible for the next attack against the partner NGO.
     10. How might the Clinic avoid creating a zero-defect environment?
     11. How might students maintain realistic expectations and/or “healthy anxiety” about
     12. their recommendations?
