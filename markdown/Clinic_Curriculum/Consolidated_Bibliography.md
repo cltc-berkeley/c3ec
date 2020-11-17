@@ -56,6 +56,8 @@ Vernon Silver and Ben Elgin. “Torture in Bahrain Becomes Routine With Help Fro
 
 John Scott-Railton et al, Citizen Lab. “Bittersweet: Supporters of Mexico’s soda tax targeted with NSO exploit links” [[https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/](https://citizenlab.ca/2017/02/bittersweet-nso-mexico-spyware/)]
 
+<div id="reframing"></div>
+
 ### **Problem Diagnosis and Reframing**
 
 Netgain. “Digital Security and Grantcraft Guide” [[fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf](https://www.fordfoundation.org/media/3334/digital-security-grantcraft-guide-v10-final-22317.pdf)]
@@ -63,6 +65,8 @@ Netgain. “Digital Security and Grantcraft Guide” [[fordfoundation.org/media/
 Arthur Turner. “Consulting Is More Than Giving Advice” [[https://hbr.org/1982/09/consulting-is-more-than-giving-advice](https://hbr.org/1982/09/consulting-is-more-than-giving-advice)]
 
 Thomas Wedell-Wedellsborg. “Are You Solving the Right Problems?” [[https://hbr.org/2017/01/are-you-solving-the-right-problems](https://hbr.org/2017/01/are-you-solving-the-right-problems)] 
+
+<div id="modeling"></div>
 
 ### **Threat Modeling & Bounding Risk Assessments** 
 

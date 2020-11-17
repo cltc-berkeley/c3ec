@@ -30,6 +30,10 @@ nav:
             - Old School INFOSEC Overview: Clinic_Curriculum/Modules/Basics/Basics.md
           - Digital Surveillance Threat Landscape:
             - Threat Landscape Overview: Clinic_Curriculum/Modules/Threat_Landscape/Threat_Landscape.md
+          - Problem Diagnosis and Reframing:
+            - Diagnosis and Reframing Overview: Clinic_Curriculum/Modules/Problem_Reframing/Problem_Reframing.md
+          - Threat Modeling and Bounding Risk Assessments:
+            - Threat Modeling Overview: Clinic_Curriculum/Modules/Threat_Modeling/Threat_Modeling.md
           - Contextual and Capacity Research:
             - Contextual Research Overview: Clinic_Curriculum/Modules/Contextual_Research/Contextual_Research.md
             - PESTLE-M Worksheet: Clinic_Curriculum/Modules/Contextual_Research/PESTLE-M_Worksheet.md
