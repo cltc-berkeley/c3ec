@@ -1,6 +1,6 @@
 # Citizen Clinic Cybersecurity Education Center
 
-To modify this site and reupload: You will need to make changes to the Markdown files contained in the "markdown" folder. 
+To modify this site and reupload: You will need to make changes to the Markdown files contained in the "markdown" folder.
 
 Do **not** change the HTML in the docs folder.
 
