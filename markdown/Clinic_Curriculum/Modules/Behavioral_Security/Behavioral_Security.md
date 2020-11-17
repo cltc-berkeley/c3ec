@@ -85,20 +85,31 @@ Your attention filter evolved to respond to two categories of stimuli
 
 ### ** Deepening **
 
-What should our Code of Ethics look like? (Vallor pg 48)
+Have students consider the following approaches to changing the security behavior of their partner organization.
+
+*   Should they make users aware of how the underlying technology works? Or make their choices as simple as possible?
+*   Should they use peer learning and social influence?  Or rules?
+*   Should they use risk-assessment mindsets? Or simple heuristics?
+
+Use this list of tradeoffs to guide the conversation:
+
+*   Concrete incentives vs peer pressure vs knowledge of why
+*   Specificity and customization (guides) vs Generalizability and transferability
+*   Assume a level of pre-existing knowledge vs Idiot-proofness
+*   Showing a payoff (you’re more secure) vs the Fredkin paradox 
+*   Risk mindset vs Worst-case thinking
+*   Feedback and dialogue vs Time and efficacy
 
 ### ** Synthesis **
 
-Review the Citizen Clinic Code of Conduct.
-Highlights:
+Discuss the following examples and strategies of changing security behavior (and connect them to the aforementioned tradeoffs):
 
-* Harassment and Discrimination
-* Operational Security
-* Confidentiality
-* Professionalism
-* Reporting
+*   1-on-1 Training
+*   Workshop
+*   Online training
+*   Guides
+*   Reports
+*   Technical Audits
+*   Workplace Incentive Programs
+*   “Name and Shame” Programs
 
-
-### ** Assignments **
-
-Review and submit signed Code of Conduct.
