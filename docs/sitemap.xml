@@ -61,6 +61,16 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/Information_Gathering/Information_Gathering/</loc>
+     <lastmod>2020-11-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/OSINT/OSINT/</loc>
+     <lastmod>2020-11-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/Adversary_Personas/Adversary_Personas/</loc>
      <lastmod>2020-11-17</lastmod>
      <changefreq>daily</changefreq>

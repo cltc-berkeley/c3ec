@@ -89,6 +89,8 @@ Read and Explore Examples About PESTLE. *(use an ad-blocker!)* [[https://pestlea
 
 Jorge Luis Sierra. “Digital and Mobile Security for Mexican Journalists and Bloggers” [[https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf](https://freedomhouse.org/sites/default/files/Digital%20and%20Mobile%20Security%20for%20Mexican%20Journalists%20and%20Bloggers.pdf)] 
 
+<div id="gathering"></div>
+
 ### **Information Gathering**
 
 Ruba Abu-Salma et al. “Obstacles to the Adoption of Secure Communication Tools” [[https://ieeexplore.ieee.org/abstract/document/7958575/](https://ieeexplore.ieee.org/abstract/document/7958575/)]
@@ -100,6 +102,8 @@ Jenna Burrell. "The Field Site as a Network: A Strategy for Locating Ethnographi
 Collaboration on International ICT Policy in East and Southern Africa. “Safeguarding Civil Society: Assessing Internet Freedom and the Digital Resilience of Civil Society in East Africa” - Read each chapter, but for one country only. [[https://cipesa.org/?wpfb_dl=237](https://cipesa.org/?wpfb_dl=237)] 
 
 Lofland and Lofland. Read Chapter 5 (66-98) "Logging Data" in "Analyzing social settings: A guide to qualitative observation and analysis" [[https://searchworks.stanford.edu/view/10531063](https://searchworks.stanford.edu/view/10531063)]
+
+<div id="osint"></div>
 
 ### **Open Source Research Methods, Safety, and Tools**
 

@@ -1,78 +1,140 @@
 ### ** Summary **
 
-Module 2 introduces ethical considerations for clinical security work. Our look at ethics builds on the work of the Markulla Center for Applied Ethics, at Santa Clara University, and introduces a set of  ethical considerations and norms specific to the work of Citizen Clinic. (For more information, see [Citizen Clinic Code of Conduct](Student_Code_of_Conduct.md).)
+This module describes how open source intelligence (or open source investigative techniques or OSINT) can be used for research. While OSINT uses publicly available sources of information to learn about an organization, an individual, or their contexts, there are risks that students and partners may face by gathering the information. This module will discuss safety precautions and tools to effectively organize collected information.
 
 ### ** Learning Objectives **
 
-* Identify ethically significant harms in cybersecurity (and the Clinic)
-* Identify ethical challenges in cybersecurity (and the Clinic)
-* Understand best practices for cybersecurity ethics including the three components of informed consent
-* Understand one's mandate to regularly consider the ethics of their position and work
+*   Learn how open source information can be used to protect civil society from cyberattacks.
+*   Understand common OSINT techniques & sources for security researchers.
+*   Determine when and how to begin collecting open source information.
 
 ### ** Pre-Readings **
 
-* See Course Readings for ["Ethics and the Citizen Clinic Code of Conduct"](../../../Consolidated_Bibliography#ethics)
+* See Course Readings for ["Ethics and the Citizen Clinic Code of Conduct"](../../../Consolidated_Bibliography#osint)
 
 ### ** Resources **
 
-* [Citizen Clinic Code of Conduct](Student_Code_of_Conduct.md)
+* [Citizen Clinic Virtual Identities guide](../../../Clinic_Infrastructure/Virtual_Identities.md)
+* [Citizen Clinic Virtual Private Network guide](../../../Clinic_Infrastructure/VPN.md)
 
 ### ** Activities **
 
-Read pages 7-21 & 48-52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf] Prepare answers to questions on pages 13-15 and page 53 for discussion.
+OSINT, open source intelligence (or open source investigative techniques), is using publicly available sources of information to learn about an organization, an individual, or their contexts.
 
-Question 1.1: What risks of ethically significant harm, as defined in Part One, are involved in this case? Who could be harmed if Leslie makes poor choices in this situation, and how? What potential benefits to others should she consider in thinking about BioHack’s proposal?
+Pop quiz! True or False?
 
-Question 1.2: Beyond the specific harms noted in your answer to 1.1, what are some ethical concerns that Leslie should have about the proposed arrangement with BioHack? Are there any ethical ‘red flags’ she should notice?
-
-Question 5.1: Of these 12 best practices for cybersecurity ethics, which two do you think are the most challenging to carry out? What do you think could be done (by an individual, team, or organization) to make those practices easier?
+1. OSINT-gathering activities cannot be attributed to the collector or collecting organization. 
+2. Sources of OSINT information or methods of collection do not need to be protected.
+3. OSINT is easily accessible.
+4. OSINT can require a degree of technical expertise.
 
 ### ** Discussion **
 
-What ethically significant harms should we consider?
+Discuss the answers to the previous activity as a class.
 
-What ethical challenges (Vallor pg 15-20) might we encounter?
+Why might open source information be useful in our work with civil society organizations?
 
 
 ### ** Input **
 
-Consider “First, do no harm”... 
+Major categories of open source information:
 
-...but discuss the limitations of that guiding principle.
+*   Public media sources: news reports, printed magazines, and newspapers
+*   Internet (Web 2.0) sources: archives, social media, blogs, discussion groups
+*   Public government data: hearings, budgets, directories, and other public records.
+*   Professional and academic publications: papers, theses, dissertations, and journals.
+*   Commercial data: corporate databases, financial, and industrial assessments.
+*   Grey data: Public but hard to get… conference promotional material, business documents, unpublished works, technical reports...
 
-We should be intentional about the decisions we make and intervene in ways that will not make the situation worse. 
-Ultimately, the organization and its well-being should be your primary concern. However, you also have a duty to yourself, your family, and your team members. Sometimes it may seem like there are no good answers (for instance, doing nothing because there might be risk is not a resolution).
-If we view our interventions as already raising the risks for our partners and ourselves, what can we actively do to mitigate that? 
+Starting points:
 
-Informed Consent
+*   Direct from target websites
+*   Nihad Hassan’s OSINT.Link: https://osint.link  
+*   OSINT Framework: https://osintframework.com/
+*   Bellingcat Online Investigation Toolkit: https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit 
 
-* Discuss and define disclosure, comprehension, and voluntary participation.
-* Understand the effect of your institutional affiliation and positioning.
+OSINT is an iterative process of methodically collecting, archiving, analyzing, and re-examining available data. Provide examples of taking a piece of information (such as domain name) and uncovering additional pieces of information (such as the real name of a website owner).
 
-Tools and methods for good (ethical) can be used for bad (unethical).
+Key questions for this work:
 
-Important questions to regularly ask:
+*   How to organize collected information?
+*   How to keep track of where you’ve been?
+*   How to stay safe?
 
-* Are you, your team, or your partner able to do this?
-* Are you, your team, or your partner willing to do this?
-* Do you, your team, or your partner have any conflicts of interest?
+Tools for organization and archiving:
+
+*   CherryTree
+*   Maltego
+*   Hunch.ly
+
+How and where can your OSINT activities be tracked ?
+
+*  Browser History
+*  Router / Access Point
+*  Internet Service Provider
+*  Sites you directly visit (HTTP vs HTTPS)
+*  3rd Party Sites (Lightbeam extension on Firefox)
+*  What else?
+
+How can we protect our open source investigations?
+
+*   Virtual Private Networks
+*   The Onion Router aka TOR (or Orbot)
+*   Using a common browser (https://panopticlick.eff.org/)
+*   Using Incognito / Private Mode
+*   Using browser extensions:
+    *   HTTPSeverywhere
+    *   PrivacyBadger
+    *   Brave “Shields Up”
+*   “Burner” devices / virtual machines
+*   Virtual identities, profiles & user accounts
+*   Maintain separation between searches / sessions
+*   Smart defaults (Ex: DuckDuckGo vs Google for searches)
+*   Critical Thinking (avoid inadvertent connections)
+
+Google Dorking (Advanced Search Queries): https://exposingtheinvisible.org/guides/google-dorking/
+
+	Search: 
+
+	* site:[target website] filetype:[pdf, docx, doc, xls or xlsx]
+
+	* [target name] filetype:pdf 
+
+	Write a script: 
+
+	* site:[target website] + https://gist.github.com/heiswayi/641201f3bac04168108a 
+
+Automated: 
+
+recon-ng (in Kali) - you still need to enter API keys for most searches
 
 ### ** Deepening **
 
-What should our Code of Ethics look like? (Vallor pg 48)
+Each student team should create an OSINT research plan to gather information about their client’s context or potential threats.
+
+The plan should contain the following:
+
+1. What information are you seeking?
+2. Where are you going to look?
+3. What tools / resources do you need? (including burner accounts)
+4. What precautions will you take to…
+    1. Protect yourself?
+    2. Protect your partner(s)?
+    3. Protect your investigation?
+5. What is your documentation system?
+    1. Document your searches performed / sites visited / tools used
+        1. Date, URL, & search terms at minimum
+    2. Investigation type can dictate archive needs (do you need to capture the entire site? Screenshot?)
+
+Each team will share elements of their plan with the class.
 
 ### ** Synthesis **
 
-Review the Citizen Clinic Code of Conduct.
-Highlights:
+OSINT is not just an exercise in collecting all available information about an individual or organizations. When a practitioner reports their findings, they should succinctly describe:
 
-* Harassment and Discrimination
-* Operational Security
-* Confidentiality
-* Professionalism
-* Reporting
+1. What is the information?
+2. Why does it matter? How could it be used?
+3. Where (and when) did the information come from?
+4. If defensive (ie, about a partner), is there a way to mitigate or prevent the information from being used in an attack?
+5. If offensive (ie, about a threat), what are the next steps? Are there immediate actions that should take place?
 
-
-### ** Assignments **
-
-Review and submit signed Code of Conduct.

@@ -21,23 +21,27 @@ nav:
     - Curriculum:
         - Lesson Modules: 
           - Index: Clinic_Curriculum/Lesson_Modules.md
-          - Introduction to Public Interest Cybersecurity:
+          - 1. Introduction to Public Interest Cybersecurity:
             - Intro Overview: Clinic_Curriculum/Modules/Intro/Intro.md
-          - Code of Conduct & Ethics: 
+          - 2. Code of Conduct & Ethics: 
             - Ethics Overview: Clinic_Curriculum/Modules/Ethics/Ethics.md
             - Code of Conduct: Clinic_Curriculum/Modules/Ethics/Student_Code_of_Conduct.md
-          - Old School INFOSEC - Basic Controls:
+          - 3. Old School INFOSEC - Basic Controls:
             - Old School INFOSEC Overview: Clinic_Curriculum/Modules/Basics/Basics.md
-          - Digital Surveillance Threat Landscape:
+          - 4. Digital Surveillance Threat Landscape:
             - Threat Landscape Overview: Clinic_Curriculum/Modules/Threat_Landscape/Threat_Landscape.md
-          - Problem Diagnosis and Reframing:
+          - 5. Problem Diagnosis and Reframing:
             - Diagnosis and Reframing Overview: Clinic_Curriculum/Modules/Problem_Reframing/Problem_Reframing.md
-          - Threat Modeling and Bounding Risk Assessments:
+          - 6. Threat Modeling and Bounding Risk Assessments:
             - Threat Modeling Overview: Clinic_Curriculum/Modules/Threat_Modeling/Threat_Modeling.md
-          - Contextual and Capacity Research:
+          - 7. Contextual and Capacity Research:
             - Contextual Research Overview: Clinic_Curriculum/Modules/Contextual_Research/Contextual_Research.md
             - PESTLE-M Worksheet: Clinic_Curriculum/Modules/Contextual_Research/PESTLE-M_Worksheet.md
             - Contextual Assessment Requirements: Clinic_Curriculum/Modules/Contextual_Research/Contextual_Assessment_Info_Reqs.md
+          - 8. Information Gathering:
+            - Information Gathering Overview: Clinic_Curriculum/Modules/Information_Gathering/Information_Gathering.md
+          - 9. Open-Source Research Methods, Safety, and Tools:
+            - OSINT Overview: Clinic_Curriculum/Modules/OSINT/OSINT.md            
           - Adversary Persona Development:
             - Adversary Personas Overview: Clinic_Curriculum/Modules/Adversary_Personas/Adversary_Personas.md
           - Changing Security Behaviors:
