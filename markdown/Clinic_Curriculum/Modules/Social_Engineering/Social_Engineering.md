@@ -1,6 +1,6 @@
 ### ** Summary **
 
-In this module, students will learn how and why social engineering is a common threat to civil society organizations. Attacks like phishing are simple and inexpensive to construct and execute and are a common vector for additional escalating threats. By understanding how these attacks are constructed, practitioners are able to implement mitigations, deliver training, and evaluate resilience via phishing simulations. 
+In this module, students will learn how and why social engineering is a common threat to civil society organizations. Attacks like phishing are simple and inexpensive to construct and execute and are a common vector for additional escalating threats. By understanding how these attacks are constructed, security practitioners are able to implement mitigations, deliver training, and evaluate resilience via phishing simulations. 
 
 ### ** Learning Objectives **
 
