@@ -142,6 +142,8 @@ Mitre’s PRE-ATT&CK Techniques. [[https://attack.mitre.org/techniques/pre/](htt
 
 Mitre’s Common Vulnerabilities and Exposures search.[[https://cve.mitre.org/cve/](https://cve.mitre.org/cve/)]
 
+<div id="behavior"></div>
+
 ### **Changing Security Behaviors**
 
 The Engine Room. “Ties That Bind: Organisational Security for Civil Society” [[https://www.theengineroom.org/civil-society-digital-security-new-research/](https://www.theengineroom.org/civil-society-digital-security-new-research/)]
@@ -152,6 +154,8 @@ Francesca Musiani and Ksenia Ermoshina. “What is a Good Secure Messaging Tool?
 
 Alma Whitten and Doug Tygar. “Why Johnny Can’t Encrypt” [[https://www.usenix.org/legacy/publications/library/proceedings/sec99/full_papers/whitten/whitten_html/index.html](https://www.usenix.org/legacy/publications/library/proceedings/sec99/full_papers/whitten/whitten_html/index.html)]
 
+<div id="phishing"></div>
+
 ### **Social Engineering and Phishing**
 
 Citizen Clinic. "Phishing Simulation Policy" [[https://www.citizenclinic.io/Clinic_Infrastructure/Phishing_Simulation/](../../Clinic_Infrastructure/Phishing_Simulation/)]
@@ -161,6 +165,8 @@ Masashi Crete-Nishihata et al, Citizen Lab. "Spying on a Budget: Inside a Phishi
 Micah Lee, The Intercept. “It’s Impossible To Prove Your Laptop Hasn’t Been Hacked. I Spent Two Years Finding Out.” [[https://theintercept.com/2018/04/28/computer-malware-tampering/](https://theintercept.com/2018/04/28/computer-malware-tampering/)]
 
 Rachel Tobac. Social Proof Security. “How I would Hack You: Social Engineering Step-by-Step”  [[https://www.youtube.com/watch?v=L5J2PgGOLtE](https://www.youtube.com/watch?v=L5J2PgGOLtE)] 
+
+<div id="training"></div>
 
 ### **Designing Security Training**
 
