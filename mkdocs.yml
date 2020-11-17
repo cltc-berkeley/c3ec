@@ -42,14 +42,21 @@ nav:
             - Information Gathering Overview: Clinic_Curriculum/Modules/Information_Gathering/Information_Gathering.md
           - 9. Open-Source Research Methods, Safety, and Tools:
             - OSINT Overview: Clinic_Curriculum/Modules/OSINT/OSINT.md            
-          - Adversary Persona Development:
+          - 11. Adversary Persona Development:
             - Adversary Personas Overview: Clinic_Curriculum/Modules/Adversary_Personas/Adversary_Personas.md
-          - Changing Security Behaviors:
+          - 12. Threat Scenario Development:
+            - Threat Scenarios Overview: Clinic_Curriculum/Modules/Threat_Scenarios/Threat_Scenarios.md
+          - 13. Changing Security Behaviors:
             - Behavioral Security Overview: Clinic_Curriculum/Modules/Behavioral_Security/Behavioral_Security.md
-          - Social Engineering and Phishing:
+          - 14. Social Engineering and Phishing:
             - Social Engineering Overview: Clinic_Curriculum/Modules/Social_Engineering/Social_Engineering.md
-          - Designing Security Training:
+          - 15. Designing Security Training:
             - Designing Training Overview: Clinic_Curriculum/Modules/Designing_Training/Designing_Training.md
+          - 16. Psychosocial Resilience:
+            - Psychosocial Resilience Overview: Clinic_Curriculum/Modules/Psychosocial_Resilience/Psychosocial_Resilience.md
+          - 17. Harmful Information (Misinformation and Harassment):
+            - Harmful Information Overview: Clinic_Curriculum/Modules/Harmful_Information/Harmful_Information.md
+            - Mitigation Framework: Clinic_Curriculum/Modules/Harmful_Information/Mitigation_Framework.md
         - Syllabus: 
           - Spring 2020: Clinic_Curriculum/Clinic_Syllabus_Spring_2020.md
           - Fall 2019: Clinic_Curriculum/Clinic_Syllabus_Fall_2019.md

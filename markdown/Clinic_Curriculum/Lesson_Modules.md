@@ -34,7 +34,7 @@ Module 11. [Adversary Persona Development](../Modules/Adversary_Personas/Adversa
 
 #### *NEW!* Module 16. [Psychosocial Resilience](../Modules/Psychosocial_Resilience/Psychosocial_Resilience/)
 
-#### *NEW!* Module 17. [Beyond Hacking: Harmful Information (Misinformation and Harassment)](../Modules/Harmful_Information/Harmful_Information/)
+#### *NEW!* Module 17. [Harmful Information (Misinformation and Harassment)](../Modules/Harmful_Information/Harmful_Information/)
 ____
 
 

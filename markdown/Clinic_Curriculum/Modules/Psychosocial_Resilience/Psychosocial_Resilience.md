@@ -1,78 +1,75 @@
 ### ** Summary **
 
-Module 2 introduces ethical considerations for clinical security work. Our look at ethics builds on the work of the Markulla Center for Applied Ethics, at Santa Clara University, and introduces a set of  ethical considerations and norms specific to the work of Citizen Clinic. (For more information, see [Citizen Clinic Code of Conduct](Student_Code_of_Conduct.md).)
+This module introduces the concept of psychosocial resilience and how mental wellness impacts security practitioners and the organizations that they support. Addressing psychosocial resilience is important since trauma, including vicarious trauma, can compound vulnerabilities of digital safety and physical security. This module, based on work led by the UC Berkeley Human Rights Center and Rated R for Resilience, centers on open discussion as students and staff explore common scenarios that may introduce psychosocial harms.
 
 ### ** Learning Objectives **
 
-* Identify ethically significant harms in cybersecurity (and the Clinic)
-* Identify ethical challenges in cybersecurity (and the Clinic)
-* Understand best practices for cybersecurity ethics including the three components of informed consent
-* Understand one's mandate to regularly consider the ethics of their position and work
+*   Understand what psychosocial resilience and secondary/vicarious trauma are and why they are important in the context of helping partner organizations improve their digital security.
+*   Be familiar with how psychosocial resilience interacts with physical security and digital safety (holistic security).
+*   Discuss tools or approaches to enhance one’s own psychosocial resiliency for themselves, to minimize the risk of secondary trauma including work practices, identifying warning signs, and how to seek help.
 
 ### ** Pre-Readings **
 
-* See Course Readings for ["Ethics and the Citizen Clinic Code of Conduct"](../../../Consolidated_Bibliography#ethics)
+* See Course Readings for ["Psychosocial Resilience"](../../../Consolidated_Bibliography#resilience)
 
 ### ** Resources **
 
-* [Citizen Clinic Code of Conduct](Student_Code_of_Conduct.md)
-
-### ** Activities **
-
-Read pages 7-21 & 48-52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf] Prepare answers to questions on pages 13-15 and page 53 for discussion.
-
-Question 1.1: What risks of ethically significant harm, as defined in Part One, are involved in this case? Who could be harmed if Leslie makes poor choices in this situation, and how? What potential benefits to others should she consider in thinking about BioHack’s proposal?
-
-Question 1.2: Beyond the specific harms noted in your answer to 1.1, what are some ethical concerns that Leslie should have about the proposed arrangement with BioHack? Are there any ethical ‘red flags’ she should notice?
-
-Question 5.1: Of these 12 best practices for cybersecurity ethics, which two do you think are the most challenging to carry out? What do you think could be done (by an individual, team, or organization) to make those practices easier?
+* [Rated R for Resilence toolkits]](https://sites.google.com/view/ratedr/basics) 
 
 ### ** Discussion **
 
-What ethically significant harms should we consider?
+Throughout this module, students will be introduced to four scenarios that stress the importance of psychosocial resilience. Each scenario can be discussed as a class, in teams, or individually.
 
-What ethical challenges (Vallor pg 15-20) might we encounter?
+**Scenario 1.**
+
+1. Employees of a Clinic partner NGO suffer recurring violent online threats that include the public sharing of their names, telephone numbers, and home addresses. Once phone numbers are shared, the employees receive a storm of threatening text messages and voicemail from multiple people. The NGO asks the student team for best practices on how to handle this case.
+    1. How might employees’ decision-making be affected during this crisis?
+    2. What can an organization do to improve resiliency in advance?
+    3. What can an organization offer for their employees’ recovery / repair?
 
 
 ### ** Input **
 
-Consider “First, do no harm”... 
+Definitions (see [https://sites.google.com/view/ratedr/basics](https://sites.google.com/view/ratedr/basics) for more)
 
-...but discuss the limitations of that guiding principle.
+*   Trauma: A deeply distressing and disturbing experience or physical injury or fear for life
+*   Secondary trauma or vicarious trauma: An adverse reaction to the emotional residue of exposure to the pain and suffering of trauma survivors. Natural result of exercise of empathy as our brains don’t always distinguish between harm to self vs. harm to others.
+*   Stress: a state of mental or emotional strain or tension resulting from adverse or very demanding circumstances
+*   Burnout: physical or mental collapse caused by overwork or stress.
+*   Resiliency: the capacity to recover quickly from difficulties; toughness; another definition: the ability of a substance or object to spring back into shape; elasticity. Both a trait and a process; adapting well in the face of adversity, trauma, tragedy, threats, or significant sources of stress; May not be springing back but moving forward changed.
 
-We should be intentional about the decisions we make and intervene in ways that will not make the situation worse. 
-Ultimately, the organization and its well-being should be your primary concern. However, you also have a duty to yourself, your family, and your team members. Sometimes it may seem like there are no good answers (for instance, doing nothing because there might be risk is not a resolution).
-If we view our interventions as already raising the risks for our partners and ourselves, what can we actively do to mitigate that? 
+Psycho-social wellness interacts with physical security and digital safety in the framework of holistic security (see Tactical Tech’s https://holistic-security.tacticaltech.org/)
 
-Informed Consent
+Several tools and resources may be helpful to maintaining or recovering psycho-social wellness. Rated R for Resilience has several good toolkits: [https://sites.google.com/view/ratedr/toolkits](https://sites.google.com/view/ratedr/toolkits)
 
-* Discuss and define disclosure, comprehension, and voluntary participation.
-* Understand the effect of your institutional affiliation and positioning.
+Key question to self-care is knowing the answer to “what’s normal for you?”
 
-Tools and methods for good (ethical) can be used for bad (unethical).
+**Discuss Scenario 2.**
 
-Important questions to regularly ask:
+2. Students working with a Clinic partner NGO conduct interviews of employees to learn about the nature of threats to the organization. The NGO employees speak frankly about the threats or harms that face their organization or their colleagues, including telling the student teams about NGO colleagues that have been victims of sexual violence and murder.
+    4. How might students prepare for these types of discussions?
+    5. How might students handle possible triggers during a partner interaction, especially when other students seem unaffected?
+    6. How might students process (emotionally) and analyze (for work) the collected information?
 
-* Are you, your team, or your partner able to do this?
-* Are you, your team, or your partner willing to do this?
-* Do you, your team, or your partner have any conflicts of interest?
+**Discuss Scenario 3.**
+
+3. Students while researching a far-right wing extremist group may view violent and hateful content on online forums and social media. Some of the threats are very graphic, may include imagery (usually memes) and involve targeting people based on gender, sexuality, race, or ability.
+    7. How might students prepare for this type of research?
+    8. How might students identify their boundaries for the content that they view?
+    9. How might students process (emotionally) and analyze (for work) the collected information?
 
 ### ** Deepening **
 
-What should our Code of Ethics look like? (Vallor pg 48)
+**Discuss Scenario 4.**
+
+4. Security assistance providers often have a heightened fear of failure or the perception of failure given their position of providing security advice. Undue stress may affect students as they may adopt a protector role, wanting to ensure their recommendations are unrealistically “perfect” so that they don’t feel be responsible for the next attack against the partner NGO.
+    10. How might the Clinic avoid creating a zero-defect environment?
+    11. How might students maintain realistic expectations and/or “healthy anxiety” about
+    12. their recommendations?
+    13. How might students handle the stress of real-world work?
+    14. How might students process a future cyberattack to their partner NGO?
 
 ### ** Synthesis **
 
-Review the Citizen Clinic Code of Conduct.
-Highlights:
+Summarize the psychosocial harms stemming from trauma. Describe any particular resources that are available to Clinic students (such as access to mental healthcare providers using student insurance) and emphasize channels of communication to discuss concerns with Clinic staff.
 
-* Harassment and Discrimination
-* Operational Security
-* Confidentiality
-* Professionalism
-* Reporting
-
-
-### ** Assignments **
-
-Review and submit signed Code of Conduct.

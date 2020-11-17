@@ -10,7 +10,7 @@ This module describes how open source intelligence (or open source investigative
 
 ### ** Pre-Readings **
 
-* See Course Readings for ["Ethics and the Citizen Clinic Code of Conduct"](../../../Consolidated_Bibliography#osint)
+* See Course Readings for ["Open Source Research Methods, Safety, and Tools"](../../../Consolidated_Bibliography#osint)
 
 ### ** Resources **
 

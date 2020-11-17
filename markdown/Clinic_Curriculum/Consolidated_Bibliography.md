@@ -123,6 +123,8 @@ Travis Lishok, Protective Intelligence. “Part 2: An Introduction To OSINT Rese
 
 SECALERTS - Automated Security Audit [[https://secalerts.co/security-audit](https://secalerts.co/security-audit)]
 
+<div id="law"></div>
+
 ### **Security Law and Policy Factors**
 
 James C. Scott. “Seeing Like a State” - Chapter 9 [[https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf)]  
@@ -141,6 +143,8 @@ Bill Marczak and John Scott-Railton, Citizen Lab. “Keep Calm and (Don’t) Ena
 Nick Merrill, Daylight Security Research Lab. "Adversary Personas" [[https://daylight.berkeley.edu/adversary-personas/](https://daylight.berkeley.edu/adversary-personas/)]
 
 Microsoft’s STRIDE and related blog posts. [[https://cloudblogs.microsoft.com/microsoftsecure/2007/09/11/stride-chart/](https://cloudblogs.microsoft.com/microsoftsecure/2007/09/11/stride-chart/)]
+
+<div id="scenarios"></div>
 
 ### **Threat Scenario Development**
 
@@ -188,7 +192,11 @@ Rachel Weidinger et al. “How To Give A Digital Security Training” [[https://
 
 Rachel Weidinger et al. “Digital Security Training Resources for Security Trainers, Fall 2019 Edition” [[https://medium.com/cryptofriends/digital-security-training-resources-for-security-trainers-spring-2017-edition-e95d9e50065e](https://medium.com/cryptofriends/digital-security-training-resources-for-security-trainers-spring-2017-edition-e95d9e50065e)]
 
+<div id="resilience"></div>
+
 ### **Psychosocial Resilience**
+
+Rated R for Resilience resource site. [[https://sites.google.com/view/ratedr/basics](https://sites.google.com/view/ratedr/basics)] 
 
 Angela Chen. The Verge. “Moderating content doesn’t have to be so traumatic” [[https://www.theverge.com/2019/2/27/18243359/content-moderation-mental-health-ptsd-psychology-science-facebook](https://www.theverge.com/2019/2/27/18243359/content-moderation-mental-health-ptsd-psychology-science-facebook)]
 
@@ -196,7 +204,9 @@ Sam Dubberley and Michele Grant. First Draft. “Journalism and Vicarious Trauma
 
 Sarah Jeong, Charlie Warzel, Brianna Wu, Joan Donovan. New York Times. “Everything is GamerGate” [[https://www.nytimes.com/interactive/2019/08/15/opinion/gamergate-twitter.html](https://www.nytimes.com/interactive/2019/08/15/opinion/gamergate-twitter.html)] - **Read all of the four essays.**
 
-### **Beyond Hacking: Harmful Information (Misinformation and Harassment)**
+<div id="disinfo"></div>
+
+### **Harmful Information (Misinformation and Harassment)**
 
 Tahmina Ansari, First Draft. “This Muslim journalist embraced social media until it ‘ruined’ his life” [[https://firstdraftnews.org/this-muslim-journalist-embraced-social-media-until-it-ruined-his-life/](https://firstdraftnews.org/this-muslim-journalist-embraced-social-media-until-it-ruined-his-life/)]
 

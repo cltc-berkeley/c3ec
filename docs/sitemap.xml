@@ -76,6 +76,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/Threat_Scenarios/Threat_Scenarios/</loc>
+     <lastmod>2020-11-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/Behavioral_Security/Behavioral_Security/</loc>
      <lastmod>2020-11-17</lastmod>
      <changefreq>daily</changefreq>
@@ -87,6 +92,21 @@
     </url>
     <url>
      <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/Designing_Training/Designing_Training/</loc>
+     <lastmod>2020-11-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/Psychosocial_Resilience/Psychosocial_Resilience/</loc>
+     <lastmod>2020-11-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/Harmful_Information/Harmful_Information/</loc>
+     <lastmod>2020-11-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.citizenclinic.io/Clinic_Curriculum/Modules/Harmful_Information/Mitigation_Framework/</loc>
      <lastmod>2020-11-17</lastmod>
      <changefreq>daily</changefreq>
     </url>

@@ -1,78 +1,99 @@
 ### ** Summary **
 
-Module 2 introduces ethical considerations for clinical security work. Our look at ethics builds on the work of the Markulla Center for Applied Ethics, at Santa Clara University, and introduces a set of  ethical considerations and norms specific to the work of Citizen Clinic. (For more information, see [Citizen Clinic Code of Conduct](Student_Code_of_Conduct.md).)
+This module gives students the requisite framework to create threat scenarios to communicate risks facing their partner organizations. Threat scenarios help illuminate elements of organizations’ context that put them at risk, and provide more tangible description of threats we seek to prevent (as opposed to a more generic description that often appears in a threat map or model).
 
 ### ** Learning Objectives **
 
-* Identify ethically significant harms in cybersecurity (and the Clinic)
-* Identify ethical challenges in cybersecurity (and the Clinic)
-* Understand best practices for cybersecurity ethics including the three components of informed consent
-* Understand one's mandate to regularly consider the ethics of their position and work
+*   Understand how to use scenarios to develop and communicate threats.
+*   Understand and demonstrate what makes a “good” threat scenario.
+*   Learn the limitations of threat scenarios.
 
 ### ** Pre-Readings **
 
-* See Course Readings for ["Ethics and the Citizen Clinic Code of Conduct"](../../../Consolidated_Bibliography#ethics)
+* See Course Readings for ["Threat Scenario Development"](../../../Consolidated_Bibliography#scenarios)
 
-### ** Resources **
-
-* [Citizen Clinic Code of Conduct](Student_Code_of_Conduct.md)
 
 ### ** Activities **
 
-Read pages 7-21 & 48-52 of “An Introduction to Cybersecurity Ethics” (Shannon Vallor, The Markkula Center for Applied Ethics) [https://www.scu.edu/media/ethics-center/technology-ethics/IntroToCybersecurityEthics.pdf] Prepare answers to questions on pages 13-15 and page 53 for discussion.
+Combining risks and context. 
 
-Question 1.1: What risks of ethically significant harm, as defined in Part One, are involved in this case? Who could be harmed if Leslie makes poor choices in this situation, and how? What potential benefits to others should she consider in thinking about BioHack’s proposal?
+Describe the following scenario to your students:
 
-Question 1.2: Beyond the specific harms noted in your answer to 1.1, what are some ethical concerns that Leslie should have about the proposed arrangement with BioHack? Are there any ethical ‘red flags’ she should notice?
+Your partner works with an at-risk population providing a sensitive service. They want to conduct a survey of their community of interest to determine how to improve the service they provide.  Where do you start in your assessment? (For example, do you want to know the operating system of all of their phones? Do you need to know what email client they’re using?)
 
-Question 5.1: Of these 12 best practices for cybersecurity ethics, which two do you think are the most challenging to carry out? What do you think could be done (by an individual, team, or organization) to make those practices easier?
+Next, describe the following two contexts:
+
+What if...
+
+*   The partner provides reproductive health services to women in rural Texas?
+*   The partner provides information about troop/militant movements to journalists in Myanmar? 
+
+How are these situations different? How are they the same? What are the most urgent things you need to know?
 
 ### ** Discussion **
 
-What ethically significant harms should we consider?
+Remember that risk is not just a factor of likelihood and impact. A holistic approach also includes consideration of urgency (availability, dependencies), requirements (legal, contractual), and incentives (funding, opportunities) of the context.
 
-What ethical challenges (Vallor pg 15-20) might we encounter?
+Comparing our answers from the activity, how can we check whether we are focused on “the right risks?” 
+
+How can we communicate to others that the threats considered are impactful and feasible?
 
 
 ### ** Input **
 
-Consider “First, do no harm”... 
+Without an understanding of the details of how and when a threat may be realized, it can be difficult to determine and communicate why various threats matter to an organization.
 
-...but discuss the limitations of that guiding principle.
+While personas help describe:
 
-We should be intentional about the decisions we make and intervene in ways that will not make the situation worse. 
-Ultimately, the organization and its well-being should be your primary concern. However, you also have a duty to yourself, your family, and your team members. Sometimes it may seem like there are no good answers (for instance, doing nothing because there might be risk is not a resolution).
-If we view our interventions as already raising the risks for our partners and ourselves, what can we actively do to mitigate that? 
+* The Who (description), 
 
-Informed Consent
+* The Why (motivation/goals), and 
 
-* Discuss and define disclosure, comprehension, and voluntary participation.
-* Understand the effect of your institutional affiliation and positioning.
+* The What (resources/capabilities) for an adversary, 
 
-Tools and methods for good (ethical) can be used for bad (unethical).
+Threat Scenarios help describe:
 
-Important questions to regularly ask:
+* The How (tactics/playbook), 
 
-* Are you, your team, or your partner able to do this?
-* Are you, your team, or your partner willing to do this?
-* Do you, your team, or your partner have any conflicts of interest?
+* The When (conditions) of an attack against your partner organization, and 
+
+* The Why it matters.
+
+Scenarios help illuminate elements of organizations’ context that put them at risk, and provide more tangible description of threats we seek to prevent (as opposed to a more generic description that often appears in a threat map or model).
+
+Good scenarios have a few key characteristics:
+
+*   They are simple - involving a limited number of actors and devices
+*   They are likely - the attack involved is not particularly exotic or well outside the expected attack vectors of an organization
+*   They are meaningful - the results of the scenario have significant impact on the organization or individuals affiliated with it
+
+A good scenario describes a few consistent elements - threat actors, threat vectors, and the potential impact of an exploited system or vulnerability. The scenario should be described in a narrative format, and be no longer than a paragraph. A few examples are below:
+
+**_Border Security_**
+
+_Government orders border security agents to confiscate [ORGANIZATION] employees’ devices when they cross border security. [ORGANIZATION] called for investigations into [GOVERNMENT ENTITY]’s allegations that it had never used malware against activists. The [GOVERNMENT ENTITY] is concerned about [ORGANIZATION]’s litigation and public calls for action and want to disrupt [ORGANIZATION]’s operations and silence its employees. These government bodies have ordered border security agents to look out for [ORGANIZATION] employees when they leave or return to [COUNTRY OF ORIGIN] and search or confiscate their devices on the pretext that they pose a threat. [RECOMMENDED MITIGATION]._
+
+**_Account Compromise_**
+
+_Elizabeth is a well-known activist in [COUNTRY] who uses Facebook and Facebook Messenger to communicate with others and defend their community against oil exploitation. They often use Facebook to create public posts and organize community meetings and protests. One day, Elizabeth tries to log into their Facebook account and receives a notification that their password is incorrect. They try to change their password but discover that their recovery email address has been changed as well. Elizabeth’s family and friends are sent offensive messages from their hijacked account, and public posts defaming their character are created by their impersonator. After this incident, Elizabeth is no longer able to continue their activism work and loses the trust they have built through their online presence. [RECOMMENDED MITIGATION]._
+
+These scenarios tell a story and allow us to explore the potential actions of a threat actor, and examine how different controls might (or might not) make a meaningful difference.
 
 ### ** Deepening **
 
-What should our Code of Ethics look like? (Vallor pg 48)
+Each student or student team should create two to three threat scenarios (no more than a paragraph each) that help us imagine a specific incident that could take place in an organization's systems, or in systems closely affiliated to the organization or its staff, partners, or community. 
+
+Each group will share the “highest priority” threat scenario they have developed for class discussion.
 
 ### ** Synthesis **
 
-Review the Citizen Clinic Code of Conduct.
-Highlights:
+Revisit the purpose for threat scenarios: 
 
-* Harassment and Discrimination
-* Operational Security
-* Confidentiality
-* Professionalism
-* Reporting
+What do scenarios and personas demonstrate to our client? How are we advocating here? 
+
+Why can’t we just use scenarios then? Why not just skip threat modeling/mapping, etc.?
 
 
 ### ** Assignments **
 
-Review and submit signed Code of Conduct.
+Threat Scenarios. Continue to refine and develop the partner threat scenarios.
