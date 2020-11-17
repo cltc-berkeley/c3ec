@@ -74,8 +74,8 @@ Work product, communications, and other partner-facing materials you may produce
 
 Please report any issues related to the Code of Conduct to:
 
-*   Faculty or staff member
-*   Faculty or staff member
+* Faculty or staff member
+* Faculty or staff member  
 
 Please speak to us if you encounter an issue—whether related to a specific situation or to a more general aspect of the Citizen Clinic. You can contact the Citizen Clinic staff team as a group or individually, in person or by email.
 
