@@ -1,15 +1,22 @@
 # Citizen Clinic Cybersecurity Education Center
 
-To modify this site and reupload: You will need to make changes to the Markdown files contained in the "markdown" folder.
+## install
 
-Do **not** change the HTML in the docs folder.
+```
+cd c3ec
+python3 -m venv venv
+source venv/bin/activate
+pip3 install mkdocs mkdocs-material mkdocs-git-revision-date-localized-plugin
+```
 
-After modifying the markdown files or YAML to your needs, you must build the site using mkdocs & material.
+## update pages
 
-Follow the instructions listed here to install:
+- Make changes to .md files.
+- Build the HTML:
 
-https://www.mkdocs.org/
-
-https://squidfunk.github.io/mkdocs-material/getting-started/
-
-Once in the main folder, run 'python3 -m mkdocs build' and the new site HTML will be generated into the "docs" folder.
+```
+source venv/bin/activate
+python3 -m mkdocs build
+git commit -am "update"
+git push
+```
