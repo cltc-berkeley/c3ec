@@ -18,5 +18,5 @@ pip3 install mkdocs mkdocs-material mkdocs-git-revision-date-localized-plugin
 source venv/bin/activate
 python3 -m mkdocs build
 git commit -am "update"
-git push
+git push -uf
 ```
